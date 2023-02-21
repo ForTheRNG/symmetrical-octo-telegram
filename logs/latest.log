@@ -1,131 +1,38 @@
-[21:07:57] [ServerMain/INFO]: Building unoptimized datafixer
-[21:07:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:08:01] [ServerMain/INFO]: Loaded 7 recipes
-[21:08:01] [ServerMain/INFO]: Loaded 1179 advancements
-[21:08:03] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[21:08:03] [Server thread/INFO]: Loading properties
-[21:08:03] [Server thread/INFO]: Default game type: SURVIVAL
-[21:08:03] [Server thread/INFO]: Generating keypair
-[21:08:03] [Server thread/INFO]: Starting Minecraft server on *:6969
-[21:08:03] [Server thread/INFO]: Using default channel type
-[21:08:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:08:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:08:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:08:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:08:04] [Server thread/INFO]: Preparing level "world"
-[21:08:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:08:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:08:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:08:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:08:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:08:10] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[21:08:11] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[21:08:11] [Worker-Main-4/INFO]: Preparing spawn area: 93%
-[21:08:11] [Server thread/INFO]: Time elapsed: 6057 ms
-[21:08:11] [Server thread/INFO]: Done (7.837s)! For help, type "help"
-[21:08:13] [Server thread/INFO]: mach3tryhard[/188.27.178.1:60297] logged in with entity id 421 at (-57.04793251004432, 98.0, -208.42414942142128)
-[21:08:13] [Server thread/INFO]: mach3tryhard joined the game
-[21:11:40] [Server thread/INFO]: Ra1302[/79.114.172.12:61390] logged in with entity id 1869 at (-53.38927350956459, 123.0, -88.5714231208221)
-[21:11:40] [Server thread/INFO]: Ra1302 joined the game
-[21:17:04] [Server thread/INFO]: ForTheRNG[/188.27.178.1:49191] logged in with entity id 4373 at (-8.626097615400766, 8.76636799395752, -65.51334555196834)
-[21:17:04] [Server thread/INFO]: ForTheRNG joined the game
-[21:17:13] [Server thread/INFO]: Ra1302 has made the advancement [Acquire Hardware]
-[21:17:33] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[21:17:33] [Server thread/INFO]: ForTheRNG left the game
-[21:17:40] [Server thread/INFO]: Pandalf_[/82.76.173.82:52620] logged in with entity id 4498 at (-47.71754792893425, 123.0, -97.59457202788765)
-[21:17:40] [Server thread/INFO]: Pandalf_ joined the game
-[21:17:53] [Server thread/INFO]: ForTheRNG[/188.27.178.1:49219] logged in with entity id 4537 at (-8.626097615400766, 8.76636799395752, -65.51334555196834)
-[21:17:53] [Server thread/INFO]: ForTheRNG joined the game
-[21:18:07] [Server thread/INFO]: [Not Secure] <Pandalf_> ma doare fpsurile
-[21:18:17] [Server thread/INFO]: [Not Secure] <Pandalf_> stiu
-[21:18:41] [Server thread/INFO]: [Not Secure] <Pandalf_> esti un negru
-[21:18:59] [Server thread/INFO]: [Not Secure] <Pandalf_> deci cum dai ping?
-[21:20:13] [Server thread/INFO]: [Not Secure] <Pandalf_> se numesc fratii nostri
-[21:21:02] [Server thread/INFO]: [Not Secure] <Pandalf_> mending aici
-[21:21:08] [Server thread/INFO]: mach3tryhard has made the advancement [Diamonds!]
-[21:21:38] [Server thread/INFO]: [Not Secure] <Pandalf_> da ralu unde e?
-[21:22:02] [Server thread/INFO]: [Not Secure] <Pandalf_> nu am reusit sa dau spray
-[21:22:06] [Server thread/INFO]: [Not Secure] <Pandalf_> am intrat in chat
-[21:22:16] [Server thread/INFO]: [Not Secure] <Pandalf_> mircea seamana cu sora mea
-[21:23:02] [Server thread/INFO]: [Not Secure] <Pandalf_> ce e aia redstone
-[21:23:06] [Server thread/INFO]: [Not Secure] <Pandalf_> nu folosesc asa cv
-[21:23:20] [Server thread/INFO]: [Not Secure] <Pandalf_> deci unde e ralu?
-[21:23:29] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[21:23:29] [Server thread/INFO]: mach3tryhard left the game
-[21:23:29] [Server thread/INFO]: [Not Secure] <Pandalf_> wdym
-[21:23:34] [Server thread/INFO]: [Not Secure] <Pandalf_> gainile sunt in casa
-[21:24:13] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[21:24:13] [Server thread/INFO]: Pandalf_ left the game
-[21:34:36] [Server thread/INFO]: [Not Secure] <Ra1302> 307 197
-[21:38:07] [Server thread/INFO]: Ra1302 has made the advancement [Isn't It Iron Pick]
-[21:43:38] [Server thread/INFO]: Ra1302 has made the advancement [The Cutest Predator]
-[21:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[21:53:54] [Server thread/INFO]: Ra1302 lost connection: Disconnected
-[21:53:54] [Server thread/INFO]: Ra1302 left the game
-[21:53:57] [Server thread/INFO]: mach3tryhard[/188.27.178.1:51551] logged in with entity id 22307 at (-136.82665959150478, 72.0, -163.57709701981136)
-[21:53:57] [Server thread/INFO]: mach3tryhard joined the game
-[21:55:56] [Server thread/INFO]: mach3tryhard has made the advancement [Suit Up]
-[21:56:43] [Server thread/INFO]: mach3tryhard has made the advancement [Ice Bucket Challenge]
-[21:57:55] [Server thread/INFO]: Ra1302[/79.114.172.12:50805] logged in with entity id 24724 at (238.74925817998238, -16.0, 165.18661649802186)
-[21:57:55] [Server thread/INFO]: Ra1302 joined the game
-[22:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[22:08:40] [Server thread/INFO]: Ra1302 has made the advancement [Suit Up]
-[22:08:48] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[22:08:48] [Server thread/INFO]: ForTheRNG left the game
-[22:10:10] [Server thread/INFO]: ForTheRNG[/188.27.178.1:60139] logged in with entity id 30995 at (-54.38736680810776, 123.0, -89.80022350614672)
-[22:10:10] [Server thread/INFO]: ForTheRNG joined the game
-[22:14:15] [Server thread/INFO]: me_vs_me[/188.27.178.1:55615] logged in with entity id 32029 at (-10.5, 72.0, 26.5)
-[22:14:15] [Server thread/INFO]: me_vs_me joined the game
-[22:15:53] [Server thread/INFO]: ForTheRNG fell from a high place
-[22:15:57] [Server thread/INFO]: [Not Secure] <me_vs_me> nice
-[22:16:07] [Server thread/INFO]: [Not Secure] <me_vs_me> irl simulator
-[22:16:57] [Server thread/INFO]: me_vs_me has made the advancement [Stone Age]
-[22:17:32] [Server thread/INFO]: me_vs_me has made the advancement [Getting an Upgrade]
-[22:18:42] [Server thread/INFO]: me_vs_me has made the advancement [Acquire Hardware]
-[22:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[22:25:19] [Server thread/INFO]: me_vs_me has made the advancement [Isn't It Iron Pick]
-[22:25:25] [Server thread/INFO]: me_vs_me has made the advancement [Diamonds!]
-[22:25:48] [Server thread/INFO]: Ra1302 has made the advancement [The Parrots and the Bats]
-[22:28:29] [Server thread/INFO]: me_vs_me has made the advancement [Monster Hunter]
-[22:29:25] [Server thread/INFO]: me_vs_me has made the advancement [Suit Up]
-[22:32:18] [Server thread/INFO]: Ra1302 lost connection: Disconnected
-[22:32:18] [Server thread/INFO]: Ra1302 left the game
-[22:34:43] [Server thread/INFO]: me_vs_me has made the advancement [Not Today, Thank You]
-[22:38:01] [Server thread/INFO]: me_vs_me has made the advancement [Ice Bucket Challenge]
-[22:41:18] [Server thread/INFO]: me_vs_me has made the advancement [We Need to Go Deeper]
-[22:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:43:02] [Server thread/INFO]: [Not Secure] <me_vs_me> 5 47 33
-[22:48:55] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[22:48:55] [Server thread/INFO]: me_vs_me left the game
-[22:48:57] [Server thread/INFO]: me_vs_me[/188.27.178.1:64237] logged in with entity id 49478 at (-110.5159756014616, 44.0, -112.69468788980043)
-[22:48:57] [Server thread/INFO]: me_vs_me joined the game
-[22:52:47] [Server thread/INFO]: [Not Secure] <me_vs_me> 5 47 33
-[22:57:30] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[22:57:30] [Server thread/INFO]: mach3tryhard left the game
-[22:57:38] [Server thread/INFO]: mach3tryhard[/188.27.178.1:56858] logged in with entity id 55109 at (-55.490319596698015, 28.0, -134.3260553758798)
-[22:57:38] [Server thread/INFO]: mach3tryhard joined the game
-[22:58:14] [Server thread/INFO]: [Not Secure] <me_vs_me> 5 47 33
-[22:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[22:59:15] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[22:59:15] [Server thread/INFO]: mach3tryhard left the game
-[23:00:48] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[23:00:48] [Server thread/INFO]: ForTheRNG left the game
-[23:01:02] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[23:01:02] [Server thread/INFO]: me_vs_me left the game
-[23:01:27] [Server thread/INFO]: Stopping server
-[23:01:27] [Server thread/INFO]: Saving players
-[23:01:27] [Server thread/INFO]: Saving worlds
-[23:01:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:01:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:01:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:01:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:01:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:01:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:01:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:51:04] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[01:51:07] [ServerMain/INFO]: Building unoptimized datafixer
+[01:51:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:51:10] [ServerMain/INFO]: Loaded 7 recipes
+[01:51:10] [ServerMain/INFO]: Loaded 1179 advancements
+[01:51:11] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[01:51:11] [Server thread/INFO]: Loading properties
+[01:51:11] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:11] [Server thread/INFO]: Generating keypair
+[01:51:11] [Server thread/INFO]: Starting Minecraft server on *:6969
+[01:51:11] [Server thread/INFO]: Using default channel type
+[01:51:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:51:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:51:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:51:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:51:11] [Server thread/INFO]: Preparing level "world"
+[01:51:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:15] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[01:51:15] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[01:51:16] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[01:51:16] [Server thread/INFO]: Time elapsed: 3973 ms
+[01:51:16] [Server thread/INFO]: Done (4.961s)! For help, type "help"
+[01:51:18] [Server thread/INFO]: Stopping the server
+[01:51:18] [Server thread/INFO]: Stopping server
+[01:51:18] [Server thread/INFO]: Saving players
+[01:51:18] [Server thread/INFO]: Saving worlds
+[01:51:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:51:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:51:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:51:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
