@@ -4,7 +4,7 @@ rem elevate if not done already
 net session 1>NUL 2>&1
 if "%ERRORLEVEL%"=="0" goto :startup
 echo powershell -c Start-Process -Wait -Verb RunAs -WindowStyle Maximized '"%~f0" %*'
-powershell -c Start-Process -Wait -Verb RunAs -WindowStyle Maximized '"%~f0" %*'
+powershell -c Start-Process -Wait -Verb RunAs -WindowStyle Maximized -FilePath "%~f0" -Args '%*'
 exit /b %ERRORLEVEL%
 
 :startup
