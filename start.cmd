@@ -2,8 +2,9 @@
 
 rem figure out ram allocated
 cd /d %~dp0
-set RAM=4096
-if defined %~1 set RAM=%~1
+set RAM=%~1
+if not defined %RAM% set RAM=4096
+echo RAM allocated: %RAM%
 
 rem start server
 echo on
