@@ -1,126 +1,159 @@
-[19:48:33] [ServerMain/INFO]: Building unoptimized datafixer
-[19:48:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:48:39] [ServerMain/INFO]: Loaded 7 recipes
-[19:48:39] [ServerMain/INFO]: Loaded 1179 advancements
-[19:48:41] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[19:48:41] [Server thread/INFO]: Loading properties
-[19:48:41] [Server thread/INFO]: Default game type: SURVIVAL
-[19:48:41] [Server thread/INFO]: Generating keypair
-[19:48:41] [Server thread/INFO]: Starting Minecraft server on *:6969
-[19:48:41] [Server thread/INFO]: Using default channel type
-[19:48:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:48:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:48:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:48:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:48:42] [Server thread/INFO]: Preparing level "world"
-[19:48:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:48:56] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[19:48:57] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[19:48:57] [Worker-Main-3/INFO]: Preparing spawn area: 87%
-[19:48:57] [Server thread/INFO]: Time elapsed: 10336 ms
-[19:48:57] [Server thread/INFO]: Done (15.694s)! For help, type "help"
-[19:49:47] [Server thread/INFO]: /advancement (grant|revoke)
-[19:49:47] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[19:49:47] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[19:49:47] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[19:49:47] [Server thread/INFO]: /clear [<targets>]
-[19:49:47] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[19:49:47] [Server thread/INFO]: /data (merge|get|remove|modify)
-[19:49:47] [Server thread/INFO]: /datapack (enable|disable|list)
-[19:49:47] [Server thread/INFO]: /debug (start|stop|function)
-[19:49:47] [Server thread/INFO]: /defaultgamemode <gamemode>
-[19:49:47] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[19:49:47] [Server thread/INFO]: /effect (clear|give)
-[19:49:47] [Server thread/INFO]: /me <action>
-[19:49:47] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[19:49:47] [Server thread/INFO]: /experience (add|set|query)
-[19:49:47] [Server thread/INFO]: /xp -> experience
-[19:49:47] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[19:49:47] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[19:49:47] [Server thread/INFO]: /forceload (add|remove|query)
-[19:49:47] [Server thread/INFO]: /function <name>
-[19:49:47] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[19:49:47] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[19:49:47] [Server thread/INFO]: /give <targets> <item> [<count>]
-[19:49:47] [Server thread/INFO]: /help [<command>]
-[19:49:47] [Server thread/INFO]: /item (replace|modify)
-[19:49:47] [Server thread/INFO]: /kick <targets> [<reason>]
-[19:49:47] [Server thread/INFO]: /kill [<targets>]
-[19:49:47] [Server thread/INFO]: /list [uuids]
-[19:49:47] [Server thread/INFO]: /locate (structure|biome|poi)
-[19:49:47] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[19:49:47] [Server thread/INFO]: /msg <targets> <message>
-[19:49:47] [Server thread/INFO]: /tell -> msg
-[19:49:47] [Server thread/INFO]: /w -> msg
-[19:49:47] [Server thread/INFO]: /particle <name> [<pos>]
-[19:49:47] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[19:49:47] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[19:49:47] [Server thread/INFO]: /reload
-[19:49:47] [Server thread/INFO]: /recipe (give|take)
-[19:49:47] [Server thread/INFO]: /say <message>
-[19:49:47] [Server thread/INFO]: /schedule (function|clear)
-[19:49:47] [Server thread/INFO]: /scoreboard (objectives|players)
-[19:49:47] [Server thread/INFO]: /seed
-[19:49:47] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[19:49:47] [Server thread/INFO]: /spawnpoint [<targets>]
-[19:49:47] [Server thread/INFO]: /setworldspawn [<pos>]
-[19:49:47] [Server thread/INFO]: /spectate [<target>]
-[19:49:47] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[19:49:47] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[19:49:47] [Server thread/INFO]: /summon <entity> [<pos>]
-[19:49:47] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[19:49:47] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[19:49:47] [Server thread/INFO]: /teammsg <message>
-[19:49:47] [Server thread/INFO]: /tm -> teammsg
-[19:49:47] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[19:49:47] [Server thread/INFO]: /tp -> teleport
-[19:49:47] [Server thread/INFO]: /tellraw <targets> <message>
-[19:49:47] [Server thread/INFO]: /time (set|add|query)
-[19:49:47] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[19:49:47] [Server thread/INFO]: /trigger <objective> [add|set]
-[19:49:47] [Server thread/INFO]: /weather (clear|rain|thunder)
-[19:49:47] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[19:49:47] [Server thread/INFO]: /jfr (start|stop)
-[19:49:47] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[19:49:47] [Server thread/INFO]: /banlist [ips|players]
-[19:49:47] [Server thread/INFO]: /ban <targets> [<reason>]
-[19:49:47] [Server thread/INFO]: /deop <targets>
-[19:49:47] [Server thread/INFO]: /op <targets>
-[19:49:47] [Server thread/INFO]: /pardon <targets>
-[19:49:47] [Server thread/INFO]: /pardon-ip <target>
-[19:49:47] [Server thread/INFO]: /perf (start|stop)
-[19:49:47] [Server thread/INFO]: /save-all [flush]
-[19:49:47] [Server thread/INFO]: /save-off
-[19:49:47] [Server thread/INFO]: /save-on
-[19:49:47] [Server thread/INFO]: /setidletimeout <minutes>
-[19:49:47] [Server thread/INFO]: /stop
-[19:49:47] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[19:51:36] [Server thread/INFO]: Stopping the server
-[19:51:36] [Server thread/INFO]: Stopping server
-[19:51:36] [Server thread/INFO]: Saving players
-[19:51:36] [Server thread/INFO]: Saving worlds
-[19:51:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:51:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:51:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:51:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:56:55] [ServerMain/INFO]: Building unoptimized datafixer
+[19:56:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:57:01] [ServerMain/INFO]: Loaded 7 recipes
+[19:57:01] [ServerMain/INFO]: Loaded 1179 advancements
+[19:57:02] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[19:57:03] [Server thread/INFO]: Loading properties
+[19:57:03] [Server thread/INFO]: Default game type: SURVIVAL
+[19:57:03] [Server thread/INFO]: Generating keypair
+[19:57:03] [Server thread/INFO]: Starting Minecraft server on *:6969
+[19:57:03] [Server thread/INFO]: Using default channel type
+[19:57:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:57:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:57:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:57:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:57:03] [Server thread/INFO]: Preparing level "world"
+[19:57:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:57:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:57:19] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[19:57:20] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[19:57:20] [Worker-Main-2/INFO]: Preparing spawn area: 76%
+[19:57:21] [Server thread/INFO]: Time elapsed: 10020 ms
+[19:57:21] [Server thread/INFO]: Done (17.107s)! For help, type "help"
+[19:58:07] [Server thread/INFO]: ForTheRNG[/86.127.151.84:61723] logged in with entity id 559 at (-59.2225042082858, 96.0, -188.17102751453837)
+[19:58:07] [Server thread/INFO]: ForTheRNG joined the game
+[19:58:08] [Server thread/WARN]: UUID of added entity already exists: bqk['Sheep'/602, l='ServerLevel[world]', x=-109.96, y=77.00, z=-160.95]
+[19:58:08] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/603, l='ServerLevel[world]', x=-111.20, y=77.00, z=-161.86]
+[19:58:08] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/605, l='ServerLevel[world]', x=-110.93, y=77.00, z=-160.95]
+[19:58:08] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/609, l='ServerLevel[world]', x=-111.90, y=77.00, z=-160.95]
+[19:58:08] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/610, l='ServerLevel[world]', x=-109.96, y=77.00, z=-160.01]
+[19:58:09] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/674, l='ServerLevel[world]', x=-114.07, y=77.00, z=-161.86]
+[19:58:09] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/675, l='ServerLevel[world]', x=-113.08, y=77.00, z=-161.86]
+[19:58:09] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/676, l='ServerLevel[world]', x=-112.88, y=77.00, z=-160.90]
+[19:58:09] [Server thread/WARN]: UUID of added entity already exists: bpv['Cow'/679, l='ServerLevel[world]', x=-113.98, y=77.00, z=-160.86]
+[19:58:09] [Server thread/WARN]: UUID of added entity already exists: bpt['Chicken'/682, l='ServerLevel[world]', x=-118.45, y=80.00, z=-168.12]
+[19:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:00:30] [Server thread/INFO]: me_vs_me[/86.127.151.84:53136] logged in with entity id 1723 at (204.4958808383095, 71.0, 28.621122141032806)
+[20:00:30] [Server thread/INFO]: me_vs_me joined the game
+[20:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:00:39] [Server thread/INFO]: [Not Secure] <me_vs_me> suckaniggadick
+[20:00:52] [Server thread/WARN]: UUID of added entity already exists: btt['Enderman'/2134, l='ServerLevel[world]', x=-86.44, y=70.00, z=19.07]
+[20:00:53] [Server thread/WARN]: UUID of added entity already exists: btt['Enderman'/2136, l='ServerLevel[world]', x=-81.27, y=103.00, z=-130.48]
+[20:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:00:57] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[20:00:57] [Server thread/INFO]: ForTheRNG left the game
+[20:01:03] [Server thread/INFO]: ForTheRNG[/86.127.151.84:58783] logged in with entity id 2179 at (-101.7611049382589, 75.0, -151.37870193850077)
+[20:01:03] [Server thread/INFO]: ForTheRNG joined the game
+[20:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[20:01:35] [Server thread/INFO]: me_vs_me has made the advancement [Those Were the Days]
+[20:01:40] [Server thread/INFO]: me_vs_me has made the advancement [War Pigs]
+[20:01:43] [Server thread/INFO]: me_vs_me has made the advancement [Hidden in the Depths]
+[20:04:34] [Server thread/INFO]: me_vs_me has made the advancement [Who is Cutting Onions?]
+[20:30:08] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:30:08] [Server thread/INFO]: me_vs_me left the game
+[20:41:59] [Server thread/INFO]: me_vs_me[/86.127.151.84:62091] logged in with entity id 22252 at (25.629191847108988, 55.22313136684578, -14.978589451265275)
+[20:41:59] [Server thread/INFO]: me_vs_me joined the game
+[20:42:03] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:42:03] [Server thread/INFO]: me_vs_me left the game
+[20:42:05] [Server thread/INFO]: me_vs_me[/86.127.151.84:62108] logged in with entity id 22465 at (25.629191847108988, 27.0140933685316, -14.978589451265275)
+[20:42:05] [Server thread/INFO]: me_vs_me joined the game
+[20:42:08] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:42:08] [Server thread/INFO]: me_vs_me left the game
+[20:43:01] [Server thread/INFO]: me_vs_me[/86.127.151.84:62146] logged in with entity id 22875 at (25.629191847108988, 23.60012498189509, -14.978589451265275)
+[20:43:01] [Server thread/INFO]: me_vs_me joined the game
+[20:43:03] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:03] [Server thread/INFO]: me_vs_me left the game
+[20:43:05] [Server thread/INFO]: me_vs_me[/86.127.151.84:62161] logged in with entity id 23046 at (25.629191847108988, 23.279999989941714, -14.978589451265275)
+[20:43:05] [Server thread/INFO]: me_vs_me joined the game
+[20:43:08] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:08] [Server thread/INFO]: me_vs_me left the game
+[20:43:38] [Server thread/INFO]: me_vs_me[/86.127.151.84:62185] logged in with entity id 23320 at (25.629191847108988, 23.464999987259507, -14.978589451265275)
+[20:43:38] [Server thread/INFO]: me_vs_me joined the game
+[20:43:40] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:40] [Server thread/INFO]: me_vs_me left the game
+[20:43:42] [Server thread/INFO]: me_vs_me[/86.127.151.84:62201] logged in with entity id 23487 at (25.629191847108988, 23.119999993517993, -14.978589451265275)
+[20:43:42] [Server thread/INFO]: me_vs_me joined the game
+[20:43:44] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:44] [Server thread/INFO]: me_vs_me left the game
+[20:43:46] [Server thread/INFO]: me_vs_me[/86.127.151.84:62214] logged in with entity id 23691 at (25.629191847108988, 23.682499980106947, -14.978589451265275)
+[20:43:46] [Server thread/INFO]: me_vs_me joined the game
+[20:43:50] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:50] [Server thread/INFO]: me_vs_me left the game
+[20:43:52] [Server thread/INFO]: me_vs_me[/86.127.151.84:62228] logged in with entity id 23864 at (25.629191847108988, 23.131796866729857, -14.978589451265275)
+[20:43:52] [Server thread/INFO]: me_vs_me joined the game
+[20:43:57] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:43:57] [Server thread/INFO]: me_vs_me left the game
+[20:44:00] [Server thread/INFO]: me_vs_me[/86.127.151.84:62243] logged in with entity id 24099 at (25.629191847108988, 24.966130801525896, -14.978589451265275)
+[20:44:00] [Server thread/INFO]: me_vs_me joined the game
+[20:44:04] [Server thread/INFO]: me_vs_me tried to swim in lava
+[20:44:11] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[20:44:11] [Server thread/INFO]: me_vs_me left the game
+[22:46:37] [Server thread/INFO]: me_vs_me[/86.127.151.84:56553] logged in with entity id 58199 at (-51.69285565797609, 123.0, -83.58157093343056)
+[22:46:37] [Server thread/INFO]: me_vs_me joined the game
+[22:49:43] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[22:49:43] [Server thread/INFO]: me_vs_me left the game
+[22:58:06] [Server thread/INFO]: mach3tryhard[/86.127.151.84:51542] logged in with entity id 61257 at (-1.6593375113360211, 90.0, -60.14097874239843)
+[22:58:06] [Server thread/INFO]: mach3tryhard joined the game
+[23:06:18] [Server thread/INFO]: Pandalf_[/82.76.173.82:53141] logged in with entity id 64930 at (-54.129009016957326, 123.0, -80.86250001192093)
+[23:06:18] [Server thread/INFO]: Pandalf_ joined the game
+[23:06:36] [Server thread/INFO]: [Not Secure] <Pandalf_> mache :D
+[23:06:50] [Server thread/INFO]: [Not Secure] <Pandalf_> am efectiv 3 fpsuri
+[23:06:59] [Server thread/INFO]: [Not Secure] <mach3tryhard> la mine e bineee
+[23:07:14] [Server thread/INFO]: [Not Secure] <Pandalf_> fcking valorant
+[23:07:20] [Server thread/INFO]: [Not Secure] <Pandalf_> ocupa 40% din cpu
+[23:07:51] [Server thread/INFO]: [Not Secure] <Pandalf_> udne sunteti?
+[23:08:01] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[23:10:03] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv facem un bloc aici
+[23:10:40] [Server thread/INFO]: [Not Secure] <Pandalf_> mache pica cumva putin sv?
+[23:10:50] [Server thread/INFO]: [Not Secure] <Pandalf_> ca gen te cam teleportezo
+[23:10:58] [Server thread/INFO]: [Not Secure] <Pandalf_> te misti sacadat
+[23:13:43] [Server thread/INFO]: [Not Secure] <Pandalf_> atunci iau eu etajul de dark wood pls?
+[23:14:00] [Server thread/INFO]: [Not Secure] <Pandalf_> stiu dar vreau o culoare mai inchisa a lemnului
+[23:14:04] [Server thread/INFO]: [Not Secure] <Pandalf_> si doar aia e libera
+[23:14:35] [Server thread/INFO]: [Not Secure] <Pandalf_> o sa fim semivecini
+[23:14:44] [Server thread/INFO]: [Not Secure] <Pandalf_> uite avem si gaura comuna
+[23:15:37] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv imi iau dmg cu 3 tickuri mai tarziue
+[23:15:40] [Server thread/INFO]: [Not Secure] <Pandalf_> tarziu
+[23:15:50] [Server thread/INFO]: [Not Secure] <Pandalf_> avem toti ping slab pe sv
+[23:15:51] [Server thread/INFO]: [Not Secure] <Pandalf_> dc?
+[23:16:02] [Server thread/INFO]: [Not Secure] <Pandalf_> idk da
+[23:16:45] [Server thread/INFO]: [Not Secure] <Pandalf_> da dar gen
+[23:16:51] [Server thread/INFO]: [Not Secure] <Pandalf_> e nimic acm
+[23:16:57] [Server thread/INFO]: [Not Secure] <Pandalf_> si e foarte mare
+[23:17:16] [Server thread/INFO]: [Not Secure] <Pandalf_> ok if
+[23:17:27] [Server thread/INFO]: [Not Secure] <Pandalf_> ig
+[23:18:02] [Server thread/INFO]: [Not Secure] <Pandalf_> arata ciudat
+[23:18:07] [Server thread/INFO]: [Not Secure] <Pandalf_> ciudad de mexico
+[23:19:41] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[23:19:41] [Server thread/INFO]: ForTheRNG left the game
+[23:19:46] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[23:19:46] [Server thread/INFO]: Pandalf_ left the game
+[23:19:51] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[23:19:51] [Server thread/INFO]: mach3tryhard left the game
+[23:20:20] [Server thread/INFO]: Stopping the server
+[23:20:20] [Server thread/INFO]: Stopping server
+[23:20:20] [Server thread/INFO]: Saving players
+[23:20:20] [Server thread/INFO]: Saving worlds
+[23:20:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:20:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:20:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
