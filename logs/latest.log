@@ -1,120 +1,39 @@
-[23:25:43] [ServerMain/INFO]: Building unoptimized datafixer
-[23:25:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:25:49] [ServerMain/INFO]: Loaded 7 recipes
-[23:25:50] [ServerMain/INFO]: Loaded 1179 advancements
-[23:25:51] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[23:25:51] [Server thread/INFO]: Loading properties
-[23:25:51] [Server thread/INFO]: Default game type: SURVIVAL
-[23:25:51] [Server thread/INFO]: Generating keypair
-[23:25:52] [Server thread/INFO]: Starting Minecraft server on *:6969
-[23:25:52] [Server thread/INFO]: Using default channel type
-[23:25:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:25:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:25:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:25:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:25:53] [Server thread/INFO]: Preparing level "world"
-[23:26:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:26:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:26:09] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[23:26:09] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[23:26:10] [Server thread/INFO]: Time elapsed: 10307 ms
-[23:26:10] [Server thread/INFO]: Done (17.315s)! For help, type "help"
-[23:26:17] [Server thread/INFO]: Pandalf_[/82.76.173.82:58813] logged in with entity id 610 at (-56.28955922389842, 123.0, -88.10205770130811)
-[23:26:17] [Server thread/INFO]: Pandalf_ joined the game
-[23:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[23:26:22] [Server thread/INFO]: [Not Secure] <Pandalf_> buna dimineata
-[23:26:25] [Server thread/INFO]: ForTheRNG[/86.127.151.84:56177] logged in with entity id 780 at (-77.36253612751919, 74.0, -162.35681759267806)
-[23:26:25] [Server thread/INFO]: ForTheRNG joined the game
-[23:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10799ms or 215 ticks behind
-[23:27:31] [Server thread/INFO]: [Not Secure] <Pandalf_> deci ce facem pe partea cu ferma a muntelui?
-[23:27:40] [Server thread/INFO]: [Not Secure] <Pandalf_> da
-[23:27:50] [Server thread/INFO]: [Not Secure] <Pandalf_> si gen pe munte/in munte
-[23:28:01] [Server thread/INFO]: [Not Secure] <Pandalf_> gen nu construim nmk
-[23:28:03] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv
-[23:28:07] [Server thread/INFO]: [Not Secure] <Pandalf_> ce kkt
-[23:28:21] [Server thread/INFO]: [Not Secure] <Pandalf_> a terraforming
-[23:28:25] [Server thread/INFO]: [Not Secure] <Pandalf_> ma gandeam
-[23:28:32] [Server thread/INFO]: [Not Secure] <Pandalf_> la un drumulet dragutz
-[23:28:35] [Server thread/INFO]: [Not Secure] <Pandalf_> si niste podulete
-[23:28:38] [Server thread/INFO]: [Not Secure] <Pandalf_> dragute
-[23:28:41] [Server thread/INFO]: [Not Secure] <Pandalf_> iluminate
-[23:28:42] [Server thread/INFO]: [Not Secure] <Pandalf_> frumos
-[23:28:45] [Server thread/INFO]: [Not Secure] <Pandalf_> da dar si pe aici
-[23:30:17] [Server thread/INFO]: [Not Secure] <Pandalf_> da dar eu tot 20 de fpsuri am
-[23:30:41] [Server thread/INFO]: [Not Secure] <Pandalf_> futu ti tetrio ul matii
-[23:30:46] [Server thread/INFO]: [Not Secure] <Pandalf_> ca mi ocupa 30% din cpu
-[23:30:55] [Server thread/INFO]: [Not Secure] <Pandalf_> e efectiv insane
-[23:30:58] [Server thread/INFO]: [Not Secure] <Pandalf_> nu nu nu
-[23:31:03] [Server thread/INFO]: [Not Secure] <Pandalf_> ca acm am 70 fps cel ptuind
-[23:31:28] [Server thread/INFO]: [Not Secure] <Pandalf_> il intrebi pe mache daca intra?
-[23:31:51] [Server thread/INFO]: [Not Secure] <Pandalf_> si tacerea e un raspuns
-[23:35:03] [Server thread/INFO]: [Not Secure] <Pandalf_> aici seed
-[23:36:41] [Server thread/INFO]: [Not Secure] <Pandalf_> seed aici
-[23:38:06] [Server thread/INFO]: me_vs_me[/86.127.151.84:63995] logged in with entity id 4966 at (-53.4884480656061, 111.0, -86.63383046017827)
-[23:38:06] [Server thread/INFO]: me_vs_me joined the game
-[23:38:09] [Server thread/INFO]: [Not Secure] <Pandalf_> mircea
-[23:38:15] [Server thread/INFO]: [Not Secure] <Pandalf_> seed aici btw
-[23:38:19] [Server thread/INFO]: [Not Secure] <me_vs_me> ce
-[23:38:35] [Server thread/INFO]: [Not Secure] <me_vs_me> a btw m am imprumutat niste diamante
-[23:38:38] [Server thread/INFO]: [Not Secure] <me_vs_me> dar le dau inapoi
-[23:38:40] [Server thread/INFO]: [Not Secure] <Pandalf_> cate?
-[23:38:40] [Server thread/INFO]: [Not Secure] <me_vs_me> 16 sunt
-[23:38:45] [Server thread/INFO]: [Not Secure] <Pandalf_> pe langa alea cam 15
-[23:38:46] [Server thread/INFO]: [Not Secure] <me_vs_me> acum merg sa minez
-[23:38:51] [Server thread/INFO]: [Not Secure] <me_vs_me> adica pe langa astea?
-[23:39:16] [Server thread/INFO]: [Not Secure] <me_vs_me> despre ce vorbesti
-[23:39:21] [Server thread/INFO]: [Not Secure] <Pandalf_> despre armura ta
-[23:39:27] [Server thread/INFO]: [Not Secure] <me_vs_me> aia veche mi am facut o singur
-[23:39:29] [Server thread/INFO]: [Not Secure] <me_vs_me> ca mai minasem
-[23:39:31] [Server thread/INFO]: [Not Secure] <Pandalf_> a ok
-[23:40:01] [Server thread/INFO]: [Not Secure] <me_vs_me> de fapt m am imprumutat 15 dar ma rog
-[23:40:28] [Server thread/INFO]: [Not Secure] <Pandalf_> i m blue dabadidabadai
-[23:41:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-100, y=79, z=-170} gp{x=-99, y=77, z=-171}
-[23:42:25] [Server thread/INFO]: [Not Secure] <me_vs_me> wat
-[23:42:32] [Server thread/INFO]: [Not Secure] <Pandalf_> nmk
-[23:43:17] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv totu se misca sacadat
-[23:43:19] [Server thread/INFO]: [Not Secure] <Pandalf_> ce facem?
-[23:43:39] [Server thread/INFO]: [Not Secure] <Pandalf_> kill them all
-[23:44:52] [Server thread/INFO]: [Not Secure] <Pandalf_> poate sa il hosteze mache inapoi?
-[23:45:02] [Server thread/INFO]: [Not Secure] <Pandalf_> parea ca la el merge mai ok
-[23:45:12] [Server thread/INFO]: [Not Secure] <Pandalf_> i as zice ceva de mama
-[23:45:15] [Server thread/INFO]: [Not Secure] <Pandalf_> dar e si mama voastra
-[23:45:31] [Server thread/INFO]: [Not Secure] <Pandalf_> gen mutati l unde e mai ok
-[23:45:39] [Server thread/INFO]: [Not Secure] <Pandalf_> azi pana de curand a mers ok
-[23:45:51] [Server thread/INFO]: [Not Secure] <Pandalf_> rip pc
-[23:46:04] [Server thread/INFO]: [Not Secure] <Pandalf_> m ai da i un stick de ram daca de ram are nevoie
-[23:46:21] [Server thread/INFO]: [Not Secure] <Pandalf_> pot si acm
-[23:46:27] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[23:46:27] [Server thread/INFO]: Pandalf_ left the game
-[23:46:30] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[23:46:30] [Server thread/INFO]: me_vs_me left the game
-[23:46:32] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[23:46:32] [Server thread/INFO]: ForTheRNG left the game
-[23:46:56] [Server thread/INFO]: Stopping the server
-[23:46:56] [Server thread/INFO]: Stopping server
-[23:46:56] [Server thread/INFO]: Saving players
-[23:46:56] [Server thread/INFO]: Saving worlds
-[23:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:51:54] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[23:51:58] [ServerMain/INFO]: Building unoptimized datafixer
+[23:51:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:52:01] [ServerMain/INFO]: Loaded 7 recipes
+[23:52:01] [ServerMain/INFO]: Loaded 1179 advancements
+[23:52:02] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[23:52:02] [Server thread/INFO]: Loading properties
+[23:52:02] [Server thread/INFO]: Default game type: SURVIVAL
+[23:52:02] [Server thread/INFO]: Generating keypair
+[23:52:02] [Server thread/INFO]: Starting Minecraft server on *:6969
+[23:52:03] [Server thread/INFO]: Using default channel type
+[23:52:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:52:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:52:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:52:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:52:03] [Server thread/INFO]: Preparing level "world"
+[23:52:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:52:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:52:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[23:52:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:52:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[23:52:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:52:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:52:07] [Worker-Main-15/INFO]: Preparing spawn area: 34%
+[23:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 70%
+[23:52:08] [Server thread/INFO]: Time elapsed: 4249 ms
+[23:52:08] [Server thread/INFO]: Done (5.235s)! For help, type "help"
+[23:53:50] [Server thread/INFO]: Stopping the server
+[23:53:50] [Server thread/INFO]: Stopping server
+[23:53:50] [Server thread/INFO]: Saving players
+[23:53:50] [Server thread/INFO]: Saving worlds
+[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
