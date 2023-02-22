@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 
 rem figure out ram allocated
 cd /d %~dp0
@@ -6,7 +6,9 @@ set RAM=4096
 if defined %~1 set RAM=%~1
 
 rem start server
+echo on
 java -Xmx%RAM%M -Xms%RAM%M -jar minecraft_server.1.19.3.jar
+@echo off
 
 rem check for git, maybe update
 git --version
