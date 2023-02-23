@@ -1,39 +1,560 @@
-[23:51:54] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[23:51:58] [ServerMain/INFO]: Building unoptimized datafixer
-[23:51:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:52:01] [ServerMain/INFO]: Loaded 7 recipes
-[23:52:01] [ServerMain/INFO]: Loaded 1179 advancements
-[23:52:02] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[23:52:02] [Server thread/INFO]: Loading properties
-[23:52:02] [Server thread/INFO]: Default game type: SURVIVAL
-[23:52:02] [Server thread/INFO]: Generating keypair
-[23:52:02] [Server thread/INFO]: Starting Minecraft server on *:6969
-[23:52:03] [Server thread/INFO]: Using default channel type
-[23:52:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:52:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:52:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:52:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:52:03] [Server thread/INFO]: Preparing level "world"
-[23:52:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:52:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:52:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:52:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[23:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:52:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[23:52:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[23:52:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[23:52:07] [Worker-Main-15/INFO]: Preparing spawn area: 34%
-[23:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[23:52:08] [Server thread/INFO]: Time elapsed: 4249 ms
-[23:52:08] [Server thread/INFO]: Done (5.235s)! For help, type "help"
-[23:53:50] [Server thread/INFO]: Stopping the server
-[23:53:50] [Server thread/INFO]: Stopping server
-[23:53:50] [Server thread/INFO]: Saving players
-[23:53:50] [Server thread/INFO]: Saving worlds
-[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:05:03] [Server thread/INFO]: [Not Secure] <Pandalf_> am zis ca s pacifist aici
+[00:05:05] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv
+[00:05:32] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[00:06:52] [Server thread/INFO]: [Not Secure] <Pandalf_> sa stii ca
+[00:06:58] [Server thread/INFO]: [Not Secure] <Pandalf_> se vede de aici de sus
+[00:07:05] [Server thread/INFO]: [Not Secure] <Pandalf_> de sussus amogus
+[00:07:08] [Server thread/INFO]: [Not Secure] <Pandalf_> nu
+[00:07:11] [Server thread/INFO]: [Not Secure] <Pandalf_> arata facuta de mana
+[00:07:25] [Server thread/INFO]: [Not Secure] <Pandalf_> idk
+[00:07:27] [Server thread/INFO]: [Not Secure] <Pandalf_> arata bine
+[00:07:30] [Server thread/INFO]: [Not Secure] <Pandalf_> poate terraformam cu el
+[00:13:16] [Server thread/INFO]: [Not Secure] <Pandalf_> how to make a 4x4 automatic door
+[00:13:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> wait this isn't google
+[00:13:32] [Server thread/INFO]: [Not Secure] <Pandalf_> oops
+[00:13:41] [Server thread/INFO]: [Not Secure] <Pandalf_> eu?
+[00:13:43] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[00:13:52] [Server thread/INFO]: [Not Secure] <Pandalf_> unde e mache?
+[00:14:16] [Server thread/INFO]: [Not Secure] <Pandalf_> pandalf are?
+[00:14:40] [Server thread/INFO]: [Not Secure] <Pandalf_> mache unde esti
+[00:14:49] [Server thread/INFO]: [Not Secure] <Pandalf_> la etaju tau adk
+[00:15:09] [Server thread/INFO]: [Not Secure] <Pandalf_> cleo
+[00:15:36] [Server thread/INFO]: [Not Secure] <Pandalf_> wtf mache
+[00:15:40] [Server thread/INFO]: [Not Secure] <Pandalf_> ai carpeta/
+[00:16:51] [Server thread/INFO]: [Not Secure] <Pandalf_> roblox arsenal
+[00:17:02] [Server thread/INFO]: [Not Secure] <Pandalf_> fortnite
+[00:17:30] [Server thread/INFO]: [Not Secure] <Pandalf_> jur ca daca imi curge apa in etaj te omor
+[00:17:54] [Server thread/INFO]: [Not Secure] <Pandalf_> ca pe valoprant
+[00:19:18] [Server thread/INFO]: Ra1302[/79.114.172.12:55221] logged in with entity id 11076 at (766.0425200516808, 63.0, -2150.6703036859567)
+[00:19:18] [Server thread/INFO]: Ra1302 joined the game
+[00:21:30] [Server thread/INFO]: [Not Secure] <Pandalf_> technoblade
+[00:22:49] [Server thread/INFO]: [Not Secure] <Pandalf_> ma doare deja
+[00:23:30] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv ruxy a fost aproape bottom frag in echipa noastra cand am jucat si eu aproape top frag si e rank mai mare
+[00:23:53] [Server thread/INFO]: [Not Secure] <Pandalf_> mmr be like
+[00:23:57] [Server thread/INFO]: [Not Secure] <Pandalf_> de ce a trb sa jucam cu tuga
+[00:24:07] [Server thread/INFO]: [Not Secure] <Pandalf_> nu mai e
+[00:24:10] [Server thread/INFO]: [Not Secure] <Pandalf_> cred ca a murit
+[00:24:11] [Server thread/INFO]: [Not Secure] <Pandalf_> nu
+[00:24:13] [Server thread/INFO]: [Not Secure] <Pandalf_> silk
+[00:24:14] [Server thread/INFO]: [Not Secure] <Pandalf_> tocuh
+[00:24:43] [Server thread/INFO]: me_vs_me[/86.127.151.84:63636] logged in with entity id 15616 at (-58.205671486953186, 111.0, -94.73604879752826)
+[00:24:43] [Server thread/INFO]: me_vs_me joined the game
+[00:24:51] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[00:24:51] [Server thread/INFO]: me_vs_me left the game
+[00:24:53] [Server thread/INFO]: me_vs_me[/86.127.151.84:63651] logged in with entity id 15730 at (-58.205671486953186, 111.0, -94.73604879752826)
+[00:24:53] [Server thread/INFO]: me_vs_me joined the game
+[00:25:18] [Server thread/INFO]: clau[/109.99.27.194:49959] logged in with entity id 16178 at (-25.5, 73.0, 15.5)
+[00:25:18] [Server thread/INFO]: clau joined the game
+[00:26:12] [Server thread/INFO]: Added clau to the whitelist
+[00:26:20] [Server thread/INFO]: Added me_vs_me to the whitelist
+[00:26:33] [Server thread/INFO]: Player is already whitelisted
+[00:26:39] [Server thread/INFO]: Added all to the whitelist
+[00:26:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:26:48] [Server thread/INFO]: whilelist help<--[HERE]
+[00:26:57] [Server thread/INFO]: Incorrect argument for command
+[00:26:57] [Server thread/INFO]: whitelist ?<--[HERE]
+[00:27:03] [Server thread/INFO]: Incorrect argument for command
+[00:27:03] [Server thread/INFO]: whitelist help<--[HERE]
+[00:27:11] [Server thread/INFO]: /advancement (grant|revoke)
+[00:27:11] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:27:11] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[00:27:11] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:27:11] [Server thread/INFO]: /clear [<targets>]
+[00:27:11] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[00:27:11] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:27:11] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:27:11] [Server thread/INFO]: /debug (start|stop|function)
+[00:27:11] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:27:11] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:27:11] [Server thread/INFO]: /effect (clear|give)
+[00:27:11] [Server thread/INFO]: /me <action>
+[00:27:11] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:27:11] [Server thread/INFO]: /experience (add|set|query)
+[00:27:11] [Server thread/INFO]: /xp -> experience
+[00:27:11] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:27:11] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:27:11] [Server thread/INFO]: /forceload (add|remove|query)
+[00:27:11] [Server thread/INFO]: /function <name>
+[00:27:11] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:27:11] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:27:11] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:27:11] [Server thread/INFO]: /help [<command>]
+[00:27:11] [Server thread/INFO]: /item (replace|modify)
+[00:27:11] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:27:11] [Server thread/INFO]: /kill [<targets>]
+[00:27:11] [Server thread/INFO]: /list [uuids]
+[00:27:11] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:27:11] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:27:11] [Server thread/INFO]: /msg <targets> <message>
+[00:27:11] [Server thread/INFO]: /tell -> msg
+[00:27:11] [Server thread/INFO]: /w -> msg
+[00:27:11] [Server thread/INFO]: /particle <name> [<pos>]
+[00:27:11] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:27:11] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:27:11] [Server thread/INFO]: /reload
+[00:27:11] [Server thread/INFO]: /recipe (give|take)
+[00:27:11] [Server thread/INFO]: /say <message>
+[00:27:11] [Server thread/INFO]: /schedule (function|clear)
+[00:27:11] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:27:11] [Server thread/INFO]: /seed
+[00:27:11] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:27:11] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:27:11] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:27:11] [Server thread/INFO]: /spectate [<target>]
+[00:27:11] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:27:11] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:27:11] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:27:11] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:27:11] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:27:11] [Server thread/INFO]: /teammsg <message>
+[00:27:11] [Server thread/INFO]: /tm -> teammsg
+[00:27:11] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:27:11] [Server thread/INFO]: /tp -> teleport
+[00:27:11] [Server thread/INFO]: /tellraw <targets> <message>
+[00:27:11] [Server thread/INFO]: /time (set|add|query)
+[00:27:11] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:27:11] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:27:11] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:27:11] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:27:11] [Server thread/INFO]: /jfr (start|stop)
+[00:27:11] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:27:11] [Server thread/INFO]: /banlist [ips|players]
+[00:27:11] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:27:11] [Server thread/INFO]: /deop <targets>
+[00:27:11] [Server thread/INFO]: /op <targets>
+[00:27:11] [Server thread/INFO]: /pardon <targets>
+[00:27:11] [Server thread/INFO]: /pardon-ip <target>
+[00:27:11] [Server thread/INFO]: /perf (start|stop)
+[00:27:11] [Server thread/INFO]: /save-all [flush]
+[00:27:11] [Server thread/INFO]: /save-off
+[00:27:11] [Server thread/INFO]: /save-on
+[00:27:11] [Server thread/INFO]: /setidletimeout <minutes>
+[00:27:11] [Server thread/INFO]: /stop
+[00:27:11] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:27:13] [Server thread/INFO]: [Not Secure] <Pandalf_> nu i adv
+[00:27:16] [Server thread/INFO]: [Not Secure] <Pandalf_> dureaza putin
+[00:27:18] [Server thread/INFO]: [Not Secure] <Pandalf_> am facut o
+[00:27:22] [Server thread/INFO]: There are 7 whitelisted players: me_vs_me, mach3tryhard, clau, ForTheRNG, me_vs_me, Pandalf_, all
+[00:27:26] [Server thread/INFO]: [Not Secure] <Pandalf_> trb doar sa ai flori
+[00:27:29] [Server thread/INFO]: [Not Secure] <Pandalf_> am facut o pe 9c
+[00:27:38] [Server thread/INFO]: Removed all from the whitelist
+[00:27:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:27:49] [Server thread/INFO]: players<--[HERE]
+[00:28:05] [Server thread/INFO]: There are 6 of a max of 10 players online: ForTheRNG, Pandalf_, mach3tryhard, Ra1302, me_vs_me, clau
+[00:28:22] [Server thread/INFO]: Added Ra1302 to the whitelist
+[00:28:35] [Server thread/INFO]: [Not Secure] <Pandalf_> mai ales mama lu nichita
+[00:29:06] [Server thread/INFO]: [Not Secure] <me_vs_me> matei
+[00:29:08] [Server thread/INFO]: [Not Secure] <me_vs_me> pick?
+[00:29:15] [Server thread/INFO]: [Not Secure] <me_vs_me> ms
+[00:29:17] [Server thread/INFO]: [Not Secure] <me_vs_me> nu l pierd
+[00:30:10] [Server thread/INFO]: [Not Secure] <Pandalf_> eu il am si mai cartof
+[00:30:20] [Server thread/INFO]: [Not Secure] <Pandalf_> a
+[00:32:31] [Server thread/INFO]: [Not Secure] <Pandalf_> idk
+[00:32:34] [Server thread/INFO]: [Not Secure] <Pandalf_> ma gandeam
+[00:32:38] [Server thread/INFO]: [Not Secure] <Pandalf_> acm vreau doar technoblade
+[00:32:51] [Server thread/INFO]: /advancement (grant|revoke)
+[00:32:51] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[00:32:51] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[00:32:51] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[00:32:51] [Server thread/INFO]: /clear [<targets>]
+[00:32:51] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[00:32:51] [Server thread/INFO]: /data (merge|get|remove|modify)
+[00:32:51] [Server thread/INFO]: /datapack (enable|disable|list)
+[00:32:51] [Server thread/INFO]: /debug (start|stop|function)
+[00:32:51] [Server thread/INFO]: /defaultgamemode <gamemode>
+[00:32:51] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[00:32:51] [Server thread/INFO]: /effect (clear|give)
+[00:32:51] [Server thread/INFO]: /me <action>
+[00:32:51] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:32:51] [Server thread/INFO]: /experience (add|set|query)
+[00:32:51] [Server thread/INFO]: /xp -> experience
+[00:32:51] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[00:32:51] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[00:32:51] [Server thread/INFO]: /forceload (add|remove|query)
+[00:32:51] [Server thread/INFO]: /function <name>
+[00:32:51] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[00:32:51] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[00:32:51] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:32:51] [Server thread/INFO]: /help [<command>]
+[00:32:51] [Server thread/INFO]: /item (replace|modify)
+[00:32:51] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:32:51] [Server thread/INFO]: /kill [<targets>]
+[00:32:51] [Server thread/INFO]: /list [uuids]
+[00:32:51] [Server thread/INFO]: /locate (structure|biome|poi)
+[00:32:51] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[00:32:51] [Server thread/INFO]: /msg <targets> <message>
+[00:32:51] [Server thread/INFO]: /tell -> msg
+[00:32:51] [Server thread/INFO]: /w -> msg
+[00:32:51] [Server thread/INFO]: /particle <name> [<pos>]
+[00:32:51] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[00:32:51] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[00:32:51] [Server thread/INFO]: /reload
+[00:32:51] [Server thread/INFO]: /recipe (give|take)
+[00:32:51] [Server thread/INFO]: /say <message>
+[00:32:51] [Server thread/INFO]: /schedule (function|clear)
+[00:32:51] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:32:51] [Server thread/INFO]: /seed
+[00:32:51] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:32:51] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:32:51] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:32:51] [Server thread/INFO]: /spectate [<target>]
+[00:32:51] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[00:32:51] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[00:32:51] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:32:51] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[00:32:51] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[00:32:51] [Server thread/INFO]: /teammsg <message>
+[00:32:51] [Server thread/INFO]: /tm -> teammsg
+[00:32:51] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[00:32:51] [Server thread/INFO]: /tp -> teleport
+[00:32:51] [Server thread/INFO]: /tellraw <targets> <message>
+[00:32:51] [Server thread/INFO]: /time (set|add|query)
+[00:32:51] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[00:32:51] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:32:51] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:32:51] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[00:32:51] [Server thread/INFO]: /jfr (start|stop)
+[00:32:51] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:32:51] [Server thread/INFO]: /banlist [ips|players]
+[00:32:51] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:32:51] [Server thread/INFO]: /deop <targets>
+[00:32:51] [Server thread/INFO]: /op <targets>
+[00:32:51] [Server thread/INFO]: /pardon <targets>
+[00:32:51] [Server thread/INFO]: /pardon-ip <target>
+[00:32:51] [Server thread/INFO]: /perf (start|stop)
+[00:32:51] [Server thread/INFO]: /save-all [flush]
+[00:32:51] [Server thread/INFO]: /save-off
+[00:32:51] [Server thread/INFO]: /save-on
+[00:32:51] [Server thread/INFO]: /setidletimeout <minutes>
+[00:32:51] [Server thread/INFO]: /stop
+[00:32:51] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[00:33:14] [Server thread/INFO]: [Not Secure] <clau> gainuse
+[00:33:32] [Server thread/INFO]: [Not Secure] <clau> uu
+[00:34:16] [Server thread/INFO]: [Not Secure] <clau> cum ajungi in casa tho
+[00:35:57] [Server thread/INFO]: [Not Secure] <Pandalf_> da mi l mie
+[00:37:10] [Server thread/INFO]: [Not Secure] <Pandalf_> ok o sa ma duc la nani
+[00:37:13] [Server thread/INFO]: [Not Secure] <Pandalf_> in cam 2 min
+[00:37:14] [Server thread/INFO]: [Not Secure] <Pandalf_> nb
+[00:37:20] [Server thread/INFO]: [Not Secure] <Pandalf_> ne auzim maine
+[00:37:23] [Server thread/INFO]: [Not Secure] <me_vs_me> noapte buna
+[00:38:08] [Server thread/INFO]: [Not Secure] <Pandalf_> gabi e smeker
+[00:38:17] [Server thread/INFO]: [Not Secure] <Pandalf_> nb
+[00:38:18] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[00:38:18] [Server thread/INFO]: Pandalf_ left the game
+[00:38:31] [Server thread/INFO]: [Not Secure] <clau> ra
+[00:38:39] [Server thread/INFO]: [Not Secure] <clau> casa
+[00:38:44] [Server thread/INFO]: [Not Secure] <clau> urcai
+[00:38:50] [Server thread/INFO]: [Not Secure] <clau> cu dirt
+[00:39:58] [Server thread/INFO]: [Not Secure] <clau> tf
+[00:40:05] [Server thread/INFO]: [Not Secure] <clau> wait
+[00:40:43] [Server thread/INFO]: [Not Secure] <clau> dadui de o pers
+[00:41:00] [Server thread/INFO]: [Not Secure] <clau> also mor
+[00:41:12] [Server thread/INFO]: [Not Secure] <clau> da
+[00:41:18] [Server thread/INFO]: [Not Secure] <clau> si 1 inima
+[00:41:34] [Server thread/INFO]: [Not Secure] <clau> cu for the rng
+[00:42:01] [Server thread/INFO]: [Not Secure] <me_vs_me> am luat 15 si am dat 20 inapoi
+[00:42:08] [Server thread/INFO]: [Not Secure] <clau> o shoot
+[00:42:26] [Server thread/INFO]: [Not Secure] <clau> asa facem
+[00:42:48] [Server thread/INFO]: [Not Secure] <me_vs_me> de ce suntem toti negri
+[00:45:01] [Server thread/INFO]: [Not Secure] <clau> carei faza cu mikichicurile din tunel
+[00:45:31] [Server thread/INFO]: [Not Secure] <clau> michichiki care float
+[00:46:19] [Server thread/INFO]: clau has made the advancement [Sweet Dreams]
+[00:46:45] [Server thread/INFO]: [Not Secure] <clau> unde gasesti axoloti
+[00:47:01] [Server thread/INFO]: [Not Secure] <clau> oke
+[00:49:02] [Server thread/INFO]: [Not Secure] <clau> 0_0
+[00:49:29] [Server thread/INFO]: [Not Secure] <clau> stockholm yndrome
+[00:49:40] [Server thread/INFO]: [Not Secure] <clau> o ma god
+[00:52:06] [Server thread/INFO]: [Not Secure] <clau> ce faceti cu atat pumpkin
+[00:52:47] [Server thread/INFO]: [Not Secure] <clau> help
+[00:52:53] [Server thread/INFO]: [Not Secure] <clau> 2 zobi
+[00:53:01] [Server thread/INFO]: [Not Secure] <clau> am urcat in coapc :)
+[00:53:06] [Server thread/INFO]: [Not Secure] <clau> copac
+[00:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[00:54:54] [Server thread/INFO]: mach3tryhard was impaled by Drowned
+[00:56:17] [Server thread/INFO]: [Not Secure] <clau> gn :)
+[00:56:26] [Server thread/INFO]: clau lost connection: Disconnected
+[00:56:26] [Server thread/INFO]: clau left the game
+[00:57:01] [Server thread/INFO]: ForTheRNG fell from a high place
+[01:01:11] [Server thread/WARN]: Boat (vehicle of ForTheRNG) moved wrongly! 0.2827344803883136
+[01:02:13] [Server thread/INFO]: Ra1302 lost connection: Disconnected
+[01:02:13] [Server thread/INFO]: Ra1302 left the game
+[01:16:23] [Server thread/INFO]: [Not Secure] <me_vs_me> what the dog doing
+[01:17:31] [Server thread/INFO]: me_vs_me has made the advancement [Enchanter]
+[01:17:41] [Server thread/INFO]: mach3tryhard has made the advancement [Best Friends Forever]
+[01:21:04] [Worker-Main-4/WARN]: Skipping Entity with id minecraft:camel
+[01:22:16] [Server thread/INFO]: [Not Secure] <me_vs_me> da matei dar cui ii pasa
+[01:22:17] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[01:22:17] [Server thread/INFO]: me_vs_me left the game
+[01:56:02] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[01:56:02] [Server thread/INFO]: mach3tryhard left the game
+[02:22:33] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[02:22:33] [Server thread/INFO]: ForTheRNG left the game
+[02:24:32] [Server thread/INFO]: ForTheRNG[/86.127.151.84:63797] logged in with entity id 150241 at (2250.353099784686, 63.0, -2837.956952852144)
+[02:24:32] [Server thread/INFO]: ForTheRNG joined the game
+[02:30:15] [Server thread/INFO]: ForTheRNG has made the advancement [Ice Bucket Challenge]
+[02:33:49] [Server thread/INFO]: Villager bwc['Villager'/159253, l='ServerLevel[world]', x=-360.72, y=65.00, z=-2337.63] died, message: 'Villager suffocated in a wall'
+[02:33:57] [Server thread/INFO]: Villager bwc['Villager'/159206, l='ServerLevel[world]', x=-361.63, y=68.56, z=-2086.28] died, message: 'Villager suffocated in a wall'
+[02:36:03] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[02:36:03] [Server thread/INFO]: ForTheRNG left the game
+[10:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27175296ms or 543505 ticks behind
+[10:09:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:09:25] [Server thread/INFO]: stats<--[HERE]
+[10:09:28] [Server thread/INFO]: /advancement (grant|revoke)
+[10:09:28] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[10:09:28] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[10:09:28] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[10:09:28] [Server thread/INFO]: /clear [<targets>]
+[10:09:28] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[10:09:28] [Server thread/INFO]: /data (merge|get|remove|modify)
+[10:09:28] [Server thread/INFO]: /datapack (enable|disable|list)
+[10:09:28] [Server thread/INFO]: /debug (start|stop|function)
+[10:09:28] [Server thread/INFO]: /defaultgamemode <gamemode>
+[10:09:28] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[10:09:28] [Server thread/INFO]: /effect (clear|give)
+[10:09:28] [Server thread/INFO]: /me <action>
+[10:09:28] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[10:09:28] [Server thread/INFO]: /experience (add|set|query)
+[10:09:28] [Server thread/INFO]: /xp -> experience
+[10:09:28] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[10:09:28] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[10:09:28] [Server thread/INFO]: /forceload (add|remove|query)
+[10:09:28] [Server thread/INFO]: /function <name>
+[10:09:28] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[10:09:28] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[10:09:28] [Server thread/INFO]: /give <targets> <item> [<count>]
+[10:09:28] [Server thread/INFO]: /help [<command>]
+[10:09:28] [Server thread/INFO]: /item (replace|modify)
+[10:09:28] [Server thread/INFO]: /kick <targets> [<reason>]
+[10:09:28] [Server thread/INFO]: /kill [<targets>]
+[10:09:28] [Server thread/INFO]: /list [uuids]
+[10:09:28] [Server thread/INFO]: /locate (structure|biome|poi)
+[10:09:28] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[10:09:28] [Server thread/INFO]: /msg <targets> <message>
+[10:09:28] [Server thread/INFO]: /tell -> msg
+[10:09:28] [Server thread/INFO]: /w -> msg
+[10:09:28] [Server thread/INFO]: /particle <name> [<pos>]
+[10:09:28] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[10:09:28] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[10:09:28] [Server thread/INFO]: /reload
+[10:09:28] [Server thread/INFO]: /recipe (give|take)
+[10:09:28] [Server thread/INFO]: /say <message>
+[10:09:28] [Server thread/INFO]: /schedule (function|clear)
+[10:09:28] [Server thread/INFO]: /scoreboard (objectives|players)
+[10:09:28] [Server thread/INFO]: /seed
+[10:09:28] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[10:09:28] [Server thread/INFO]: /spawnpoint [<targets>]
+[10:09:28] [Server thread/INFO]: /setworldspawn [<pos>]
+[10:09:28] [Server thread/INFO]: /spectate [<target>]
+[10:09:28] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[10:09:28] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[10:09:28] [Server thread/INFO]: /summon <entity> [<pos>]
+[10:09:28] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[10:09:28] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[10:09:28] [Server thread/INFO]: /teammsg <message>
+[10:09:28] [Server thread/INFO]: /tm -> teammsg
+[10:09:28] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[10:09:28] [Server thread/INFO]: /tp -> teleport
+[10:09:28] [Server thread/INFO]: /tellraw <targets> <message>
+[10:09:28] [Server thread/INFO]: /time (set|add|query)
+[10:09:28] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[10:09:28] [Server thread/INFO]: /trigger <objective> [add|set]
+[10:09:28] [Server thread/INFO]: /weather (clear|rain|thunder)
+[10:09:28] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[10:09:28] [Server thread/INFO]: /jfr (start|stop)
+[10:09:28] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[10:09:28] [Server thread/INFO]: /banlist [ips|players]
+[10:09:28] [Server thread/INFO]: /ban <targets> [<reason>]
+[10:09:28] [Server thread/INFO]: /deop <targets>
+[10:09:28] [Server thread/INFO]: /op <targets>
+[10:09:28] [Server thread/INFO]: /pardon <targets>
+[10:09:28] [Server thread/INFO]: /pardon-ip <target>
+[10:09:28] [Server thread/INFO]: /perf (start|stop)
+[10:09:28] [Server thread/INFO]: /save-all [flush]
+[10:09:28] [Server thread/INFO]: /save-off
+[10:09:28] [Server thread/INFO]: /save-on
+[10:09:28] [Server thread/INFO]: /setidletimeout <minutes>
+[10:09:28] [Server thread/INFO]: /stop
+[10:09:28] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[10:09:45] [Server thread/INFO]: Pandalf_[/82.76.173.82:40132] logged in with entity id 161889 at (-56.342833906720955, 111.0, -90.50402356176355)
+[10:09:45] [Server thread/INFO]: Pandalf_ joined the game
+[10:29:24] [Server thread/INFO]: Pandalf_ has made the advancement [Fishy Business]
+[10:35:40] [Server thread/INFO]: Pandalf_ has made the advancement [Best Friends Forever]
+[10:53:41] [Server thread/INFO]: mach3tryhard[/86.127.151.84:60154] logged in with entity id 180714 at (-55.25295582517535, 99.0625, -89.26454568709723)
+[10:53:41] [Server thread/INFO]: mach3tryhard joined the game
+[11:12:55] [Server thread/INFO]: Pandalf_ has made the advancement [Ice Bucket Challenge]
+[11:36:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-48, y=83, z=-33} gp{x=-49, y=84, z=-30}
+[11:36:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-48, y=83, z=-33} gp{x=-49, y=84, z=-30}
+[11:36:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-48, y=83, z=-33} gp{x=-49, y=84, z=-30}
+[11:36:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-48, y=83, z=-33} gp{x=-49, y=84, z=-30}
+[11:36:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-48, y=83, z=-33} gp{x=-49, y=84, z=-30}
+[11:43:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-12, y=95, z=-10} gp{x=-11, y=94, z=-11}
+[11:43:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-12, y=95, z=-10} gp{x=-11, y=94, z=-11}
+[11:43:19] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-10, y=93, z=-11} gp{x=-11, y=94, z=-11}
+[11:50:51] [Server thread/INFO]: Ra1302[/79.114.172.12:53460] logged in with entity id 212839 at (-58.261455523943624, 123.0, -93.44126563561399)
+[11:50:51] [Server thread/INFO]: Ra1302 joined the game
+[11:51:12] [Server thread/WARN]: Ra1302 moved too quickly! 9.940963742107918,1.0,-1.0344114484949642
+[12:02:22] [Server thread/INFO]: Ra1302 has made the advancement [Best Friends Forever]
+[12:05:34] [Server thread/INFO]: clau[/109.99.27.194:51021] logged in with entity id 221556 at (-55.99970723774494, 123.0, -95.76671800615716)
+[12:05:34] [Server thread/INFO]: clau joined the game
+[12:13:50] [Server thread/INFO]: Ra1302 has made the advancement [We Need to Go Deeper]
+[12:19:56] [Server thread/INFO]: [Not Secure] <clau> um am cazut
+[12:20:02] [Server thread/INFO]: [Not Secure] <clau> intr o pestera
+[12:20:18] [Server thread/INFO]: me_vs_me[/86.127.151.84:61162] logged in with entity id 230502 at (-56.25975635392504, 123.0, -94.0016747224458)
+[12:20:18] [Server thread/INFO]: me_vs_me joined the game
+[12:20:39] [Server thread/INFO]: clau fell from a high place
+[12:20:40] [Server thread/INFO]: [Not Secure] <Pandalf_> dar we like u
+[12:20:42] [Server thread/INFO]: [Not Secure] <Pandalf_> :(
+[12:20:58] [Server thread/INFO]: clau lost connection: Disconnected
+[12:20:58] [Server thread/INFO]: clau left the game
+[12:31:37] [Server thread/INFO]: Ra1302 lost connection: Disconnected
+[12:31:37] [Server thread/INFO]: Ra1302 left the game
+[12:45:46] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[12:45:46] [Server thread/INFO]: me_vs_me left the game
+[12:52:47] [Server thread/INFO]: Pandalf_ was blown up by Creeper
+[13:19:41] [Server thread/INFO]: ForTheRNG[/86.127.151.84:64446] logged in with entity id 259941 at (-322.00669036821154, 67.0, -2398.678195678794)
+[13:19:41] [Server thread/INFO]: ForTheRNG joined the game
+[13:47:23] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[13:47:23] [Server thread/INFO]: Pandalf_ left the game
+[13:51:27] [Server thread/INFO]: Pandalf_[/82.76.173.82:50927] logged in with entity id 299227 at (-53.666670594206884, 80.0, -123.76596115359146)
+[13:51:27] [Server thread/INFO]: Pandalf_ joined the game
+[13:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[13:54:13] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[13:54:13] [Server thread/INFO]: Pandalf_ left the game
+[13:54:15] [Server thread/INFO]: Pandalf_[/82.76.173.82:52743] logged in with entity id 301894 at (24.88909975113413, 68.0, -213.42850937480847)
+[13:54:15] [Server thread/INFO]: Pandalf_ joined the game
+[13:57:25] [Server thread/INFO]: Villager bwc['Villager'/304722, l='ServerLevel[world]', x=-3113.37, y=72.00, z=-2080.72] died, message: 'Villager suffocated in a wall'
+[14:08:25] [Server thread/INFO]: me_vs_me[/86.127.151.84:63712] logged in with entity id 317861 at (-158.30000001192093, 65.0, 84.69999998807907)
+[14:08:25] [Server thread/INFO]: me_vs_me joined the game
+[14:09:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-157, y=74, z=73} gp{x=-157, y=71, z=73}
+[14:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
+[14:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[14:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[14:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[14:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[14:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[14:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[14:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:17:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[14:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14:18:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
+[14:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[14:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[14:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[14:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[14:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[14:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[14:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4716ms or 94 ticks behind
+[14:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
+[14:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[14:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6983ms or 139 ticks behind
+[14:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[14:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4787ms or 95 ticks behind
+[14:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9213ms or 184 ticks behind
+[14:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6033ms or 120 ticks behind
+[14:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3640ms or 72 ticks behind
+[14:23:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
+[14:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[14:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:28:33] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[14:28:33] [Server thread/INFO]: mach3tryhard left the game
+[14:28:51] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[14:28:51] [Server thread/INFO]: ForTheRNG left the game
+[14:28:55] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[14:28:55] [Server thread/INFO]: me_vs_me left the game
+[14:36:54] [Server thread/INFO]: mach3tryhard[/86.127.151.84:54791] logged in with entity id 350162 at (-20.356897928423844, 72.0, -108.64852882070379)
+[14:36:54] [Server thread/INFO]: mach3tryhard joined the game
+[14:38:46] [Server thread/INFO]: ForTheRNG[/86.127.151.84:63086] logged in with entity id 351089 at (-928.5471382884922, 63.0, 1401.699999988079)
+[14:38:46] [Server thread/INFO]: ForTheRNG joined the game
+[14:46:21] [Server thread/INFO]: me_vs_me[/86.127.151.84:62957] logged in with entity id 362023 at (-60.3255485071065, 112.0, -83.68724038945865)
+[14:46:21] [Server thread/INFO]: me_vs_me joined the game
+[14:47:53] [Server thread/INFO]: [Not Secure] <me_vs_me> pandalf
+[14:47:56] [Server thread/INFO]: [Not Secure] <me_vs_me> verific si eu trade ul
+[14:47:58] [Server thread/INFO]: [Not Secure] <me_vs_me> sa stii
+[14:48:08] [Server thread/INFO]: [Not Secure] <me_vs_me> chiar nu am nevoie de asistenta
+[14:48:15] [Server thread/INFO]: [Not Secure] <me_vs_me> vreti eff 4?
+[14:51:08] [Server thread/INFO]: Villager bwc['Villager'/207053, l='ServerLevel[world]', x=10.59, y=66.50, z=-94.90] died, message: 'Villager was slain by mach3tryhard'
+[14:51:30] [Server thread/INFO]: [Not Secure] <me_vs_me> coaie
+[14:51:33] [Server thread/INFO]: [Not Secure] <me_vs_me> ce faci
+[14:51:38] [Server thread/INFO]: [Not Secure] <me_vs_me> tu vezi ca moare si tu te uiti la el
+[14:51:39] [Server thread/INFO]: [Not Secure] <me_vs_me> ce plm
+[14:51:44] [Server thread/INFO]: [Not Secure] <Pandalf_> ca in gulag
+[14:53:20] [Server thread/INFO]: me_vs_me lost connection: Disconnected
+[14:53:20] [Server thread/INFO]: me_vs_me left the game
+[14:53:50] [Server thread/INFO]: Pandalf_ has made the advancement [What a Deal!]
+[14:55:07] [Server thread/INFO]: mach3tryhard has made the advancement [What a Deal!]
+[15:46:38] [Server thread/INFO]: Pandalf_ has made the advancement [Cover Me with Diamonds]
+[15:47:18] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[15:47:18] [Server thread/INFO]: mach3tryhard left the game
+[15:49:33] [Server thread/INFO]: mach3tryhard[/86.127.151.84:63742] logged in with entity id 420318 at (1.8833747758654769, 66.0, -79.36781474347498)
+[15:49:33] [Server thread/INFO]: mach3tryhard joined the game
+[16:00:21] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[16:00:21] [Server thread/INFO]: Pandalf_ left the game
+[16:00:23] [Server thread/INFO]: Pandalf_[/82.76.173.82:57479] logged in with entity id 432732 at (-19.403813224394227, 68.0, -89.5455182639563)
+[16:00:23] [Server thread/INFO]: Pandalf_ joined the game
+[16:00:26] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[16:00:28] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[16:00:28] [Server thread/INFO]: Pandalf_ left the game
+[16:01:46] [Server thread/INFO]: Pandalf_[/82.76.173.82:57498] logged in with entity id 433199 at (-19.403813224394227, 68.0, -89.5455182639563)
+[16:01:46] [Server thread/INFO]: Pandalf_ joined the game
+[16:01:53] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[16:01:53] [Server thread/INFO]: Pandalf_ left the game
+[16:30:47] [Server thread/INFO]: mach3tryhard has made the advancement [Hidden in the Depths]
+[16:30:49] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[16:30:49] [Server thread/INFO]: mach3tryhard left the game
+[16:31:03] [Server thread/INFO]: ForTheRNG has made the advancement [What a Deal!]
+[16:31:05] [Server thread/INFO]: mach3tryhard[/86.127.151.84:57913] logged in with entity id 445987 at (171.88182451512915, 82.0, 395.8257999142145)
+[16:31:05] [Server thread/INFO]: mach3tryhard joined the game
+[16:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16:37:03] [Server thread/WARN]: ForTheRNG moved too quickly! -10.173542227141184,1.2277792520400368,-0.8608071111754256
+[16:37:55] [Server thread/INFO]: Pandalf_[/82.76.173.82:64345] logged in with entity id 450548 at (-11.971089592680137, 66.0, -90.24972586904498)
+[16:37:55] [Server thread/INFO]: Pandalf_ joined the game
+[16:38:29] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[16:38:30] [Server thread/INFO]: ForTheRNG left the game
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:40:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=104, y=64, z=200} gp{x=177, y=68, z=213}
+[16:45:24] [Server thread/INFO]: mach3tryhard has made the advancement [Those Were the Days]
+[16:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[16:54:59] [Server thread/INFO]: ForTheRNG[/86.127.151.84:54803] logged in with entity id 459852 at (-335.0870875992371, 63.0, -78.71961642092585)
+[16:54:59] [Server thread/INFO]: ForTheRNG joined the game
+[16:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[17:20:38] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[17:20:38] [Server thread/INFO]: mach3tryhard left the game
+[17:31:07] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[17:31:07] [Server thread/INFO]: Pandalf_ left the game
+[18:17:58] [Server thread/INFO]: Pandalf_[/82.76.173.82:51599] logged in with entity id 495088 at (8.55628996341974, 66.0, -110.87698567353243)
+[18:17:58] [Server thread/INFO]: Pandalf_ joined the game
+[18:18:05] [Server thread/INFO]: [Not Secure] <ForTheRNG> ????
+[18:18:07] [Server thread/INFO]: [Not Secure] <Pandalf_> sall
+[18:21:22] [Server thread/INFO]: [Not Secure] <Pandalf_> :(
+[18:21:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> ?
+[18:21:32] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt cu tuga pe vc
+[18:21:35] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[18:28:38] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[18:28:38] [Server thread/INFO]: Pandalf_ left the game
+[18:34:25] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[18:34:25] [Server thread/INFO]: ForTheRNG left the game
+[18:44:25] [Server thread/INFO]: Stopping the server
+[18:44:25] [Server thread/INFO]: Stopping server
+[18:44:25] [Server thread/INFO]: Saving players
+[18:44:25] [Server thread/INFO]: Saving worlds
+[18:44:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:44:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:44:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:44:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:44:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:44:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:44:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
