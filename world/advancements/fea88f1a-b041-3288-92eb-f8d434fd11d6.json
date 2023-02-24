@@ -197,9 +197,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2023-02-22 18:10:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-02-24 02:37:12 +0200"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2023-02-21 00:53:03 +0200"
@@ -386,6 +410,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-02-21 01:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-02-24 14:36:05 +0200"
     },
     "done": true
   },
@@ -576,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2023-02-22 18:10:45 +0200"
@@ -762,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2023-02-21 21:17:13 +0200"
@@ -777,6 +819,18 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2023-02-23 12:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
     },
     "done": true
   },
@@ -909,6 +963,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-02-21 21:38:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-02-24 14:04:31 +0200"
     },
     "done": true
   },
@@ -1051,6 +1111,8 @@
       "minecraft:river": "2023-02-21 00:50:47 +0200",
       "minecraft:snowy_plains": "2023-02-23 00:23:16 +0200",
       "minecraft:snowy_taiga": "2023-02-23 00:21:00 +0200",
+      "minecraft:dripstone_caves": "2023-02-24 03:32:24 +0200",
+      "minecraft:swamp": "2023-02-24 14:57:00 +0200",
       "minecraft:cold_ocean": "2023-02-21 00:57:36 +0200",
       "minecraft:forest": "2023-02-21 00:45:56 +0200",
       "minecraft:lush_caves": "2023-02-21 21:30:49 +0200",
@@ -1076,6 +1138,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-21 00:56:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-02-24 14:04:31 +0200"
     },
     "done": true
   },
@@ -1190,6 +1258,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2023-02-21 21:39:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-02-24 14:36:05 +0200"
     },
     "done": true
   },
@@ -1351,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-02-24 14:36:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-02-23 12:13:50 +0200"
@@ -1405,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-02-24 14:36:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2023-02-21 01:14:29 +0200"
@@ -1420,6 +1506,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-21 21:49:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-02-24 14:20:37 +0200"
     },
     "done": true
   },
@@ -1531,6 +1623,7 @@
       "porkchop": "2023-02-21 21:25:26 +0200",
       "potato": "2023-02-22 16:15:31 +0200",
       "cooked_cod": "2023-02-21 01:17:43 +0200",
+      "pumpkin_pie": "2023-02-24 15:45:08 +0200",
       "mutton": "2023-02-22 16:32:39 +0200",
       "bread": "2023-02-21 22:27:03 +0200",
       "salmon": "2023-02-23 12:03:29 +0200",
@@ -1767,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2023-02-21 00:48:16 +0200"
@@ -1893,6 +1992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-02-24 01:56:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2023-02-21 01:13:48 +0200"
@@ -1944,6 +2049,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-21 21:49:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-02-24 13:47:58 +0200"
     },
     "done": true
   },
@@ -2343,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-02-24 14:31:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-02-21 00:52:21 +0200"
@@ -2400,6 +2517,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2023-02-23 12:22:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2023-02-24 16:19:05 +0200"
     },
     "done": true
   },
@@ -2472,6 +2595,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2023-02-21 01:13:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-02-24 14:36:05 +0200"
     },
     "done": true
   },
