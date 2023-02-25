@@ -4,7 +4,6 @@ rem elevate if not done already
 set PWSH=powershell -c Start-Process -Wait -Verb RunAs -WindowStyle Maximized
 net session 1>NUL 2>&1
 if "%ERRORLEVEL%"=="0" goto :startup
-echo %PWSH% -FilePath "%~f0"
 if "%~1"=="" (%PWSH% -FilePath "%~0") else (%PWSH% -FilePath "%~0" -Args '%*')
 goto :endoffile
 
