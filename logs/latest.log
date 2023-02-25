@@ -1,76 +1,37 @@
-[18:48:16] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[18:48:18] [ServerMain/INFO]: Building unoptimized datafixer
-[18:48:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:48:21] [ServerMain/INFO]: Loaded 7 recipes
-[18:48:21] [ServerMain/INFO]: Loaded 1179 advancements
-[18:48:22] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[18:48:22] [Server thread/INFO]: Loading properties
-[18:48:22] [Server thread/INFO]: Default game type: SURVIVAL
-[18:48:22] [Server thread/INFO]: Generating keypair
-[18:48:22] [Server thread/INFO]: Starting Minecraft server on *:6969
-[18:48:22] [Server thread/INFO]: Using default channel type
-[18:48:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:48:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:48:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:48:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:48:23] [Server thread/INFO]: Preparing level "world"
-[18:48:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:48:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:48:26] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:48:26] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[18:48:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:48:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:48:26] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[18:48:27] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[18:48:27] [Worker-Main-9/INFO]: Preparing spawn area: 45%
-[18:48:28] [Server thread/INFO]: Time elapsed: 3739 ms
-[18:48:28] [Server thread/INFO]: Done (4.883s)! For help, type "help"
-[18:48:41] [Server thread/INFO]: ForTheRNG[/86.127.151.84:60267] logged in with entity id 612 at (-14.487297328747074, 66.0, -94.31336638274159)
-[18:48:41] [Server thread/INFO]: ForTheRNG joined the game
-[18:49:35] [Server thread/INFO]: mach3tryhard[/86.127.151.84:64992] logged in with entity id 1193 at (8.878945387120918, 129.0, 4.266123369765403)
-[18:49:35] [Server thread/INFO]: mach3tryhard joined the game
-[18:49:52] [Server thread/INFO]: Pandalf_[/82.76.173.82:46875] logged in with entity id 1711 at (1311.4909474577819, 28.0, 533.2827118700877)
-[18:49:52] [Server thread/INFO]: Pandalf_ joined the game
-[18:50:01] [Server thread/INFO]: [Not Secure] <ForTheRNG> ajutor
-[18:50:06] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
-[18:50:08] [Server thread/INFO]: me_vs_me[/86.127.151.84:49216] logged in with entity id 2008 at (1334.1789202087703, 26.419999986886978, 608.9829700244514)
-[18:50:08] [Server thread/INFO]: me_vs_me joined the game
-[18:50:13] [Server thread/INFO]: [Not Secure] <Pandalf_> nus acasa
-[18:50:15] [Server thread/INFO]: [Not Secure] <Pandalf_> mircea
-[18:50:16] [Server thread/INFO]: [Not Secure] <Pandalf_> da
-[18:50:20] [Server thread/INFO]: clau[/109.99.27.194:50679] logged in with entity id 2444 at (-66.11342104531909, 112.0, -84.20186824783525)
-[18:50:20] [Server thread/INFO]: clau joined the game
-[18:50:20] [Server thread/INFO]: [Not Secure] <Pandalf_> d
-[18:50:21] [Server thread/INFO]: [Not Secure] <ForTheRNG> am un golem obsedat cu un bloc
-[18:50:22] [Server thread/INFO]: [Not Secure] <Pandalf_> a
-[18:50:24] [Server thread/WARN]: me_vs_me moved too quickly! -1236.003835053652,20.26590000152588,-608.8851461526933
-[18:50:24] [Server thread/WARN]: me_vs_me moved too quickly! -1236.003835053652,20.26590000152588,-608.8851461526933
-[18:50:24] [Server thread/WARN]: me_vs_me moved too quickly! -1236.003835053652,20.26590000152588,-608.8851461526933
-[18:50:24] [Server thread/WARN]: me_vs_me moved too quickly! -1236.003835053652,20.26590000152588,-608.8851461526933
-[18:50:32] [Server thread/INFO]: clau lost connection: Disconnected
-[18:50:32] [Server thread/INFO]: clau left the game
-[18:50:32] [Server thread/INFO]: [Not Secure] <Pandalf_> unde esti
-[18:50:34] [Server thread/INFO]: clau[/109.99.27.194:50680] logged in with entity id 2718 at (-66.11342104531909, 112.0, -84.20186824783525)
-[18:50:34] [Server thread/INFO]: clau joined the game
-[18:50:39] [Server thread/INFO]: [Not Secure] <Pandalf_> gen
-[18:50:46] [Server thread/INFO]: [Not Secure] <Pandalf_> da mi coord de la portal
-[18:51:12] [Server thread/INFO]: [Not Secure] <Pandalf_> da asteapta ma
-[18:51:16] [Server thread/INFO]: [Not Secure] <Pandalf_> sa ne alegem directiile
-[18:52:10] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt aici
-[18:53:07] [Server thread/INFO]: [Not Secure] <Pandalf_> 3 inimi
-[18:53:50] [Server thread/INFO]: [Not Secure] <Pandalf_> tu te duci in stanga eu in dreapta
-[18:54:01] [Server thread/INFO]: [Not Secure] <Pandalf_> daca vrei tu da
-[18:54:12] [Server thread/INFO]: [Not Secure] <Pandalf_> gl hf
-[18:54:15] [Server thread/INFO]: [Not Secure] <Pandalf_> cam toate
-[18:54:23] [Server thread/INFO]: [Not Secure] <Pandalf_> 3 stackuri
-[18:54:44] [Server thread/INFO]: [Not Secure] <Pandalf_> si tie
-[18:54:52] [Server thread/INFO]: [Not Secure] <Pandalf_> nu neaparat
-[18:54:54] [Server thread/INFO]: [Not Secure] <Pandalf_> stai sus
-[18:55:00] [Server thread/INFO]: [Not Secure] <ForTheRNG> doar space :-D
-[18:55:14] [Server thread/INFO]: Ra1302[/79.114.172.12:49232] logged in with entity id 7086 at (-192.30000001192093, -3.0, -292.69999998807907)
-[18:55:14] [Server thread/INFO]: Ra1302 joined the game
-[18:55:30] [Server thread/INFO]: [Not Secure] <Pandalf_> nu se mai incarca
-[18:55:32] [Server Watchdog/ERROR]: A single server tick took 2.00 seconds (should be max 0.05)
-[18:55:32] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
-[18:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
-[18:55:33] [Server Watchdog/ERROR]: This crash report has been saved to: D:\play\minecraft\pubserv\.\crash-reports\crash-2023-02-25_18.55.33-server.txt
+[19:00:28] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19:00:30] [ServerMain/INFO]: Building unoptimized datafixer
+[19:00:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:00:33] [ServerMain/INFO]: Loaded 7 recipes
+[19:00:34] [ServerMain/INFO]: Loaded 1179 advancements
+[19:00:35] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[19:00:35] [Server thread/INFO]: Loading properties
+[19:00:35] [Server thread/INFO]: Default game type: SURVIVAL
+[19:00:35] [Server thread/INFO]: Generating keypair
+[19:00:35] [Server thread/INFO]: Starting Minecraft server on *:6969
+[19:00:35] [Server thread/INFO]: Using default channel type
+[19:00:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:00:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:00:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:00:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:00:35] [Server thread/INFO]: Preparing level "world"
+[19:00:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:00:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:00:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:00:39] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:00:39] [Worker-Main-6/INFO]: Preparing spawn area: 14%
+[19:00:40] [Worker-Main-10/INFO]: Preparing spawn area: 54%
+[19:00:40] [Server thread/INFO]: Time elapsed: 3747 ms
+[19:00:40] [Server thread/INFO]: Done (4.846s)! For help, type "help"
+[19:00:49] [Server thread/INFO]: mach3tryhard[/86.127.151.84:57887] logged in with entity id 574 at (-2.9429063798263115, 76.7531999805212, -2.699999988079071)
+[19:00:49] [Server thread/INFO]: mach3tryhard joined the game
+[19:01:18] [Server thread/INFO]: clau[/109.99.27.194:50828] logged in with entity id 1337 at (-66.26353779406902, 112.0, -83.97409487248255)
+[19:01:18] [Server thread/INFO]: clau joined the game
+[19:01:35] [Server Watchdog/ERROR]: A single server tick took 2.00 seconds (should be max 0.05)
+[19:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:01:35] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[19:01:39] [Server Watchdog/ERROR]: This crash report has been saved to: D:\play\minecraft\pubserv\.\crash-reports\crash-2023-02-25_19.01.39-server.txt
+[19:01:39] [Server thread/INFO]: Stopping server
+[19:01:39] [Server thread/INFO]: Saving players
