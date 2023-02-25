@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 
 rem elevate if not done already
 set PWSH=powershell -c Start-Process -Wait -Verb RunAs -WindowStyle Maximized
