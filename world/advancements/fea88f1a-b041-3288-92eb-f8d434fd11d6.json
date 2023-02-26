@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-02-25 19:49:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-21 21:49:16 +0200"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2023-02-22 14:26:16 +0200"
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-02-21 21:12:52 +0200",
@@ -613,7 +631,9 @@
       "minecraft:creeper": "2023-02-21 00:58:16 +0200",
       "minecraft:phantom": "2023-02-22 16:52:27 +0200",
       "minecraft:cave_spider": "2023-02-22 16:01:07 +0200",
+      "minecraft:piglin": "2023-02-25 20:07:12 +0200",
       "minecraft:silverfish": "2023-02-25 17:41:44 +0200",
+      "minecraft:enderman": "2023-02-25 19:59:44 +0200",
       "minecraft:zombie": "2023-02-21 00:58:27 +0200",
       "minecraft:drowned": "2023-02-21 01:02:05 +0200"
     },
@@ -820,6 +840,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-02-21 00:49:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2023-02-25 22:33:48 +0200"
     },
     "done": true
   },
@@ -1045,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2023-02-21 21:44:36 +0200"
@@ -1156,6 +1188,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2023-02-21 21:25:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
     },
     "done": true
   },
@@ -1350,6 +1388,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2023-02-23 12:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
     },
     "done": true
   },
@@ -1556,6 +1600,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2023-02-22 16:33:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
     },
     "done": true
   },
@@ -1845,6 +1895,7 @@
       "mutton": "2023-02-22 16:32:39 +0200",
       "bread": "2023-02-21 22:27:03 +0200",
       "salmon": "2023-02-23 12:03:29 +0200",
+      "golden_carrot": "2023-02-25 21:04:25 +0200",
       "cooked_chicken": "2023-02-22 16:34:37 +0200",
       "cooked_salmon": "2023-02-21 01:01:07 +0200"
     },
@@ -2026,6 +2077,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2023-02-26 01:37:49 +0200",
       "minecraft:chicken": "2023-02-21 22:25:48 +0200"
     },
     "done": false
@@ -2816,6 +2868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-02-25 22:36:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-02-21 00:47:39 +0200"
@@ -2968,13 +3026,20 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:tabby": "2023-02-23 12:02:22 +0200"
+      "minecraft:tabby": "2023-02-23 12:02:22 +0200",
+      "minecraft:red": "2023-02-26 01:29:12 +0200"
     },
     "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2023-02-21 01:13:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2023-02-25 22:33:48 +0200"
     },
     "done": true
   },
@@ -3005,6 +3070,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-02-21 00:48:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2023-02-25 22:33:48 +0200"
     },
     "done": true
   },
