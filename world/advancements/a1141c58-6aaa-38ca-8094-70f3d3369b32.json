@@ -778,8 +778,10 @@
       "minecraft:phantom": "2023-02-21 19:03:24 +0200",
       "minecraft:witch": "2023-02-21 17:39:41 +0200",
       "minecraft:cave_spider": "2023-02-21 19:40:22 +0200",
+      "minecraft:piglin": "2023-02-26 16:54:47 +0200",
       "minecraft:enderman": "2023-02-23 15:48:02 +0200",
       "minecraft:zombie": "2023-02-21 17:26:30 +0200",
+      "minecraft:drowned": "2023-02-26 14:41:44 +0200",
       "minecraft:zombie_villager": "2023-02-23 23:16:17 +0200"
     },
     "done": false
@@ -2137,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-02-26 12:42:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-02-22 14:43:29 +0200"
@@ -2182,6 +2190,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2023-02-21 17:58:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-02-26 18:42:35 +0200"
     },
     "done": true
   },
@@ -2806,6 +2820,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-24 13:14:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-02-26 11:19:18 +0200"
     },
     "done": true
   },
