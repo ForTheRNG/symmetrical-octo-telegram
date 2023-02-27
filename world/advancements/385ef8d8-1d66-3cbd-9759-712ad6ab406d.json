@@ -895,6 +895,7 @@
       "minecraft:phantom": "2023-02-22 17:50:25 +0200",
       "minecraft:witch": "2023-02-24 12:40:27 +0200",
       "minecraft:wither_skeleton": "2023-02-24 15:19:51 +0200",
+      "minecraft:husk": "2023-02-27 21:30:00 +0200",
       "minecraft:piglin": "2023-02-23 16:26:37 +0200",
       "minecraft:enderman": "2023-02-22 15:47:39 +0200",
       "minecraft:zombie": "2023-02-21 17:06:30 +0200",
@@ -1443,6 +1444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-02-27 21:36:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-02-24 12:49:15 +0200"
@@ -1476,6 +1483,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-02-21 00:49:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2023-02-27 22:55:26 +0200"
     },
     "done": true
   },
@@ -1812,6 +1825,7 @@
       "minecraft:birch_forest": "2023-02-22 00:44:49 +0200",
       "minecraft:bamboo_jungle": "2023-02-23 01:10:42 +0200",
       "minecraft:wooded_badlands": "2023-02-23 01:14:01 +0200",
+      "minecraft:badlands": "2023-02-27 21:42:27 +0200",
       "minecraft:beach": "2023-02-21 00:47:01 +0200",
       "minecraft:dark_forest": "2023-02-23 01:32:53 +0200",
       "minecraft:stony_peaks": "2023-02-23 01:20:58 +0200",
@@ -1827,10 +1841,13 @@
       "minecraft:deep_cold_ocean": "2023-02-23 00:59:19 +0200",
       "minecraft:ice_spikes": "2023-02-23 19:32:57 +0200",
       "minecraft:frozen_ocean": "2023-02-23 19:16:56 +0200",
+      "minecraft:desert": "2023-02-27 21:27:04 +0200",
       "minecraft:windswept_forest": "2023-02-23 19:45:41 +0200",
       "minecraft:jungle": "2023-02-23 01:04:37 +0200",
       "minecraft:ocean": "2023-02-23 00:49:33 +0200",
       "minecraft:snowy_beach": "2023-02-23 19:18:18 +0200",
+      "minecraft:warm_ocean": "2023-02-27 21:26:52 +0200",
+      "minecraft:flower_forest": "2023-02-27 21:43:32 +0200",
       "minecraft:old_growth_birch_forest": "2023-02-22 13:19:25 +0200",
       "minecraft:meadow": "2023-02-23 01:23:25 +0200",
       "minecraft:plains": "2023-02-21 00:52:13 +0200"

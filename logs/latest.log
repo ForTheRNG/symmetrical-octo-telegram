@@ -1,399 +1,1148 @@
-[11:14:21] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[11:14:24] [ServerMain/INFO]: Building unoptimized datafixer
-[11:14:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:14:27] [ServerMain/INFO]: Loaded 7 recipes
-[11:14:27] [ServerMain/INFO]: Loaded 1179 advancements
-[11:14:28] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[11:14:28] [Server thread/INFO]: Loading properties
-[11:14:28] [Server thread/INFO]: Default game type: SURVIVAL
-[11:14:28] [Server thread/INFO]: Generating keypair
-[11:14:28] [Server thread/INFO]: Starting Minecraft server on *:6969
-[11:14:28] [Server thread/INFO]: Using default channel type
-[11:14:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:14:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:14:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:14:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:14:28] [Server thread/INFO]: Preparing level "world"
-[11:14:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:14:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[11:14:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[11:14:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[11:14:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:14:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[11:14:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[11:14:32] [Worker-Main-14/INFO]: Preparing spawn area: 5%
-[11:14:33] [Worker-Main-13/INFO]: Preparing spawn area: 47%
-[11:14:33] [Server thread/INFO]: Time elapsed: 3892 ms
-[11:14:33] [Server thread/INFO]: Done (4.781s)! For help, type "help"
-[11:14:40] [Server thread/INFO]: ForTheRNG[/86.127.151.84:58101] logged in with entity id 578 at (-76.49048886284241, -13.864554949490913, -50.69999998807907)
-[11:14:40] [Server thread/INFO]: ForTheRNG joined the game
-[11:19:01] [Server thread/INFO]: me_vs_me[/86.127.151.84:50017] logged in with entity id 2094 at (-37.46586170105075, 87.0, -105.47025207289151)
-[11:19:01] [Server thread/INFO]: me_vs_me joined the game
-[11:19:09] [Server thread/INFO]: [Not Secure] <me_vs_me> sa mi bag pula
-[11:19:12] [Server thread/INFO]: [Not Secure] <me_vs_me> in pula mea
-[11:19:13] [Server thread/INFO]: [Not Secure] <me_vs_me> de pula
-[11:29:25] [Server thread/INFO]: me_vs_me fell from a high place
-[11:29:29] [Server thread/INFO]: [Not Secure] <me_vs_me> pai
-[11:29:45] [Server thread/INFO]: me_vs_me fell from a high place
-[11:34:17] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[11:34:17] [Server thread/INFO]: ForTheRNG left the game
-[11:34:21] [Server thread/INFO]: ForTheRNG[/86.127.151.84:58625] logged in with entity id 6336 at (-69.17253900208168, -55.0, -41.190857721149925)
-[11:34:21] [Server thread/INFO]: ForTheRNG joined the game
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:36:32] [Server thread/WARN]: me_vs_me moved too quickly! -1237.7868147487043,20.26590000152588,-608.2830858004316
-[11:39:01] [Server thread/INFO]: Pandalf_[/82.76.173.82:55872] logged in with entity id 9960 at (1871.0712341724252, 44.0, -2964.2628964702694)
-[11:39:01] [Server thread/INFO]: Pandalf_ joined the game
-[11:39:06] [Server thread/INFO]: [Not Secure] <Pandalf_> salutti
-[11:39:09] [Server thread/INFO]: [Not Secure] <ForTheRNG> ello
-[11:39:20] [Server thread/INFO]: [Not Secure] <me_vs_me> buna
-[11:41:58] [Server thread/WARN]: Pandalf_ moved too quickly! -16.70731409702546,-2.0976897953912044,4.432883713271622
-[11:42:27] [Server thread/WARN]: Pandalf_ moved too quickly! -18.547101955804308,-1.942867281401604,1.6127188827858845
-[11:43:51] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[11:43:51] [Server thread/INFO]: Pandalf_ left the game
-[11:43:51] [Server thread/WARN]: handleDisconnection() called twice
-[11:46:48] [Server thread/INFO]: Pandalf_[/82.76.173.82:50891] logged in with entity id 21213 at (-180.18715998137176, 150.271997230215, -268.1949401807672)
-[11:46:48] [Server thread/INFO]: Pandalf_ joined the game
-[11:47:27] [Server thread/INFO]: [Not Secure] <Pandalf_> radu am ceva pt tine unde esti
-[11:47:35] [Server thread/INFO]: [Not Secure] <ForTheRNG> la chunk in fata casei, jos
-[11:48:04] [Server thread/INFO]: [Not Secure] <Pandalf_> ai mare grija cu ele
-[11:48:16] [Server thread/INFO]: [Not Secure] <ForTheRNG> k but y?
-[11:48:26] [Server thread/INFO]: [Not Secure] <Pandalf_> ca spawneaza wardeni
-[11:48:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> BRUH
-[11:51:59] [Server thread/WARN]: Pandalf_ moved too quickly! -1237.8338321245471,20.464159374955443,-608.1859371544117
-[11:53:28] [Server thread/INFO]: Pandalf_ fell out of the world
-[11:53:34] [Server thread/INFO]: [Not Secure] <Pandalf_> ??????
-[11:53:36] [Server thread/INFO]: [Not Secure] <me_vs_me> NU
-[11:53:55] [Server thread/INFO]: [Not Secure] <Pandalf_> m am buguit in carpeturi bruh
-[11:54:06] [Server thread/INFO]: [Not Secure] <me_vs_me> nuuu
-[11:54:11] [Server thread/INFO]: [Not Secure] <Pandalf_> da stiu
-[11:54:22] [Server thread/INFO]: [Not Secure] <Pandalf_> are cnv un ender chest?
-[11:54:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> eu
-[11:54:38] [Server thread/INFO]: [Not Secure] <Pandalf_> da mi si mie putin
-[11:55:58] [Server thread/INFO]: [Not Secure] <me_vs_me> aveai ceva important pe tine in afara the netherite?
-[11:56:04] [Server thread/INFO]: [Not Secure] <Pandalf_> elitra
-[11:56:08] [Server thread/INFO]: [Not Secure] <Pandalf_> si toate uneltele
-[11:56:13] [Server thread/INFO]: [Not Secure] <me_vs_me> ahh
-[11:56:16] [Server thread/INFO]: [Not Secure] <ForTheRNG> and this is why I said backups
-[11:56:19] [Server thread/INFO]: [Not Secure] <me_vs_me> iti dau eu elytra daca nu mai ai
-[11:56:23] [Server thread/INFO]: [Not Secure] <Pandalf_> a putem da inapoi?
-[11:56:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> ??
-[11:56:38] [Server thread/INFO]: [Not Secure] <ForTheRNG> a nu
-[11:56:39] [Server thread/INFO]: [Not Secure] <Pandalf_> gen la backupul trecut?
-[11:56:40] [Server thread/INFO]: [Not Secure] <Pandalf_> a
-[11:56:46] [Server thread/INFO]: [Not Secure] <Pandalf_> ia elytra asta de aici pls
-[11:56:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> backup-uri in sensul de chestii extra
-[11:56:57] [Server thread/INFO]: [Not Secure] <Pandalf_> gata ms
-[11:57:41] [Server thread/INFO]: [Not Secure] <Pandalf_> se refac repede e ok
-[11:57:47] [Server thread/INFO]: [Not Secure] <Pandalf_> mai putin netherite ul
-[12:00:12] [Server thread/INFO]: [Not Secure] <Pandalf_> a si aveam si un arc tare bun
-[12:00:19] [Server thread/INFO]: [Not Secure] <me_vs_me> pai ce poate sa aiba arcul?
-[12:00:27] [Server thread/INFO]: [Not Secure] <me_vs_me> lasa ca avem tot
-[12:00:29] [Server thread/INFO]: [Not Secure] <ForTheRNG> inf flame punch power
-[12:00:31] [Server thread/INFO]: [Not Secure] <me_vs_me> refaci rapid
-[12:00:34] [Server thread/INFO]: [Not Secure] <me_vs_me> avem si inf
-[12:00:35] [Server thread/INFO]: [Not Secure] <me_vs_me> si flame
-[12:00:38] [Server thread/INFO]: [Not Secure] <me_vs_me> la villageri
-[12:00:40] [Server thread/INFO]: [Not Secure] <me_vs_me> si oricum pica
-[12:01:29] [Server thread/INFO]: [Not Secure] <Pandalf_> avem emeralde?
-[12:01:34] [Server thread/INFO]: [Not Secure] <me_vs_me> nu
-[12:01:36] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
-[12:01:39] [Server thread/INFO]: [Not Secure] <Pandalf_> rip mending
-[12:01:57] [Server thread/INFO]: [Not Secure] <me_vs_me> iti iau eu pumpkini
-[12:02:00] [Server thread/INFO]: [Not Secure] <Pandalf_> ms ms
-[12:02:09] [Server thread/INFO]: [Not Secure] <Pandalf_> acm o sa stau in end sa enchantez tho
-[12:02:21] [Server thread/INFO]: [Not Secure] <ForTheRNG> ia si lapis cu tine sa fie acolo
-[12:02:24] [Server thread/INFO]: [Not Secure] <Pandalf_> am
-[12:02:55] [Server thread/INFO]: [Not Secure] <me_vs_me> am eu pick cu fortune aproape max
-[12:02:59] [Server thread/INFO]: [Not Secure] <me_vs_me> mai trb doar eff 5
-[12:03:00] [Server thread/INFO]: [Not Secure] <me_vs_me> are eff 4
-[12:03:03] [Server thread/INFO]: [Not Secure] <me_vs_me> ti l dau daca vrei
-[12:03:08] [Server thread/INFO]: [Not Secure] <Pandalf_> am pick max
-[12:03:08] [Server thread/INFO]: [Not Secure] <me_vs_me> sa nu l mai faci degeaba
-[12:03:10] [Server thread/INFO]: [Not Secure] <Pandalf_> daca chiar vreau
-[12:03:12] [Server thread/INFO]: [Not Secure] <me_vs_me> a ok
-[12:03:17] [Server thread/INFO]: [Not Secure] <Pandalf_> dar vreau unu cu silk
-[12:03:27] [Server thread/INFO]: [Not Secure] <me_vs_me> ok
-[12:07:14] [Server thread/INFO]: [Not Secure] <me_vs_me> ai 60 de emeralde in chest
-[12:07:15] [Server thread/INFO]: [Not Secure] <me_vs_me> eu ies papa
-[12:07:17] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[12:07:17] [Server thread/INFO]: me_vs_me left the game
-[12:07:23] [Server thread/INFO]: [Not Secure] <Pandalf_> ms
-[12:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=48, z=17} gp{x=-59, y=48, z=16}
-[12:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=48, z=17} gp{x=-59, y=48, z=16}
-[12:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=48, z=17} gp{x=-59, y=48, z=16}
-[12:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=48, z=17} gp{x=-59, y=48, z=16}
-[12:26:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=48, z=17} gp{x=-59, y=48, z=16}
-[12:26:25] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-59, y=43, z=23} gp{x=-59, y=42, z=24}
-[12:26:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-65, y=35, z=25} gp{x=-64, y=34, z=25}
-[12:26:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-65, y=35, z=25} gp{x=-64, y=34, z=25}
-[12:26:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-65, y=35, z=25} gp{x=-64, y=34, z=25}
-[12:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-67, y=30, z=26} gp{x=-67, y=29, z=26}
-[12:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-67, y=30, z=26} gp{x=-67, y=29, z=26}
-[12:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-67, y=30, z=26} gp{x=-67, y=29, z=26}
-[12:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-67, y=30, z=26} gp{x=-67, y=29, z=26}
-[12:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-67, y=30, z=26} gp{x=-67, y=29, z=26}
-[12:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-69, y=28, z=26} gp{x=-67, y=29, z=26}
-[12:27:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-84, y=19, z=52} gp{x=-88, y=19, z=52}
-[12:27:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-84, y=19, z=52} gp{x=-88, y=19, z=52}
-[12:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-112, y=17, z=89} gp{x=-113, y=17, z=89}
-[12:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-112, y=17, z=89} gp{x=-113, y=17, z=89}
-[12:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-112, y=17, z=89} gp{x=-113, y=17, z=89}
-[12:28:03] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-112, y=17, z=89} gp{x=-113, y=17, z=89}
-[12:28:15] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-107, y=16, z=96} gp{x=-109, y=15, z=94}
-[12:28:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-98, y=15, z=106} gp{x=-98, y=14, z=108}
-[12:28:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-98, y=15, z=106} gp{x=-98, y=14, z=108}
-[12:28:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-98, y=15, z=106} gp{x=-98, y=14, z=108}
-[12:28:39] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-103, y=13, z=125} gp{x=-101, y=13, z=124}
-[12:29:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-88, y=16, z=130} gp{x=-89, y=15, z=128}
-[12:29:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-88, y=16, z=130} gp{x=-89, y=15, z=128}
-[12:29:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-88, y=16, z=130} gp{x=-89, y=15, z=128}
-[12:29:06] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-88, y=16, z=130} gp{x=-89, y=15, z=128}
-[12:29:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-89, y=17, z=130} gp{x=-89, y=17, z=129}
-[12:29:45] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-100, y=9, z=143} gp{x=-101, y=9, z=143}
-[12:38:43] [Server thread/INFO]: [Not Secure] <Pandalf_> daca iti fac potiune de weakness faci tu zombie villager?
-[12:40:42] [Server thread/INFO]: [Not Secure] <Pandalf_> radu
-[12:40:47] [Server thread/INFO]: [Not Secure] <ForTheRNG> da?
-[12:40:51] [Server thread/INFO]: [Not Secure] <Pandalf_> mai imi dai si mie putin enderchestu psl?
-[12:41:05] [Server thread/INFO]: [Not Secure] <ForTheRNG> ies acu
-[12:41:20] [Server thread/INFO]: [Not Secure] <Pandalf_> unde iesi
-[12:41:28] [Server thread/INFO]: [Not Secure] <Pandalf_> a
-[12:41:45] [Server thread/INFO]: [Not Secure] <ForTheRNG> yoo un stack de blocuri
-[12:42:07] [Server thread/INFO]: [Not Secure] <Pandalf_> gata ms
-[12:42:14] [Server thread/INFO]: [Not Secure] <ForTheRNG> np
-[12:53:31] [Server thread/INFO]: [Not Secure] <Pandalf_> hai ca aproape mi am refacut o armura decenta
-[12:53:40] [Server thread/INFO]: [Not Secure] <Pandalf_> mai am nevoie doar de thorns si de unbreaking pe unele
-[12:53:43] [Server thread/INFO]: [Not Secure] <Pandalf_> si ar fi gata
-[12:57:16] [Server thread/INFO]: [Not Secure] <ForTheRNG> pe unde esti pandalf?
-[12:57:22] [Server thread/INFO]: [Not Secure] <Pandalf_> la ferma de endermani
-[12:57:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> damn
-[12:57:30] [Server thread/INFO]: [Not Secure] <Pandalf_> mai enchantez chestii tu?
-[12:59:55] [Server thread/INFO]: [Not Secure] <Pandalf_> tu?
-[13:00:09] [Server thread/INFO]: [Not Secure] <Pandalf_> am inteles
-[13:00:09] [Server thread/INFO]: [Not Secure] <ForTheRNG> fac o ferma
-[13:00:12] [Server thread/INFO]: [Not Secure] <Pandalf_> a smeker
-[13:00:15] [Server thread/INFO]: [Not Secure] <Pandalf_> ce ferma?
-[13:00:26] [Server thread/INFO]: [Not Secure] <Pandalf_> faci una din aia de emeralde?
-[13:00:27] [Server thread/INFO]: [Not Secure] <ForTheRNG> prea mare durerea de cap sa farmam pumpkin de mana
-[13:00:29] [Server thread/INFO]: [Not Secure] <Pandalf_> gen cu raiduri
-[13:00:35] [Server thread/INFO]: [Not Secure] <ForTheRNG> never done one but sure
-[13:00:38] [Server thread/INFO]: [Not Secure] <Pandalf_> AAAA
-[13:00:39] [Server thread/INFO]: [Not Secure] <Pandalf_> XD
-[13:00:42] [Server thread/INFO]: [Not Secure] <Pandalf_> ce nice
-[13:00:46] [Server thread/INFO]: [Not Secure] <Pandalf_> lag inbound
-[13:00:52] [Server thread/INFO]: [Not Secure] <ForTheRNG> hopefully not
-[13:00:58] [Server thread/INFO]: [Not Secure] <Pandalf_> mda
-[13:01:02] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu activez decat 2 pistoane / bloc
-[13:01:08] [Server thread/INFO]: [Not Secure] <Pandalf_> ma gandeam ca poate fermele mai mari le facem mai departe
-[13:01:15] [Server thread/INFO]: [Not Secure] <Pandalf_> ca sa nu creeze lag daca stam pe acasa
-[13:01:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu e o imensitate
-[13:01:24] [Server thread/INFO]: [Not Secure] <Pandalf_> da doar zic
-[13:01:30] [Server thread/INFO]: [Not Secure] <ForTheRNG> dar da e o idee buna
-[13:01:59] [Server thread/INFO]: me_vs_me[/86.127.151.84:59422] logged in with entity id 59933 at (-1.275825978070127, 66.0, -83.49611574319856)
-[13:01:59] [Server thread/INFO]: me_vs_me joined the game
-[13:02:29] [Server thread/INFO]: [Not Secure] <me_vs_me> L
-[13:02:56] [Server thread/INFO]: [Not Secure] <Pandalf_> mi se pare corect
-[13:04:20] [Server thread/INFO]: [Not Secure] <me_vs_me> help?
-[13:04:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> sure
-[13:04:53] [Server thread/INFO]: [Not Secure] <ForTheRNG> ???
-[13:04:56] [Server thread/INFO]: [Not Secure] <Pandalf_> sharpness 5 looting 3 knockback 2 mending unbreaking 3 mai trb altceva pe sabie?
-[13:04:59] [Server thread/INFO]: [Not Secure] <me_vs_me> le ai dat pick up
-[13:05:03] [Server thread/INFO]: [Not Secure] <me_vs_me> sweeping edge
-[13:05:08] [Server thread/INFO]: [Not Secure] <me_vs_me> fire aspect
-[13:05:20] [Server thread/INFO]: [Not Secure] <me_vs_me> le dai pick up...
-[13:05:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu incerc
-[13:07:50] [Server thread/INFO]: [Not Secure] <me_vs_me> done
-[13:07:56] [Server thread/INFO]: [Not Secure] <me_vs_me> cat facem?
-[13:08:27] [Server thread/INFO]: [Not Secure] <me_vs_me> ok dar am
-[13:09:18] [Server thread/INFO]: [Not Secure] <me_vs_me> unde punem ape?
-[13:09:28] [Server thread/INFO]: [Not Secure] <ForTheRNG> peste tot
-[13:09:36] [Server thread/INFO]: [Not Secure] <me_vs_me> nu trb
-[13:09:39] [Server thread/INFO]: [Not Secure] <ForTheRNG> so?
-[13:09:43] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu curge nu nimic
-[13:09:49] [Server thread/INFO]: [Not Secure] <ForTheRNG> plus sursa
-[13:09:50] [Server thread/INFO]: [Not Secure] <Pandalf_> ce faceti?
-[13:09:53] [Server thread/INFO]: [Not Secure] <me_vs_me> ferma
-[13:09:55] [Server thread/INFO]: [Not Secure] <me_vs_me> de pumpkini
-[13:09:57] [Server thread/INFO]: [Not Secure] <me_vs_me> automata
-[13:09:59] [Server thread/INFO]: [Not Secure] <Pandalf_> a ok
-[13:10:10] [Server thread/INFO]: [Not Secure] <me_vs_me> aaaa
-[13:14:16] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
-[13:14:17] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[13:14:17] [Server thread/INFO]: Pandalf_ left the game
-[13:21:55] [Server thread/INFO]: Pandalf_[/82.76.173.82:64728] logged in with entity id 66760 at (-259.41666749097936, 1.0, 6.2825476113815695)
-[13:21:55] [Server thread/INFO]: Pandalf_ joined the game
-[13:22:05] [Server thread/INFO]: [Not Secure] <me_vs_me> buna
-[13:22:10] [Server thread/INFO]: [Not Secure] <Pandalf_> salut
-[13:22:13] [Server thread/INFO]: [Not Secure] <me_vs_me> cum o mai tii cu armura?
-[13:22:18] [Server thread/INFO]: [Not Secure] <me_vs_me> si restu gearului
-[13:22:33] [Server thread/INFO]: [Not Secure] <Pandalf_> umm se reface
-[13:22:45] [Server thread/INFO]: [Not Secure] <me_vs_me> ok
-[13:22:45] [Server thread/INFO]: [Not Secure] <Pandalf_> mai am nevoie de thorns feather falling respiration mending
-[13:22:47] [Server thread/INFO]: [Not Secure] <Pandalf_> unbreaking
-[13:22:50] [Server thread/INFO]: [Not Secure] <Pandalf_> si cam atat
-[13:22:52] [Server thread/INFO]: [Not Secure] <me_vs_me> ahh
-[13:22:55] [Server thread/INFO]: [Not Secure] <me_vs_me> deci emeralde
-[13:23:01] [Server thread/INFO]: [Not Secure] <Pandalf_> asa cv
-[13:27:20] [Server thread/INFO]: [Not Secure] <Pandalf_> e aproape maxata acm
-[13:27:24] [Server thread/INFO]: [Not Secure] <me_vs_me> nice
-[13:27:29] [Server thread/INFO]: [Not Secure] <Pandalf_> mai imi trb un sharpness 5
-[13:27:34] [Server thread/INFO]: [Not Secure] <me_vs_me> il faci
-[13:27:37] [Server thread/INFO]: [Not Secure] <Pandalf_> feather falling depth strider
-[13:27:42] [Server thread/INFO]: [Not Secure] <me_vs_me> si alea le faci
-[13:27:44] [Server thread/INFO]: [Not Secure] <Pandalf_> 2 de thorns sau 3
-[13:27:48] [Server thread/INFO]: [Not Secure] <Pandalf_> si cam atat
-[13:27:50] [Server thread/INFO]: [Not Secure] <me_vs_me> nu e asa rau
-[13:27:59] [Server thread/INFO]: [Not Secure] <Pandalf_> da a fost ok
-[13:28:03] [Server thread/INFO]: [Not Secure] <Pandalf_> facem toteme?
-[13:28:20] [Server thread/INFO]: [Not Secure] <Pandalf_> adica raid?
-[13:28:29] [Server thread/INFO]: [Not Secure] <me_vs_me> mai tarziu umpic
-[13:28:32] [Server thread/INFO]: [Not Secure] <me_vs_me> acum fac ferma cu radu
-[13:28:33] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
-[13:34:44] [Server thread/INFO]: [Not Secure] <me_vs_me> blocuri
-[13:34:49] [Server thread/INFO]: [Not Secure] <me_vs_me> nuu
-[13:34:53] [Server thread/INFO]: [Not Secure] <me_vs_me> pistoane et
-[13:34:55] [Server thread/INFO]: [Not Secure] <me_vs_me> c
-[13:35:41] [Server thread/INFO]: [Not Secure] <me_vs_me> torte
-[13:35:44] [Server thread/INFO]: [Not Secure] <Pandalf_> n am
-[13:35:57] [Server thread/INFO]: [Not Secure] <me_vs_me> ii ziceam lui radu
-[13:36:02] [Server thread/INFO]: [Not Secure] <me_vs_me> dar ok
-[13:36:21] [Server thread/INFO]: [Not Secure] <me_vs_me> ziceam sa pui
-[13:36:23] [Server thread/INFO]: [Not Secure] <me_vs_me> am 18
-[13:37:20] [Server thread/INFO]: [Not Secure] <Pandalf_> pantalonii sunt maxati
-[13:37:29] [Server thread/INFO]: [Not Secure] <me_vs_me> bravo
-[13:37:36] [Server thread/INFO]: [Not Secure] <Pandalf_> dar sincer as fi vrut sa am si enchantu ala nou pe ei
-[13:37:46] [Server thread/INFO]: [Not Secure] <Pandalf_> ca cica e unu care e gasit doar in ancient sity
-[13:37:53] [Server thread/INFO]: [Not Secure] <Pandalf_> si trb sa il pui pe pantaloni
-[13:37:59] [Server thread/INFO]: [Not Secure] <Pandalf_> si mergi mai repede
-[13:38:01] [Server thread/INFO]: [Not Secure] <Pandalf_> pe coruch
-[13:39:12] [Server thread/INFO]: [Not Secure] <me_vs_me> fuck
-[13:39:13] [Server thread/INFO]: [Not Secure] <me_vs_me> scuze
-[13:39:15] [Server thread/INFO]: [Not Secure] <me_vs_me> aici
-[13:40:07] [Server thread/INFO]: [Not Secure] <me_vs_me> cate seminte mai ai?
-[13:40:16] [Server thread/INFO]: [Not Secure] <ForTheRNG> problema nu e aia mai am 19 pistoane
-[13:40:24] [Server thread/INFO]: [Not Secure] <ForTheRNG> aveam calculat pt 2 stackuri
-[13:40:25] [Server thread/INFO]: [Not Secure] <me_vs_me> si eu
-[13:40:27] [Server thread/INFO]: [Not Secure] <me_vs_me> 2 randuri
-[13:40:50] [Server thread/INFO]: [Not Secure] <me_vs_me> mai facem 2 etaje
-[13:40:50] [Server thread/INFO]: [Not Secure] <me_vs_me> aia e
-[13:40:55] [Server thread/INFO]: [Not Secure] <ForTheRNG> fair nuff
-[13:41:05] [Server thread/INFO]: [Not Secure] <me_vs_me> fuck vad un pumpkin acolo blocat
-[13:41:08] [Server thread/INFO]: [Not Secure] <ForTheRNG> dupa zic sa facem cutia mai mare sa putem extinde
-[13:41:09] [Server thread/INFO]: Pandalf_ fell from a high place
-[13:41:12] [Server thread/INFO]: [Not Secure] <Pandalf_> ???
-[13:41:16] [Server thread/INFO]: [Not Secure] <ForTheRNG> ??????
-[13:41:21] [Server thread/INFO]: [Not Secure] <Pandalf_> a da nu am feather falling
-[13:41:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> moment
-[13:42:02] [Server thread/INFO]: [Not Secure] <Pandalf_> in fine pare ca am luat totu
-[13:42:31] [Server thread/INFO]: [Not Secure] <me_vs_me> o buna
-[13:42:39] [Server thread/INFO]: [Not Secure] <ForTheRNG> hello hello
-[13:48:17] [Server thread/WARN]: ForTheRNG moved wrongly!
-[13:52:25] [Server thread/INFO]: ForTheRNG was burnt to a crisp whilst fighting me_vs_me
-[14:03:02] [Server thread/INFO]: [Not Secure] <me_vs_me> pandalf
-[14:03:09] [Server thread/INFO]: [Not Secure] <me_vs_me> facem raid daca vrei acum
-[14:03:22] [Server thread/INFO]: [Not Secure] <me_vs_me> dar spune ca vreau sa minez netherite
-[14:03:22] [Server thread/INFO]: [Not Secure] <Pandalf_> ok?
-[14:03:28] [Server thread/INFO]: [Not Secure] <me_vs_me> ok
-[14:03:28] [Server thread/INFO]: [Not Secure] <Pandalf_> haide
-[14:03:39] [Server thread/INFO]: [Not Secure] <me_vs_me> ou nu prea am fireworkuri
-[14:03:41] [Server thread/INFO]: [Not Secure] <Pandalf_> du te la satu ala de data trecuta
-[14:03:45] [Server thread/INFO]: [Not Secure] <me_vs_me> eu omor creeperi
-[14:04:06] [Server thread/INFO]: [Not Secure] <Pandalf_> haide
-[14:04:09] [Server thread/INFO]: [Not Secure] <Pandalf_> ca am pornit raidu
-[14:04:28] [Server thread/INFO]: [Not Secure] <me_vs_me> coord?
-[14:04:33] [Server thread/INFO]: [Not Secure] <Pandalf_> 100 -500
-[14:05:04] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[14:05:04] [Server thread/INFO]: Pandalf_ left the game
-[14:05:17] [Server thread/INFO]: Pandalf_[/82.76.173.82:51611] logged in with entity id 82990 at (96.27331033891984, 72.0, -510.6868813813641)
-[14:05:17] [Server thread/INFO]: Pandalf_ joined the game
-[14:05:28] [Server thread/INFO]: [Not Secure] <me_vs_me> de ce ai iesit?
-[14:05:34] [Server thread/INFO]: [Not Secure] <Pandalf_> disconnected
-[14:05:36] [Server thread/INFO]: [Not Secure] <me_vs_me> a bruh
-[14:05:39] [Server thread/INFO]: [Not Secure] <Pandalf_> da stiu
-[14:05:48] [Server thread/INFO]: [Not Secure] <ForTheRNG> credeam ca nu mai face figuri
-[14:06:13] [Server thread/INFO]: [Not Secure] <me_vs_me> ce faci
-[14:06:18] [Server thread/INFO]: [Not Secure] <Pandalf_> eram putin afk
-[14:06:19] [Server thread/INFO]: [Not Secure] <Pandalf_> sry
-[14:06:21] [Server thread/INFO]: [Not Secure] <me_vs_me> ok
-[14:07:55] [Server thread/INFO]: [Not Secure] <me_vs_me> huh?
-[14:08:11] [Server thread/INFO]: [Not Secure] <Pandalf_> idk de unde vin sincer
-[14:08:18] [Server thread/INFO]: [Not Secure] <Pandalf_> i am vzt
-[14:08:25] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt pe partea cealalta a muntelui
-[14:08:27] [Server thread/INFO]: [Not Secure] <me_vs_me> unde
-[14:09:20] [Server thread/INFO]: [Not Secure] <Pandalf_> tot acolo
-[14:14:13] [Server thread/INFO]: [Not Secure] <Pandalf_> gg ez
-[14:14:21] [Server thread/INFO]: [Not Secure] <me_vs_me> n am artificii :/
-[14:14:34] [Server thread/INFO]: [Not Secure] <Pandalf_> mie ca ma trasneste in aer
-[14:14:45] [Server thread/INFO]: [Not Secure] <ForTheRNG> tehnic ferma e in productie daca vreti sa veniti
-[14:14:56] [Server thread/INFO]: [Not Secure] <ForTheRNG> sau farmati toteme?
-[14:15:12] [Server thread/INFO]: [Not Secure] <Pandalf_> gata totemele
-[14:15:42] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
-[14:15:43] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[14:15:43] [Server thread/INFO]: Pandalf_ left the game
-[14:15:48] [Server thread/INFO]: Pandalf_[/82.76.173.82:55626] logged in with entity id 89776 at (-59.64521042634531, 71.0, -47.60267295062006)
-[14:15:48] [Server thread/INFO]: Pandalf_ joined the game
-[14:15:51] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
-[14:15:53] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[14:15:53] [Server thread/INFO]: Pandalf_ left the game
-[14:17:58] [Server thread/WARN]: Horse (vehicle of me_vs_me) moved wrongly! 0.2920631540246461
-[14:18:01] [Server thread/WARN]: Horse (vehicle of me_vs_me) moved wrongly! 0.36311037214133535
-[14:18:02] [Server thread/WARN]: Horse (vehicle of me_vs_me) moved wrongly! 0.32964222759315476
-[14:18:02] [Server thread/WARN]: Horse (vehicle of me_vs_me) moved wrongly! 0.2965275896818156
-[14:21:58] [Server thread/INFO]: me_vs_me has reached the goal [Hired Help]
-[14:26:53] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[14:26:53] [Server thread/INFO]: me_vs_me left the game
-[14:29:47] [Server thread/INFO]: me_vs_me[/86.127.151.84:63382] logged in with entity id 94462 at (4.967216263991666, 68.0, -81.67171465590334)
-[14:29:47] [Server thread/INFO]: me_vs_me joined the game
-[15:02:33] [Server thread/INFO]: [Not Secure] <me_vs_me> sleeeep
-[15:02:48] [Server thread/INFO]: [Not Secure] <me_vs_me> ZzZZzzzzzZZzzzzzZZZzZZZZZzzz
-[15:02:50] [Server thread/INFO]: [Not Secure] <me_vs_me> hai
-[15:33:13] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[15:33:13] [Server thread/INFO]: ForTheRNG left the game
-[15:38:15] [Server thread/INFO]: me_vs_me lost connection: Disconnected
-[15:38:15] [Server thread/INFO]: me_vs_me left the game
-[16:08:18] [Server thread/INFO]: ForTheRNG[/86.127.151.84:49394] logged in with entity id 124612 at (-44.69999998807907, 93.0, -108.63463898043115)
-[16:08:18] [Server thread/INFO]: ForTheRNG joined the game
-[16:16:54] [Server thread/INFO]: Villager bwc['Villager'/204, l='ServerLevel[world]', x=-70.69, y=-21.50, z=-43.47] died, message: 'Villager hit the ground too hard'
-[16:27:00] [Server thread/INFO]: ForTheRNG fell from a high place
-[16:27:01] [Server thread/WARN]: ForTheRNG moved too quickly! 16.10575375406229,126.5625,-39.60108681787456
-[16:55:57] [Server thread/WARN]: ForTheRNG moved too quickly! -1237.268169810669,20.26590000152588,-608.1941654651341
-[16:55:57] [Server thread/WARN]: ForTheRNG moved too quickly! -1237.268169810669,20.26590000152588,-608.1941654651341
-[16:55:57] [Server thread/WARN]: ForTheRNG moved too quickly! -1237.268169810669,20.26590000152588,-608.1941654651341
-[16:55:57] [Server thread/WARN]: ForTheRNG moved too quickly! -1237.268169810669,20.26590000152588,-608.1941654651341
-[17:34:32] [Server thread/INFO]: mach3tryhard[/86.127.151.84:50213] logged in with entity id 151497 at (-55.052201639191466, 127.0, -82.10383788191479)
-[17:34:33] [Server thread/INFO]: mach3tryhard joined the game
-[17:40:32] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[17:40:32] [Server thread/INFO]: mach3tryhard left the game
-[17:55:27] [Server thread/INFO]: mach3tryhard[/86.127.151.84:50800] logged in with entity id 162693 at (-2.9062159214069947, 66.0, -47.061430506814176)
-[17:55:27] [Server thread/INFO]: mach3tryhard joined the game
-[18:04:38] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[18:04:38] [Server thread/INFO]: mach3tryhard left the game
-[18:42:35] [Server thread/INFO]: ForTheRNG has reached the goal [Beaconator]
-[18:47:16] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
-[18:47:16] [Server thread/INFO]: ForTheRNG left the game
-[22:17:58] [Server thread/INFO]: GabeGabitzu[/79.115.63.110:63324] logged in with entity id 181329 at (-76.45184442843832, 94.0, -78.36898613100882)
-[22:17:58] [Server thread/INFO]: GabeGabitzu joined the game
-[22:18:30] [Server thread/INFO]: GabeGabitzu lost connection: Disconnected
-[22:18:30] [Server thread/INFO]: GabeGabitzu left the game
-[23:09:06] [Server thread/INFO]: Stopping the server
-[23:09:06] [Server thread/INFO]: Stopping server
-[23:09:06] [Server thread/INFO]: Saving players
-[23:09:06] [Server thread/INFO]: Saving worlds
-[23:09:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:09:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:09:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:09:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:09:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:09:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:09:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:26:46] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[18:26:48] [ServerMain/INFO]: Building unoptimized datafixer
+[18:26:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:26:52] [ServerMain/INFO]: Loaded 7 recipes
+[18:26:52] [ServerMain/INFO]: Loaded 1179 advancements
+[18:26:53] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[18:26:53] [Server thread/INFO]: Loading properties
+[18:26:53] [Server thread/INFO]: Default game type: SURVIVAL
+[18:26:53] [Server thread/INFO]: Generating keypair
+[18:26:53] [Server thread/INFO]: Starting Minecraft server on *:6969
+[18:26:54] [Server thread/INFO]: Using default channel type
+[18:26:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:26:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:26:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:26:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:26:54] [Server thread/INFO]: Preparing level "world"
+[18:26:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:26:58] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:26:58] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:26:59] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:26:59] [Worker-Main-13/INFO]: Preparing spawn area: 31%
+[18:27:00] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[18:27:00] [Server thread/INFO]: Time elapsed: 4865 ms
+[18:27:00] [Server thread/INFO]: Done (6.304s)! For help, type "help"
+[18:29:43] [Server thread/INFO]: Pandalf_[/82.76.173.82:6324] logged in with entity id 639 at (-59.64521042634531, 71.0, -47.60267295062006)
+[18:29:43] [Server thread/INFO]: Pandalf_ joined the game
+[18:29:47] [Server thread/INFO]: [Not Secure] <Pandalf_> hopa
+[18:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18:30:26] [Server thread/INFO]: [Not Secure] [Server] damn deja?
+[18:30:30] [Server thread/INFO]: [Not Secure] <Pandalf_> ce?
+[18:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
+[18:30:50] [Server thread/INFO]: [Not Secure] [Server] serveru e cu 100 de tickuri in urma lol
+[18:30:56] [Server thread/INFO]: ForTheRNG[/86.127.151.84:55941] logged in with entity id 1198 at (0.8733658353540028, 82.0, -2.756114751978996)
+[18:30:56] [Server thread/INFO]: ForTheRNG joined the game
+[18:30:57] [Server thread/INFO]: [Not Secure] <Pandalf_> vad ca ati terminat beaconu XD
+[18:31:14] [Server thread/INFO]: [Not Secure] <ForTheRNG> mhm
+[18:31:24] [Server thread/INFO]: [Not Secure] <ForTheRNG> am redirectionat feru de la ferma
+[18:31:28] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[18:35:06] [Server thread/INFO]: [Not Secure] <Pandalf_> stii
+[18:35:08] [Server thread/INFO]: [Not Secure] <Pandalf_> ma gandeam
+[18:35:13] [Server thread/INFO]: [Not Secure] <Pandalf_> ca poate incepem sa iluminam zona
+[18:35:15] [Server thread/INFO]: [Not Secure] <Pandalf_> foarte mult
+[18:35:24] [Server thread/INFO]: [Not Secure] <Pandalf_> o sa ma ocup eu de lanterne/torte
+[18:35:29] [Server thread/INFO]: [Not Secure] <ForTheRNG> atunci sure
+[18:35:30] [Server thread/INFO]: [Not Secure] <Pandalf_> dar acm mai am cv de facut pt gear
+[18:35:34] [Server thread/INFO]: [Not Secure] <ForTheRNG> same
+[18:40:07] [Server thread/INFO]: [Not Secure] <Pandalf_> unde esti btw
+[18:40:17] [Server thread/INFO]: [Not Secure] <ForTheRNG> vreau sa farmez blaze rods
+[18:40:21] [Server thread/INFO]: [Not Secure] <Pandalf_> aa
+[18:40:23] [Server thread/INFO]: [Not Secure] <Pandalf_> dar avem
+[18:40:23] [Server thread/INFO]: [Not Secure] <ForTheRNG> sa fac chesturi
+[18:40:24] [Server thread/INFO]: [Not Secure] <Pandalf_> cateva
+[18:40:28] [Server thread/INFO]: [Not Secure] <Pandalf_> adica am eu 30
+[18:40:31] [Server thread/INFO]: [Not Secure] <Pandalf_> sau ceva de genu
+[18:40:35] [Server thread/INFO]: [Not Secure] <ForTheRNG> ceva in genul
+[18:40:38] [Server thread/INFO]: ForTheRNG has completed the challenge [Hot Tourist Destinations]
+[18:40:47] [Server thread/INFO]: [Not Secure] <ForTheRNG> plus ca imi trebuie soul speed
+[18:40:58] [Server thread/INFO]: [Not Secure] <Pandalf_> chiar vrei sa ti iei aia
+[18:41:10] [Server thread/INFO]: [Not Secure] <ForTheRNG> de ce nu?
+[18:41:33] [Server thread/INFO]: [Not Secure] <Pandalf_> idk dar daca gasesti sa mi dai si mie
+[18:41:42] [Server thread/INFO]: [Not Secure] <Pandalf_> sau zi cum se face si rezolvam
+[18:41:56] [Server thread/INFO]: [Not Secure] <ForTheRNG> piglin trades babyyyyy
+[18:42:01] [Server thread/INFO]: [Not Secure] <Pandalf_> a serios
+[18:42:05] [Server thread/INFO]: [Not Secure] <Pandalf_> am niste gold daca e
+[18:42:12] [Server thread/INFO]: [Not Secure] <ForTheRNG> sau poate bastioane la o adica
+[18:42:17] [Server thread/INFO]: [Not Secure] <Pandalf_> am fost
+[18:42:19] [Server thread/INFO]: [Not Secure] <Pandalf_> la cateva
+[18:42:34] [Server thread/INFO]: [Not Secure] <ForTheRNG> presupun ca n-ai gasit si atunci nu
+[18:42:37] [Server thread/INFO]: [Not Secure] <Pandalf_> nu
+[18:42:43] [Server thread/INFO]: [Not Secure] <Pandalf_> am gasit 4 netherite tho
+[18:42:47] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv intr un bastion
+[18:43:15] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-12, y=67, z=346} gp{x=-8, y=68, z=377}
+[18:43:15] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-12, y=67, z=346} gp{x=-8, y=68, z=377}
+[18:44:54] [Server thread/INFO]: [Not Secure] <Pandalf_> hai ca vin sa te ajut
+[18:45:08] [Server thread/INFO]: [Not Secure] <ForTheRNG> stai ca trebuie sa dau de fortress intai
+[18:45:15] [Server thread/INFO]: [Not Secure] <Pandalf_> pai ma duc cu elytra
+[18:45:30] [Server thread/INFO]: [Not Secure] <Pandalf_> imd gasesc
+[18:45:34] [Server thread/INFO]: [Not Secure] <Pandalf_> si fortareata si bastion
+[18:45:40] [Server thread/INFO]: [Not Secure] <Pandalf_> deci de ce avem nevoie mai exact?
+[18:45:50] [Server thread/INFO]: [Not Secure] <Pandalf_> discul din bastion soul speed si blaze rod?
+[18:46:07] [Server thread/INFO]: [Not Secure] <ForTheRNG> cam asta e lista de cumparaturi
+[18:46:09] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[18:47:03] [Server thread/INFO]: [Not Secure] <Pandalf_> um era sa mi dea crash mc sau serverul a avut un mic
+[18:47:05] [Server thread/INFO]: [Not Secure] <Pandalf_> drop?
+[18:47:11] [Server thread/INFO]: [Not Secure] <ForTheRNG> no drop
+[18:47:16] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv spamam tasta 3 sa am totemu in mana
+[18:47:34] [Server thread/INFO]: [Not Secure] <ForTheRNG> stai ca vrea matei o mana
+[18:47:37] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[18:47:37] [Server thread/INFO]: ForTheRNG left the game
+[18:47:38] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[18:50:27] [Server thread/INFO]: ForTheRNG[/86.127.151.84:56445] logged in with entity id 14232 at (17.93379502771319, 60.0, 304.3431697848473)
+[18:50:27] [Server thread/INFO]: ForTheRNG joined the game
+[18:50:32] [Server thread/INFO]: [Not Secure] <ForTheRNG> back
+[18:50:38] [Server thread/INFO]: [Not Secure] <Pandalf_> am simtit XD
+[18:50:48] [Server thread/INFO]: [Not Secure] <Pandalf_> dar adk
+[18:50:56] [Server thread/INFO]: [Not Secure] <Pandalf_> avea nevoie de o mana
+[18:51:12] [Server thread/INFO]: [Not Secure] <ForTheRNG> acu intrebarea de $1e6: unde era fortareata?
+[18:51:30] [Server thread/INFO]: [Not Secure] <Pandalf_> era aproape de noi eu am gasit alta unde pot farma witheri
+[18:51:32] [Server thread/INFO]: [Not Secure] <Pandalf_> deja am 2 capete
+[18:51:34] [Server thread/INFO]: [Not Secure] <Pandalf_> in 2 min
+[18:51:45] [Server thread/INFO]: [Not Secure] <ForTheRNG> bruh
+[18:51:55] [Server thread/INFO]: [Not Secure] <Pandalf_> adica
+[18:51:59] [Server thread/INFO]: [Not Secure] <Pandalf_> facem 4 beaconuri
+[18:52:07] [Server thread/INFO]: [Not Secure] <Pandalf_> sa avem toate efectele :)
+[18:52:19] [Server thread/INFO]: [Not Secure] <ForTheRNG> perfect de acord dar 2 capete in 2 min e noroc porcesc
+[18:52:27] [Server thread/INFO]: [Not Secure] <Pandalf_> sau 10 witheri random
+[18:53:04] [Server thread/INFO]: [Not Secure] <Pandalf_> am gasit si nether wart
+[18:58:31] [Server thread/INFO]: ForTheRNG has made the advancement [A Terrible Fortress]
+[18:59:48] [Server thread/INFO]: [Not Secure] <Pandalf_> 4 capete
+[19:00:08] [Server thread/INFO]: [Not Secure] <ForTheRNG> 0
+[19:03:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> gata blaze rods
+[19:03:35] [Server thread/INFO]: [Not Secure] <Pandalf_> am si eu 26
+[19:04:41] [Server thread/INFO]: Pandalf_ has made the advancement [Who is Cutting Onions?]
+[19:05:09] [Server thread/INFO]: [Not Secure] <Pandalf_> ok brb 5 10 min
+[19:05:22] [Server thread/INFO]: [Not Secure] <Pandalf_> in 2 min
+[19:06:49] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:06:49] [Server thread/INFO]: Pandalf_ left the game
+[19:11:51] [Server thread/INFO]: Pandalf_[/82.76.173.82:61547] logged in with entity id 22826 at (-479.9606540333291, 82.0, -1553.6122340743646)
+[19:11:51] [Server thread/INFO]: Pandalf_ joined the game
+[19:11:56] [Server thread/INFO]: [Not Secure] <Pandalf_> brb in cam 2 min
+[19:12:00] [Server thread/INFO]: [Not Secure] <Pandalf_> tot asa random
+[19:12:02] [Server thread/INFO]: [Not Secure] <Pandalf_> dar ma intorc
+[19:12:09] [Server thread/INFO]: [Not Secure] <Pandalf_> btw cand intra si matei sau mircea?
+[19:12:12] [Server thread/INFO]: [Not Secure] <Pandalf_> sau amandoi?
+[19:12:14] [Server thread/INFO]: [Not Secure] <ForTheRNG> idk
+[19:12:37] [Server thread/INFO]: ForTheRNG has made the advancement [Oh Shiny]
+[19:12:40] [Server thread/INFO]: [Not Secure] <Pandalf_> nice
+[19:12:55] [Server thread/INFO]: ForTheRNG has made the advancement [Who is Cutting Onions?]
+[19:13:47] [Server thread/INFO]: [Not Secure] <Pandalf_> am gasit bastioana
+[19:13:54] [Server thread/INFO]: [Not Secure] <ForTheRNG> nice
+[19:14:32] [Server thread/INFO]: [Not Secure] <Pandalf_> sa vad daca o pot loota fara sa mor tho
+[19:14:36] [Server thread/INFO]: [Not Secure] <ForTheRNG> bafta
+[19:15:15] [Server thread/INFO]: [Not Secure] <ForTheRNG> ss1 bby
+[19:17:32] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:17:32] [Server thread/INFO]: Pandalf_ left the game
+[19:19:07] [Server thread/INFO]: Pandalf_[/82.76.173.82:61591] logged in with entity id 25640 at (-733.8872494832586, 84.4787636546968, -2246.449824403008)
+[19:19:07] [Server thread/INFO]: Pandalf_ joined the game
+[19:19:31] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:19:31] [Server thread/INFO]: Pandalf_ left the game
+[19:20:20] [Server thread/INFO]: Pandalf_[/82.76.173.82:6415] logged in with entity id 26151 at (-735.2428366554861, 84.0, -2237.1521941875776)
+[19:20:20] [Server thread/INFO]: Pandalf_ joined the game
+[19:20:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> wtf r u doin
+[19:20:38] [Server thread/INFO]: [Not Secure] <Pandalf_> intru si ies
+[19:20:42] [Server thread/INFO]: [Not Secure] <ForTheRNG> observ
+[19:20:50] [Server thread/INFO]: [Not Secure] <Pandalf_> ma striga mama sa mi arate idk ce
+[19:20:56] [Server thread/INFO]: [Not Secure] <Pandalf_> si trb sa vin de fiecare data
+[19:21:37] [Server thread/INFO]: [Not Secure] <ForTheRNG> I hate this game
+[19:21:42] [Server thread/INFO]: [Not Secure] <Pandalf_> same
+[19:21:51] [Server thread/INFO]: [Not Secure] <ForTheRNG> am 3 carti cu ss1 si doua iron boots cu ss3
+[19:22:10] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:22:10] [Server thread/INFO]: Pandalf_ left the game
+[19:22:16] [Server thread/INFO]: Pandalf_[/82.76.173.82:61632] logged in with entity id 26773 at (-723.2062508564758, 73.0, -2225.993766920973)
+[19:22:16] [Server thread/INFO]: Pandalf_ joined the game
+[19:22:40] [Server thread/WARN]: Pandalf_ moved wrongly!
+[19:24:49] [Server thread/INFO]: [Not Secure] <Pandalf_> inca un bastion poate la asta gasesc cv
+[19:28:09] [Server thread/INFO]: [Not Secure] <Pandalf_> nimic din nou
+[19:28:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> damn
+[19:28:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> am primit un fire res extins :)
+[19:29:07] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:29:07] [Server thread/INFO]: Pandalf_ left the game
+[19:31:53] [Server thread/INFO]: Pandalf_[/82.76.173.82:7305] logged in with entity id 30744 at (-1189.2750365618415, 84.89730066485225, -3106.014193438977)
+[19:31:53] [Server thread/INFO]: Pandalf_ joined the game
+[19:32:53] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:32:53] [Server thread/INFO]: Pandalf_ left the game
+[19:32:59] [Server thread/INFO]: Pandalf_[/82.76.173.82:7464] logged in with entity id 31571 at (-1295.401073071245, 75.69067590809895, -3293.4671390180656)
+[19:32:59] [Server thread/INFO]: Pandalf_ joined the game
+[19:33:21] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:33:21] [Server thread/INFO]: Pandalf_ left the game
+[19:34:06] [Server thread/INFO]: Pandalf_[/82.76.173.82:7593] logged in with entity id 32202 at (-1232.9491911393661, 100.13847521083707, -3387.9275158810424)
+[19:34:06] [Server thread/INFO]: Pandalf_ joined the game
+[19:34:13] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:34:13] [Server thread/INFO]: Pandalf_ left the game
+[19:34:17] [Server thread/INFO]: Pandalf_[/82.76.173.82:56749] logged in with entity id 32414 at (-1208.5488188038335, 84.31341076326099, -3456.556358451835)
+[19:34:17] [Server thread/INFO]: Pandalf_ joined the game
+[19:34:41] [Server thread/INFO]: [Not Secure] <Pandalf_> imi vreau discul
+[19:35:02] [Server thread/INFO]: [Not Secure] <ForTheRNG> no disk no bitches
+[19:35:23] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[19:36:00] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[19:36:00] [Server thread/INFO]: Pandalf_ left the game
+[19:36:57] [Server thread/INFO]: [Not Secure] <ForTheRNG> am jumate de stack de crying obsidian help
+[19:36:58] [Server thread/INFO]: Pandalf_[/82.76.173.82:7385] logged in with entity id 33958 at (-1387.3911863285798, 59.03551337223376, -4237.269324983694)
+[19:36:58] [Server thread/INFO]: Pandalf_ joined the game
+[19:37:30] [Server thread/INFO]: [Not Secure] <Pandalf_> ok gata m as intoarce ca idk daca mai am artificii
+[19:38:22] [Server thread/INFO]: [Not Secure] <Pandalf_> ok o sa fac ultimu bsation si ma intorc
+[19:40:38] [Server thread/INFO]: [Not Secure] <Pandalf_> LETS GO IL AM
+[19:40:47] [Server thread/INFO]: [Not Secure] <ForTheRNG> crezi ca mai prinzi unu?
+[19:41:06] [Server thread/INFO]: [Not Secure] <Pandalf_> idk nu cred
+[19:41:11] [Server thread/INFO]: [Not Secure] <Pandalf_> nu mai are chesturi bastionu
+[19:41:14] [Server thread/INFO]: [Not Secure] <ForTheRNG> fair nuff
+[19:41:17] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[19:41:26] [Server thread/INFO]: [Not Secure] <Pandalf_> nvm
+[19:41:41] [Server thread/INFO]: [Not Secure] <Pandalf_> al 4 lea bastion are un disc
+[19:41:42] [Server thread/INFO]: [Not Secure] <Pandalf_> omg
+[19:43:15] [Server thread/INFO]: Pandalf_ has completed the challenge [Subspace Bubble]
+[19:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[19:43:26] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt la 45k blocuri de 0 0
+[19:43:31] [Server thread/INFO]: [Not Secure] <Pandalf_> incepem
+[19:43:42] [Server thread/INFO]: [Not Secure] <ForTheRNG> fuk u doin
+[19:43:47] [Server thread/INFO]: [Not Secure] <Pandalf_> vin acasa
+[19:43:51] [Server thread/INFO]: [Not Secure] <Pandalf_> prin ow
+[19:43:53] [Server thread/INFO]: [Not Secure] <ForTheRNG> burh???
+[19:44:04] [Server thread/INFO]: [Not Secure] <Pandalf_> nu ma mai intorc altgel
+[19:44:06] [Server thread/INFO]: [Not Secure] <Pandalf_> altfel
+[19:44:13] [Server thread/INFO]: [Not Secure] <ForTheRNG> no fireworks?
+[19:44:18] [Server thread/INFO]: [Not Secure] <Pandalf_> am
+[19:44:19] [Server thread/INFO]: [Not Secure] <Pandalf_> cateva
+[19:44:27] [Server thread/INFO]: ForTheRNG has made the advancement [Those Were the Days]
+[19:45:54] [Server thread/INFO]: ForTheRNG has made the advancement [War Pigs]
+[19:46:03] [Server thread/INFO]: [Not Secure] <Pandalf_> mie ca nu ma tine elytra
+[19:46:07] [Server thread/INFO]: [Not Secure] <Pandalf_> nu artificiile
+[19:46:15] [Server thread/INFO]: [Not Secure] <ForTheRNG> la asta nu m-am gandit
+[19:46:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> no mending?
+[19:46:29] [Server thread/INFO]: [Not Secure] <Pandalf_> am
+[19:46:32] [Server thread/INFO]: [Not Secure] <Pandalf_> si unbreaking 3
+[19:46:44] [Server thread/INFO]: [Not Secure] <Pandalf_> dar prefer sa nu ma opresc pe drum
+[19:50:22] [Server thread/INFO]: [Not Secure] <Pandalf_> inca 35k blocuri
+[19:51:13] [Server thread/INFO]: [Not Secure] <ForTheRNG> today on cleaning a bastion for no fun and no profit
+[19:51:24] [Server thread/INFO]: [Not Secure] <Pandalf_> stiu cum e
+[19:51:26] [Server thread/INFO]: [Not Secure] <Pandalf_> same
+[19:51:29] [Server thread/INFO]: [Not Secure] <Pandalf_> cu 3 bastioane
+[19:51:42] [Server thread/INFO]: [Not Secure] <ForTheRNG> *no* profit
+[19:51:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> nici macar netherite
+[19:51:53] [Server thread/INFO]: [Not Secure] <Pandalf_> eu mi am spart un totem
+[19:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=101, y=48, z=20} gp{x=97, y=59, z=31}
+[19:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=101, y=48, z=20} gp{x=97, y=59, z=31}
+[19:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=101, y=48, z=20} gp{x=97, y=59, z=31}
+[19:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=101, y=48, z=20} gp{x=97, y=59, z=31}
+[19:54:16] [Server thread/INFO]: [Not Secure] <Pandalf_> mai am jumat de elytra
+[19:58:12] [Server thread/INFO]: [Not Secure] <Pandalf_> inca 25k blocuri
+[19:58:43] [Server thread/INFO]: [Not Secure] <Pandalf_> cumva ti s a incalzit pc ul ?:)
+[19:58:52] [Server thread/INFO]: [Not Secure] <ForTheRNG> yes
+[19:58:54] [Server thread/INFO]: [Not Secure] <ForTheRNG> i hate u
+[19:58:57] [Server thread/INFO]: [Not Secure] <Pandalf_> hi hi
+[19:59:01] [Server thread/INFO]: [Not Secure] <Pandalf_> serios?
+[19:59:21] [Server thread/INFO]: [Not Secure] <Pandalf_> ca mi dau renderu la 2 chunkuri daca vrei
+[19:59:34] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu stiu daca asta ajuta
+[19:59:46] [Server thread/INFO]: [Not Secure] <Pandalf_> decat sa incarc 8 chunkuri
+[19:59:49] [Server thread/INFO]: [Not Secure] <Pandalf_> constant
+[20:00:43] [Server thread/INFO]: [Not Secure] <Pandalf_> neatza cu razvan si dani
+[20:01:30] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:01:30] [Server thread/INFO]: Pandalf_ left the game
+[20:01:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> 44 CRYING OBSIDIAN
+[20:03:00] [Server thread/INFO]: Pandalf_[/82.76.173.82:7923] logged in with entity id 73816 at (-3445.5639420929433, 129.19273200911516, -18616.17982374705)
+[20:03:00] [Server thread/INFO]: Pandalf_ joined the game
+[20:05:22] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[20:05:24] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:05:24] [Server thread/INFO]: Pandalf_ left the game
+[20:07:37] [Server thread/INFO]: Pandalf_[/82.76.173.82:7531] logged in with entity id 78933 at (-3149.724385699475, 157.0, -16316.300612508587)
+[20:07:37] [Server thread/INFO]: Pandalf_ joined the game
+[20:08:27] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:08:27] [Server thread/INFO]: Pandalf_ left the game
+[20:08:36] [Server thread/INFO]: Pandalf_[/82.76.173.82:49815] logged in with entity id 79473 at (-3144.125419134193, 158.0, -16311.49089426602)
+[20:08:36] [Server thread/INFO]: Pandalf_ joined the game
+[20:09:08] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:09:08] [Server thread/INFO]: Pandalf_ left the game
+[20:09:37] [Server thread/INFO]: Pandalf_[/82.76.173.82:49829] logged in with entity id 80235 at (-3165.5738508460386, 185.0, -16255.804817873432)
+[20:09:37] [Server thread/INFO]: Pandalf_ joined the game
+[20:11:10] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:11:10] [Server thread/INFO]: Pandalf_ left the game
+[20:11:35] [Server thread/INFO]: Pandalf_[/82.76.173.82:49866] logged in with entity id 83116 at (-2847.1301986051644, 159.28477849234883, -14955.659957233322)
+[20:11:35] [Server thread/INFO]: Pandalf_ joined the game
+[20:21:12] [Server thread/INFO]: [Not Secure] <Pandalf_> arde pc ul?
+[20:21:22] [Server thread/INFO]: [Not Secure] <ForTheRNG> pretty hot
+[20:21:47] [Server thread/INFO]: [Not Secure] <Pandalf_> dar tu hostezi serveru de pe pc ul de pe care joci?
+[20:21:51] [Server thread/INFO]: [Not Secure] <ForTheRNG> yeah
+[20:21:55] [Server thread/INFO]: [Not Secure] <Pandalf_> a
+[20:22:00] [Server thread/INFO]: [Not Secure] <Pandalf_> si simti lag sau cv?
+[20:22:22] [Server thread/INFO]: [Not Secure] <ForTheRNG> am incercat intr-o seara de pe un laptop mai vechi al nimanui
+[20:22:25] [Server thread/INFO]: [Not Secure] <ForTheRNG> n-a mers
+[20:22:28] [Server thread/INFO]: [Not Secure] <Pandalf_> aha
+[20:22:41] [Server thread/INFO]: [Not Secure] <Pandalf_> deci trb sa fie ceva de acpu lui ca sa hostezi
+[20:22:44] [Server thread/INFO]: [Not Secure] <Pandalf_> capu*
+[20:22:48] [Server thread/INFO]: [Not Secure] <ForTheRNG> yeah
+[20:22:54] [Server thread/INFO]: [Not Secure] <ForTheRNG> al PATRULEA ss1
+[20:23:06] [Server thread/INFO]: [Not Secure] <Pandalf_> ss1?
+[20:23:12] [Server thread/INFO]: [Not Secure] <ForTheRNG> soul speed
+[20:23:16] [Server thread/INFO]: [Not Secure] <Pandalf_> a
+[20:23:18] [Server thread/INFO]: [Not Secure] <Pandalf_> nice
+[20:23:29] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[20:23:31] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:23:31] [Server thread/INFO]: Pandalf_ left the game
+[20:32:43] [Server thread/INFO]: Pandalf_[/82.76.173.82:49934] logged in with entity id 100959 at (-2559.161047395437, 101.36852188910692, -7575.2380529642605)
+[20:32:43] [Server thread/INFO]: Pandalf_ joined the game
+[20:32:56] [Server thread/INFO]: [Not Secure] <Pandalf_> inca 9k blocuri
+[20:33:02] [Server thread/INFO]: [Not Secure] <Pandalf_> unde eram cu discutia?
+[20:33:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> idk dar eu ma car
+[20:33:23] [Server thread/INFO]: [Not Secure] <ForTheRNG> din nether
+[20:33:23] [Server thread/INFO]: [Not Secure] <Pandalf_> din nether?
+[20:33:26] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[20:33:33] [Server thread/INFO]: [Not Secure] <Pandalf_> wise choice
+[20:34:26] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu mai caut soul speed ever
+[20:34:31] [Server thread/INFO]: [Not Secure] <ForTheRNG> ne multumim cu ss2?
+[20:34:32] [Server thread/INFO]: [Not Secure] <Pandalf_> te inteleg
+[20:34:40] [Server thread/INFO]: [Not Secure] <Pandalf_> poti sa ti pui tu ss3
+[20:34:44] [Server thread/INFO]: [Not Secure] <ForTheRNG> sure?
+[20:34:47] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[20:34:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> ok
+[20:34:56] [Server thread/INFO]: [Not Secure] <Pandalf_> ca oricum zbor pe acolo
+[20:35:04] [Server thread/INFO]: [Not Secure] <Pandalf_> ar fi degeaba
+[20:35:30] [Server thread/INFO]: [Not Secure] <Pandalf_> inca 5k blocuri
+[20:39:28] [Server thread/INFO]: [Not Secure] <Pandalf_> am un sponge
+[20:40:52] [Server thread/INFO]: mach3tryhard[/86.127.151.84:57155] logged in with entity id 118048 at (-73.84470103477186, -21.5, -39.68144140060928)
+[20:40:52] [Server thread/INFO]: mach3tryhard joined the game
+[20:40:55] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[20:40:57] [Server thread/INFO]: [Not Secure] <ForTheRNG> ello
+[20:40:57] [Server thread/INFO]: [Not Secure] <Pandalf_> am un sponge
+[20:41:31] [Server thread/INFO]: [Not Secure] <mach3tryhard> timpul sa teraformam
+[20:41:56] [Server thread/INFO]: [Not Secure] <ForTheRNG> sure you do that
+[20:42:07] [Server thread/INFO]: [Not Secure] <ForTheRNG> eu inca nu am pantaloni
+[20:44:23] [Server thread/INFO]: [Not Secure] <Pandalf_> brb 2 min
+[20:44:24] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:44:24] [Server thread/INFO]: Pandalf_ left the game
+[20:47:35] [Server thread/INFO]: Pandalf_[/82.76.173.82:61446] logged in with entity id 120747 at (-38.68937092191966, 72.0, -53.373857332616865)
+[20:47:35] [Server thread/INFO]: Pandalf_ joined the game
+[20:47:43] [Server thread/INFO]: [Not Secure] <Pandalf_> ok ma duc sa enchantez uno lopata
+[20:48:39] [Server thread/INFO]: [Not Secure] <Pandalf_> mache vrei un burete?
+[20:48:42] [Server thread/INFO]: [Not Secure] <mach3tryhard> nah
+[20:48:44] [Server thread/INFO]: [Not Secure] <Pandalf_> mache vrei un enderchest?
+[20:48:51] [Server thread/INFO]: [Not Secure] <mach3tryhard> am am
+[20:48:53] [Server thread/INFO]: [Not Secure] <Pandalf_> a ok
+[20:48:55] [Server thread/INFO]: [Not Secure] <mach3tryhard> hai sa golim
+[20:48:59] [Server thread/INFO]: [Not Secure] <mach3tryhard> o parte din ocean
+[20:49:01] [Server thread/INFO]: [Not Secure] <mach3tryhard> vrei?
+[20:49:02] [Server thread/INFO]: [Not Secure] <Pandalf_> vrei un netherite scrap?
+[20:49:08] [Server thread/INFO]: [Not Secure] <Pandalf_> nu golim oceanul wtf
+[20:49:14] [Server thread/INFO]: [Not Secure] <mach3tryhard> LOL
+[20:49:18] [Server thread/INFO]: [Not Secure] <mach3tryhard> bine alta data
+[20:49:21] [Server thread/INFO]: [Not Secure] <mach3tryhard> stai ca merg la masa
+[20:49:24] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[20:49:24] [Server thread/INFO]: mach3tryhard left the game
+[20:49:25] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[20:49:29] [Server thread/INFO]: [Not Secure] <Pandalf_> pa radu
+[20:50:22] [Server thread/INFO]: mach3tryhard[/86.127.151.84:58281] logged in with entity id 122608 at (28.058136256377633, 68.0, -68.63134453541694)
+[20:50:22] [Server thread/INFO]: mach3tryhard joined the game
+[20:50:28] [Server thread/INFO]: [Not Secure] <mach3tryhard> nvm nu acum
+[20:50:29] [Server thread/INFO]: [Not Secure] <Pandalf_> cam repede ai mancat
+[20:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=40, y=67, z=-78} gp{x=40, y=66, z=-76}
+[20:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=40, y=67, z=-78} gp{x=40, y=66, z=-76}
+[20:52:40] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[20:52:40] [Server thread/INFO]: Pandalf_ left the game
+[20:54:12] [Server thread/INFO]: Pandalf_[/82.76.173.82:57225] logged in with entity id 127447 at (-260.4646691762184, 1.0, -1.3636457741409789)
+[20:54:12] [Server thread/INFO]: Pandalf_ joined the game
+[20:54:49] [Server thread/INFO]: [Not Secure] <Pandalf_> mache :-)
+[20:54:55] [Server thread/INFO]: [Not Secure] <mach3tryhard> da?
+[20:54:58] [Server thread/INFO]: [Not Secure] <Pandalf_> cf?
+[20:55:02] [Server thread/INFO]: [Not Secure] <mach3tryhard> sunt la baza
+[20:55:05] [Server thread/INFO]: [Not Secure] <mach3tryhard> teraformez
+[20:55:07] [Server thread/INFO]: [Not Secure] <Pandalf_> vrei un burete?
+[20:55:12] [Server thread/INFO]: [Not Secure] <mach3tryhard> uhh sure
+[20:57:08] [Server thread/INFO]: [Not Secure] <Pandalf_> a btw ma gandeam sa si iluminam zona
+[20:57:14] [Server thread/INFO]: [Not Secure] <mach3tryhard> poti face asta
+[20:57:16] [Server thread/INFO]: [Not Secure] <Pandalf_> dar trb gabi si claudia sa si termine casele
+[20:57:22] [Server thread/INFO]: [Not Secure] <mach3tryhard> ah yeah fair
+[20:57:24] [Server thread/INFO]: [Not Secure] <Pandalf_> si sa punem dirt sub casele lor
+[20:57:25] [Server thread/INFO]: [Not Secure] <Pandalf_> si dupa
+[20:58:10] [Server thread/INFO]: [Not Secure] <Pandalf_> de unde culegi ferma de pumpkin?
+[20:58:22] [Server thread/INFO]: [Not Secure] <ForTheRNG> de sus, alea doua chesturi cu apa langa
+[20:58:28] [Server thread/INFO]: [Not Secure] <ForTheRNG> dar tocmai am cules eu
+[20:58:30] [Server thread/INFO]: [Not Secure] <Pandalf_> serios ok wow
+[20:59:22] [Server thread/INFO]: [Not Secure] <Pandalf_> da si mie niste dirt pls
+[20:59:29] [Server thread/INFO]: [Not Secure] <mach3tryhard> nu mai am mult
+[20:59:32] [Server thread/INFO]: [Not Secure] <mach3tryhard> ia din chesturi
+[20:59:33] [Server thread/INFO]: [Not Secure] <Pandalf_> ok ma duc sa aduc
+[20:59:36] [Server thread/INFO]: [Not Secure] <mach3tryhard> la chunkul minat
+[21:00:32] [Server thread/INFO]: [Not Secure] <ForTheRNG> ne ducem la masa
+[21:00:36] [Server thread/INFO]: [Not Secure] <ForTheRNG> sau eu ma duc
+[21:00:42] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[21:00:46] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu fi surprinsa daca pleaca si mache
+[21:00:48] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[21:00:48] [Server thread/INFO]: ForTheRNG left the game
+[21:01:32] [Server thread/INFO]: [Not Secure] <mach3tryhard> aolo
+[21:01:35] [Server thread/INFO]: [Not Secure] <mach3tryhard> nu mai avem dirt
+[21:01:47] [Server thread/INFO]: [Not Secure] <Pandalf_> mai e aici
+[21:01:55] [Server thread/INFO]: [Not Secure] <mach3tryhard> iau de acasa
+[21:01:59] [Server thread/INFO]: [Not Secure] <mach3tryhard> ma intorc
+[21:02:06] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[21:02:06] [Server thread/INFO]: mach3tryhard left the game
+[21:04:05] [Server thread/INFO]: mach3tryhard[/86.127.151.84:58761] logged in with entity id 133750 at (-54.83983626394625, 111.0, -94.92042520863204)
+[21:04:05] [Server thread/INFO]: mach3tryhard joined the game
+[21:04:10] [Server thread/INFO]: [Not Secure] <Pandalf_> salut
+[21:04:17] [Server thread/INFO]: [Not Secure] <mach3tryhard> im back
+[21:07:37] [Server thread/INFO]: [Not Secure] <Pandalf_> auzi dar nu arata weird
+[21:07:39] [Server thread/INFO]: [Not Secure] <Pandalf_> ca gen e apa
+[21:08:03] [Server thread/INFO]: [Not Secure] <mach3tryhard> pai vreau
+[21:08:08] [Server thread/INFO]: [Not Secure] <mach3tryhard> sa arate man made
+[21:08:15] [Server thread/INFO]: [Not Secure] <Pandalf_> dc?
+[21:08:18] [Server thread/INFO]: [Not Secure] <mach3tryhard> idk
+[21:08:25] [Server thread/INFO]: [Not Secure] <mach3tryhard> mi se pare mai misto nush
+[21:08:26] [Server thread/INFO]: [Not Secure] <Pandalf_> haide ba ca ii strici farmecu
+[21:08:35] [Server thread/INFO]: [Not Secure] <Pandalf_> zici ca suntem in era industriaa
+[21:08:39] [Server thread/INFO]: [Not Secure] <mach3tryhard> well putem cobora
+[21:09:40] [Server thread/INFO]: [Not Secure] <mach3tryhard> nuu
+[21:09:43] [Server thread/INFO]: [Not Secure] <mach3tryhard> stai
+[21:09:46] [Server thread/INFO]: [Not Secure] <mach3tryhard> acolo punem sand
+[21:09:48] [Server thread/INFO]: clau[/109.99.27.194:50079] logged in with entity id 135922 at (-72.29989385434648, 109.0, -92.0287639005723)
+[21:09:48] [Server thread/INFO]: clau joined the game
+[21:09:50] [Server thread/INFO]: [Not Secure] <Pandalf_> a ok
+[21:09:51] [Server thread/INFO]: [Not Secure] <mach3tryhard> ca voiai sa coboare right?
+[21:09:55] [Server thread/INFO]: [Not Secure] <Pandalf_> da da
+[21:10:05] [Server thread/INFO]: [Not Secure] <clau> heloo
+[21:10:09] [Server thread/INFO]: [Not Secure] <Pandalf_> neata
+[21:10:09] [Server thread/INFO]: [Not Secure] <mach3tryhard> saluut
+[21:10:35] [Server thread/INFO]: [Not Secure] <Pandalf_> ma duc sa aduc torte brb
+[21:10:41] [Server thread/INFO]: [Not Secure] <mach3tryhard> adu si sand daca e
+[21:10:47] [Server thread/INFO]: [Not Secure] <Pandalf_> caut
+[21:10:48] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=52, y=64, z=-49} gp{x=53, y=63, z=-60}
+[21:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=52, y=64, z=-49} gp{x=53, y=63, z=-60}
+[21:10:52] [Server thread/INFO]: [Not Secure] <Pandalf_> 0 sand
+[21:11:36] [Server thread/INFO]: [Not Secure] <clau> de ceee disparrr axolotiii
+[21:11:46] [Server thread/INFO]: [Not Secure] <Pandalf_> ii mananca raluca
+[21:11:56] [Server thread/INFO]: [Not Secure] <Pandalf_> neironic raluca ti l a luat
+[21:12:05] [Server thread/INFO]: [Not Secure] <clau> :o
+[21:14:14] [Server thread/INFO]: [Not Secure] <Pandalf_> sall matei
+[21:14:22] [Server thread/INFO]: [Not Secure] <Pandalf_> ce mananci?
+[21:15:12] [Server thread/INFO]: [Not Secure] <Pandalf_> zi mache
+[21:15:14] [Server thread/INFO]: [Not Secure] <Pandalf_> ce mananci
+[21:15:17] [Server thread/INFO]: [Not Secure] <mach3tryhard> carne
+[21:15:19] [Server thread/INFO]: [Not Secure] <mach3tryhard> cartofi
+[21:15:26] [Server thread/INFO]: [Not Secure] <mach3tryhard> si salata cu gen morcovi mere si
+[21:15:30] [Server thread/INFO]: [Not Secure] <mach3tryhard> gen sfecla rosie
+[21:15:32] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt gen pe vc cu tine
+[21:15:39] [Server thread/INFO]: [Not Secure] <Pandalf_> salata cu morcovi si mere wtf
+[21:15:44] [Server thread/INFO]: [Not Secure] <Pandalf_> suna a meniu de la ikea
+[21:15:48] [Server thread/INFO]: clau has made the advancement [Tactical Fishing]
+[21:16:50] [Server thread/INFO]: [Not Secure] <Pandalf_> pot sa ti dau report pe mc wtf
+[21:17:05] [Server thread/INFO]: [Not Secure] <mach3tryhard> da e de cc
+[21:17:06] [Server thread/INFO]: [Not Secure] <mach3tryhard> t
+[21:17:07] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[21:17:10] [Server thread/INFO]: [Not Secure] <Pandalf_> inca sunt pe vc
+[21:17:17] [Server thread/INFO]: [Not Secure] <Pandalf_> hai sa facem un wtiehr
+[21:17:19] [Server thread/INFO]: [Not Secure] <Pandalf_> wither
+[21:17:21] [Server thread/INFO]: [Not Secure] <Pandalf_> ca am capet
+[21:17:23] [Server thread/INFO]: [Not Secure] <Pandalf_> e
+[21:17:55] [Server thread/INFO]: clau fell from a high place
+[21:17:58] [Server thread/WARN]: clau moved too quickly! -8.068304677501068,34.0,-21.320416580217298
+[21:18:00] [Server thread/INFO]: [Not Secure] <Pandalf_> am inteles...?
+[21:18:08] [Server thread/INFO]: [Not Secure] <clau> fuck
+[21:18:10] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:18:13] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=61, y=53, z=-39} gp{x=62, y=55, z=-38}
+[21:18:14] [Server thread/INFO]: [Not Secure] <Pandalf_> am 5 capete
+[21:18:26] [Server thread/INFO]: [Not Secure] <Pandalf_> l as fi facut eu
+[21:18:40] [Server thread/INFO]: [Not Secure] <Pandalf_> vin cu tine
+[21:19:42] [Server thread/INFO]: Pandalf_ has made the advancement [Country Lode, Take Me Home]
+[21:20:05] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[21:20:18] [Server thread/INFO]: [Not Secure] <Pandalf_> unde iti arata ala?
+[21:20:40] [Server thread/INFO]: [Not Secure] <Pandalf_> ba nu
+[21:20:41] [Server thread/INFO]: [Not Secure] <Pandalf_> e bine
+[21:20:44] [Server thread/INFO]: [Not Secure] <Pandalf_> trb doar pus jos
+[21:21:17] [Server thread/WARN]: Pandalf_ moved wrongly!
+[21:21:54] [Server thread/INFO]: [Not Secure] <clau> what is this
+[21:21:58] [Server thread/INFO]: [Not Secure] <clau> moss maker
+[21:22:20] [Server thread/INFO]: [Not Secure] <Pandalf_> da?
+[21:22:22] [Server thread/INFO]: [Not Secure] <Pandalf_> 57
+[21:22:31] [Server thread/INFO]: ForTheRNG[/86.127.151.84:53128] logged in with entity id 141407 at (-17.490152318174694, 68.1875, -83.79476227519795)
+[21:22:31] [Server thread/INFO]: ForTheRNG joined the game
+[21:22:38] [Server thread/INFO]: [Not Secure] <clau> helo
+[21:22:40] [Server thread/INFO]: [Not Secure] <Pandalf_> vin si eu stai
+[21:22:55] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[21:23:17] [Server thread/INFO]: [Not Secure] <Pandalf_> da nici eu nu am vzt desert
+[21:23:33] [Server thread/INFO]: [Not Secure] <Pandalf_> radu unde esti?
+[21:23:52] [Server thread/INFO]: [Not Secure] <Pandalf_> radu unde esti?
+[21:24:04] [Server thread/INFO]: [Not Secure] <ForTheRNG> acasa farmez emeralde
+[21:24:19] [Server thread/INFO]: [Not Secure] <ForTheRNG> mai trebuie mending thorns & unbreak
+[21:24:28] [Server thread/INFO]: [Not Secure] <ForTheRNG> yooo thanks
+[21:24:54] [Server thread/WARN]: Pandalf_ moved wrongly!
+[21:24:54] [Server thread/INFO]: [Not Secure] <ForTheRNG> mersi sefule
+[21:24:56] [Server thread/INFO]: [Not Secure] <Pandalf_> cp
+[21:25:01] [Server thread/INFO]: [Not Secure] <Pandalf_> e singura pe care o am tho
+[21:25:06] [Server thread/INFO]: [Not Secure] <Pandalf_> zi mache coord
+[21:27:04] [Server thread/INFO]: [Not Secure] <Pandalf_> coord in chat pls
+[21:27:15] [Server thread/INFO]: [Not Secure] <mach3tryhard> 3000 900
+[21:27:22] [Server thread/INFO]: [Not Secure] <Pandalf_> ms
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3039, y=70, z=883} gp{x=3038, y=69, z=883}
+[21:29:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3041, y=69, z=881} gp{x=3040, y=69, z=881}
+[21:29:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3041, y=69, z=881} gp{x=3040, y=69, z=881}
+[21:29:32] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3041, y=69, z=881} gp{x=3040, y=69, z=881}
+[21:29:48] [Server thread/INFO]: [Not Secure] <Pandalf_> corali
+[21:29:53] [Server thread/INFO]: [Not Secure] <ForTheRNG> mhm
+[21:29:57] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[21:30:29] [Server thread/INFO]: [Not Secure] <Pandalf_> corali
+[21:30:39] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:30:41] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:31:08] [Server thread/INFO]: [Not Secure] <clau> imi terminai casa david
+[21:31:12] [Server thread/INFO]: [Not Secure] <Pandalf_> ok ms
+[21:31:27] [Server thread/INFO]: [Not Secure] <clau> da ce vrei sa faci mai exact
+[21:31:33] [Server thread/INFO]: [Not Secure] <Pandalf_> sa repar muntele
+[21:31:36] [Server thread/INFO]: [Not Secure] <Pandalf_> sa arate frumos
+[21:31:43] [Server thread/INFO]: [Not Secure] <clau> si cum il repari
+[21:31:45] [Server thread/INFO]: [Not Secure] <Pandalf_> si sa l luminez
+[21:31:54] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv pun dirt si blocuri unde sunt lipsa
+[21:31:59] [Server thread/INFO]: [Not Secure] <clau> aa ok
+[21:32:16] [Server thread/INFO]: [Not Secure] <Pandalf_> pufferfish ce dragut e
+[21:32:29] [Server thread/INFO]: [Not Secure] <clau> voi ce ati fct azi la afi
+[21:32:33] [Server thread/INFO]: [Not Secure] <Pandalf_> film
+[21:32:40] [Server thread/INFO]: [Not Secure] <Pandalf_> cartofi
+[21:32:47] [Server thread/INFO]: [Not Secure] <ForTheRNG> puss in boots sau ceva dezamagitor
+[21:32:52] [Server thread/INFO]: [Not Secure] <Pandalf_> ant man
+[21:32:58] [Server thread/INFO]: [Not Secure] <ForTheRNG> am inteles
+[21:33:01] [Server thread/INFO]: [Not Secure] <Pandalf_> am fi vrut la puss in boots
+[21:33:06] [Server thread/INFO]: [Not Secure] <Pandalf_> diriga
+[21:33:07] [Server thread/INFO]: [Not Secure] <clau> merita filmu
+[21:33:27] [Server thread/INFO]: [Not Secure] <Pandalf_> e efectiv a 2 a oara cand vad ant man
+[21:33:33] [Server thread/INFO]: [Not Secure] <Pandalf_> si la fel de dezamagitor a fost
+[21:33:44] [Server thread/INFO]: [Not Secure] <Pandalf_> si diriga a admis asta
+[21:33:46] [Server thread/INFO]: [Not Secure] <ForTheRNG> de ce ar fi mai putin dezamagitor
+[21:33:49] [Server thread/INFO]: [Not Secure] <clau> a lol
+[21:33:54] [Server thread/INFO]: [Not Secure] <Pandalf_> a btw claudia ms
+[21:34:01] [Server thread/INFO]: [Not Secure] <clau> ?
+[21:34:06] [Server thread/INFO]: [Not Secure] <Pandalf_> ai fost efectiv singura din grupul ala care mi a zis buna
+[21:34:07] [Server thread/INFO]: [Not Secure] <Pandalf_> bruh
+[21:34:14] [Server thread/INFO]: [Not Secure] <mach3tryhard> really???
+[21:34:14] [Server thread/INFO]: [Not Secure] <mach3tryhard> wtf
+[21:34:16] [Server thread/INFO]: [Not Secure] <clau> aa
+[21:34:24] [Server thread/INFO]: [Not Secure] <mach3tryhard> ce urat
+[21:34:25] [Server thread/INFO]: [Not Secure] <clau> no need to thank
+[21:34:29] [Server thread/INFO]: [Not Secure] <clau> mda
+[21:34:59] [Server thread/INFO]: [Not Secure] <Pandalf_> o chemi pe ralu aici
+[21:35:01] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[21:35:03] [Server thread/INFO]: [Not Secure] <Pandalf_> mache?
+[21:35:11] [Server thread/INFO]: [Not Secure] <clau> well nus cum sa iti zic dar aylin era putin traumatizata
+[21:35:17] [Server thread/INFO]: [Not Secure] <clau> ca si mine...
+[21:35:17] [Server thread/INFO]: [Not Secure] <Pandalf_> ok and?
+[21:35:22] [Server thread/INFO]: [Not Secure] <Pandalf_> poti sa zici buna
+[21:35:24] [Server thread/INFO]: [Not Secure] <Pandalf_> like bru
+[21:35:25] [Server thread/INFO]: [Not Secure] <clau> ea a luat omai rau
+[21:35:37] [Server thread/INFO]: [Not Secure] <Pandalf_> aha
+[21:35:49] [Server thread/INFO]: [Not Secure] <clau> well am vzt un cadavru so
+[21:35:54] [Server thread/INFO]: [Not Secure] <Pandalf_> a ales si ea prost clasa de pe dnd si acm a ramas un cleric
+[21:36:00] [Server thread/INFO]: [Not Secure] <Pandalf_> eu am vazut mai multe
+[21:36:11] [Server thread/INFO]: [Not Secure] <Pandalf_> unu in tineretului unu la pacii si unu parca pe un camp cv
+[21:36:14] [Server thread/INFO]: [Not Secure] <clau> real life
+[21:36:18] [Server thread/INFO]: [Not Secure] <Pandalf_> da?
+[21:36:20] [Server thread/INFO]: [Not Secure] <clau> wait tf
+[21:36:20] [Server thread/INFO]: [Not Secure] <ForTheRNG> sunt confuz e vorba de dnd sau irl cu cadavrul
+[21:36:22] [Server thread/INFO]: [Not Secure] <Pandalf_> unde altundeva
+[21:36:49] [Server thread/INFO]: [Not Secure] <Pandalf_> justitiaru de berceni
+[21:36:54] [Server thread/INFO]: [Not Secure] <ForTheRNG> also cadavre umane sau de animale?
+[21:36:58] [Server thread/INFO]: [Not Secure] <Pandalf_> umnane
+[21:37:00] [Server thread/INFO]: [Not Secure] <Pandalf_> umane
+[21:37:06] [Server thread/INFO]: [Not Secure] <Pandalf_> ala de la pacii
+[21:37:09] [Server thread/INFO]: [Not Secure] <ForTheRNG> bro cum naiba ai vazut 3 cadavre
+[21:37:12] [Server thread/INFO]: [Not Secure] <Pandalf_> mergeam la meditatii intr a 8a
+[21:37:17] [Server thread/INFO]: [Not Secure] <Pandalf_> si gen am trecut printr un parc
+[21:37:21] [Server thread/INFO]: [Not Secure] <Pandalf_> pe lkanga un om pe banca
+[21:37:25] [Server thread/INFO]: [Not Secure] <Pandalf_> si gen cand vin inapoi
+[21:37:30] [Server thread/INFO]: [Not Secure] <Pandalf_> ghici ce
+[21:37:38] [Server thread/INFO]: [Not Secure] <Pandalf_> era o punga albastra sau vc pe banca aia
+[21:37:41] [Server thread/INFO]: [Not Secure] <Pandalf_> si gen politie
+[21:37:44] [Server thread/INFO]: [Not Secure] <Pandalf_> si kkt uri
+[21:37:46] [Server thread/INFO]: [Not Secure] <clau> man
+[21:37:47] [Server thread/INFO]: [Not Secure] <Pandalf_> si am presupus ca da
+[21:37:50] [Server thread/INFO]: [Not Secure] <clau> fara punga
+[21:37:54] [Server thread/INFO]: [Not Secure] <clau> ai vzt?
+[21:37:56] [Server thread/INFO]: [Not Secure] <Pandalf_> gen da
+[21:38:12] [Server thread/INFO]: [Not Secure] <Pandalf_> dar asa mi s a confirmat ca tipu era gg
+[21:38:13] [Server thread/INFO]: [Not Secure] <Pandalf_> wp
+[21:38:55] [Server thread/INFO]: [Not Secure] <Pandalf_> nu fi misogin
+[21:38:57] [Server thread/INFO]: [Not Secure] <Pandalf_> MATEI
+[21:39:04] [Server thread/INFO]: [Not Secure] <Pandalf_> ca dupa se supara ralucutza
+[21:39:12] [Server thread/INFO]: [Not Secure] <clau> ce a zis -_-
+[21:39:16] [Server thread/INFO]: [Not Secure] <Pandalf_> nmk lasa
+[21:39:41] [Server thread/INFO]: [Not Secure] <clau> matei cand ai maine voluntariat?
+[21:39:43] [Server thread/INFO]: [Not Secure] <Pandalf_> i mean putem testa
+[21:40:02] [Server thread/INFO]: [Not Secure] <Pandalf_> matei putem testa
+[21:40:05] [Server thread/INFO]: [Not Secure] <Pandalf_> hais a o facme
+[21:40:36] [Server thread/INFO]: [Not Secure] <Pandalf_> am inventaru plin de corali
+[21:40:39] [Server thread/INFO]: [Not Secure] <Pandalf_> mergem?
+[21:40:56] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[21:40:56] [Server thread/INFO]: mach3tryhard left the game
+[21:41:17] [Server thread/INFO]: mach3tryhard[/86.127.151.84:64863] logged in with entity id 169948 at (3040.284804619578, 61.59345789076124, 956.0044477515485)
+[21:41:17] [Server thread/INFO]: mach3tryhard joined the game
+[21:41:28] [Server thread/INFO]: [Not Secure] <ForTheRNG> timpul sa farmam obsidian
+[21:41:32] [Server thread/INFO]: [Not Secure] <Pandalf_> am 4
+[21:41:33] [Server thread/INFO]: [Not Secure] <ForTheRNG> this will be so much fun
+[21:41:33] [Server thread/INFO]: [Not Secure] <Pandalf_> 40
+[21:41:46] [Server thread/INFO]: [Not Secure] <Pandalf_> te ajuta?
+[21:41:50] [Server thread/INFO]: [Not Secure] <ForTheRNG> daca minez interiorul turnurilor se poate respawna dragonul?
+[21:41:56] [Server thread/INFO]: [Not Secure] <Pandalf_> parca da idk?
+[21:41:59] [Server thread/INFO]: [Not Secure] <Pandalf_> vezi pe net
+[21:42:08] [Server thread/INFO]: [Not Secure] <Pandalf_> sunt dragutzi coralii
+[21:42:10] [Server thread/INFO]: [Not Secure] <ForTheRNG> kk
+[21:42:14] [Server thread/INFO]: [Not Secure] <Pandalf_> eu clar am luat destui
+[21:42:29] [Server thread/INFO]: [Not Secure] <Pandalf_> 45 de grade in sus
+[21:42:46] [Server thread/INFO]: [Not Secure] <Pandalf_> da gen din 3 rachete faci pana acasa
+[21:43:03] [Server thread/INFO]: [Not Secure] <Pandalf_> daca se si renderuiesc chunkurile
+[21:44:54] [Server thread/INFO]: [Not Secure] <Pandalf_> mai avem cate ceva de facut tho
+[21:45:06] [Server thread/INFO]: [Not Secure] <Pandalf_> incepe sa arate a cv
+[21:45:39] [Server thread/INFO]: [Not Secure] <Pandalf_> funny
+[21:45:41] [Server thread/INFO]: [Not Secure] <Pandalf_> hah
+[21:46:00] [Server thread/INFO]: [Not Secure] <Pandalf_> taliu best organiser
+[21:46:02] [Server thread/INFO]: [Not Secure] <Pandalf_> fr fr
+[21:46:10] [Server thread/INFO]: [Not Secure] <Pandalf_> intreab o pe raluca daca intra
+[21:46:21] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[21:46:30] [Server thread/INFO]: [Not Secure] <Pandalf_> zi ralucai
+[21:46:34] [Server thread/INFO]: [Not Secure] <Pandalf_> sa lase duolingoul
+[21:46:35] [Server thread/INFO]: [Not Secure] <Pandalf_> si sa intre
+[21:47:06] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.3201946335304626
+[21:47:06] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9088395509229485
+[21:47:06] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.49882975008063113
+[21:47:16] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.29536092178888396
+[21:47:16] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.7522498010482934
+[21:47:16] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2984869488562083
+[21:47:34] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2935710499847808
+[21:47:34] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9550034195415513
+[21:47:34] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.6178769143935394
+[21:47:43] [Server thread/INFO]: [Not Secure] <clau> wer are u
+[21:47:53] [Server thread/INFO]: [Not Secure] <Pandalf_> cn?
+[21:47:55] [Server thread/INFO]: [Not Secure] <clau> tu
+[21:47:59] [Server thread/INFO]: [Not Secure] <Pandalf_> sus
+[21:48:03] [Server thread/INFO]: [Not Secure] <Pandalf_> la etaju cu spruce
+[21:48:25] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2578820592601119
+[21:48:25] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.8971910699019361
+[21:48:44] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.30819846956899255
+[21:48:44] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9210725212023192
+[21:48:50] [Server thread/INFO]: Ra1302[/79.114.172.12:50677] logged in with entity id 179754 at (-55.462047423080826, 93.0, -81.38473426232052)
+[21:48:50] [Server thread/INFO]: Ra1302 joined the game
+[21:49:09] [Server thread/INFO]: [Not Secure] <clau> ra
+[21:49:11] [Server thread/INFO]: [Not Secure] <Pandalf_> ca sa joci cu noi bruh??
+[21:49:17] [Server thread/INFO]: [Not Secure] <clau> maine la 7 la moxa
+[21:49:22] [Server thread/INFO]: [Not Secure] <Ra1302> idk man
+[21:49:24] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.32556995055593063
+[21:49:24] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9007084508194936
+[21:49:33] [Server thread/INFO]: [Not Secure] <Ra1302> a primit info de la salajeanu sau?
+[21:49:45] [Server thread/INFO]: [Not Secure] <Pandalf_> putem sa refacem dragonu btw
+[21:50:06] [Server thread/INFO]: [Not Secure] <clau> cum hraneam un cal
+[21:50:10] [Server thread/INFO]: [Not Secure] <Pandalf_> mere
+[21:50:14] [Server thread/INFO]: [Not Secure] <Pandalf_> g appleuri
+[21:50:45] [Server thread/INFO]: [Not Secure] <Pandalf_> claudia
+[21:50:50] [Server thread/INFO]: [Not Secure] <clau> aa
+[21:50:56] [Server thread/INFO]: [Not Secure] <Pandalf_> nu ti ai terminat curtea aia
+[21:50:56] [Server thread/INFO]: [Not Secure] <clau> eu incercam cu morcov
+[21:50:57] [Server thread/INFO]: [Not Secure] <Pandalf_> sau ce e
+[21:51:13] [Server thread/INFO]: [Not Secure] <clau> ra ai mere
+[21:51:17] [Server thread/INFO]: [Not Secure] <Ra1302> no
+[21:51:20] [Server thread/INFO]: [Not Secure] <Pandalf_> am eu
+[21:51:24] [Server thread/INFO]: [Not Secure] <clau> take horse
+[21:51:40] [Server thread/INFO]: [Not Secure] <clau> can u givw me sum apples
+[21:52:04] [Server thread/INFO]: [Not Secure] <Pandalf_> unde esti?
+[21:52:12] [Server thread/INFO]: [Not Secure] <clau> acum incerc sa urd
+[21:52:17] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.29132168296442273
+[21:52:17] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.8014994485976384
+[21:52:22] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.26743865915804577
+[21:52:22] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.6761034403956216
+[21:52:33] [Server thread/INFO]: [Not Secure] <Pandalf_> korra
+[21:52:42] [Server thread/INFO]: [Not Secure] <Pandalf_> pe boomy
+[21:52:56] [Server thread/INFO]: [Not Secure] <Pandalf_> va iese casa din munte bruh
+[21:53:07] [Server thread/INFO]: [Not Secure] <Pandalf_> a claudia
+[21:53:11] [Server thread/INFO]: [Not Secure] <Pandalf_> ok se rezolva atunci
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2586209285116077
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9042347749990824
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.5456656827108688
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.9181249308164325
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 2.2795052256672648
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 2.6310053097207806
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.9444730937137926
+[21:53:21] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 2.0
+[21:53:52] [Server thread/INFO]: [Not Secure] <clau> yty
+[21:53:55] [Server thread/INFO]: [Not Secure] <clau> ty
+[21:54:03] [Server thread/INFO]: [Not Secure] <Pandalf_> ferma
+[21:54:06] [Server thread/INFO]: [Not Secure] <Pandalf_> de pumpkini
+[21:54:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> pentru aia auto mai trebuie redstone
+[21:54:24] [Server thread/INFO]: [Not Secure] <ForTheRNG> ne lipseste redstone sever
+[21:54:37] [Server thread/INFO]: [Not Secure] <Pandalf_> eu nu am minat redstone
+[21:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=65, z=-100} gp{x=55, y=65, z=-100}
+[21:55:13] [Server thread/INFO]: [Not Secure] <Ra1302> claudia
+[21:55:21] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[21:55:23] [Server thread/INFO]: [Not Secure] <Pandalf_> ce?
+[21:55:25] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:55:25] [Server thread/INFO]: [Not Secure] <Ra1302> la voi de la cine a zis ala ca a primit info
+[21:55:26] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:55:26] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:55:32] [Server thread/INFO]: [Not Secure] <Pandalf_> si mi a zis doar ea buna
+[21:55:38] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2831375652613701
+[21:55:40] [Server thread/INFO]: [Not Secure] <Pandalf_> si denisa m a intrebat unde sunt ceilalti
+[21:55:50] [Server thread/INFO]: [Not Secure] <Pandalf_> e trist
+[21:55:51] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[21:56:01] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.25166690179565876
+[21:56:01] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.705464429652011
+[21:56:01] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.4647008886685171
+[21:56:01] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.4932403020113725
+[21:56:02] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.5335562051173781
+[21:56:14] [Server thread/INFO]: [Not Secure] <Pandalf_> cu cine?
+[21:56:21] [Server thread/INFO]: [Not Secure] <Pandalf_> vreau si eu acm
+[21:56:37] [Server thread/INFO]: [Not Secure] <Pandalf_> a XD
+[21:56:44] [Server thread/INFO]: [Not Secure] <Pandalf_> adica tu nu ai avzut un om mort mort
+[21:56:46] [Server thread/INFO]: [Not Secure] <Pandalf_> gen
+[21:56:46] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.25112760439633064
+[21:56:49] [Server thread/INFO]: [Not Secure] <Pandalf_> nediagnosticat
+[21:56:56] [Server thread/INFO]: [Not Secure] <Pandalf_> pe o banca
+[21:56:58] [Server thread/INFO]: [Not Secure] <Pandalf_> de la pacii
+[21:57:03] [Server thread/INFO]: [Not Secure] <Pandalf_> mda
+[21:57:04] [Server thread/INFO]: [Not Secure] <Pandalf_> pe masa
+[21:57:06] [Server thread/INFO]: [Not Secure] <Pandalf_> e mai fun
+[21:57:07] [Server thread/INFO]: [Not Secure] <Pandalf_> pe masa
+[21:57:13] [Server thread/INFO]: [Not Secure] <Pandalf_> e si mai fun
+[21:57:16] [Server thread/INFO]: [Not Secure] <Pandalf_> VREAU SI EU ACm
+[21:57:30] [Server thread/INFO]: [Not Secure] <Pandalf_> ma duc la mama lu dabu sa gen imi arate un creier de om adv
+[21:57:33] [Server thread/INFO]: [Not Secure] <Pandalf_> ca pare interesant
+[21:57:46] [Server thread/INFO]: [Not Secure] <Pandalf_> imi plac baietii
+[21:57:57] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.25229275161564146
+[21:57:57] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.8966768462746337
+[21:57:57] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.5369179152475638
+[21:58:17] [Server thread/INFO]: [Not Secure] <Pandalf_> ez gg w
+[21:58:19] [Server thread/INFO]: [Not Secure] <Pandalf_> p
+[21:58:29] [Server thread/INFO]: [Not Secure] <Pandalf_> nu conteaza
+[21:59:00] [Server thread/INFO]: [Not Secure] <Pandalf_> pe cn?
+[21:59:08] [Server thread/INFO]: [Not Secure] <Pandalf_> vreau si eu
+[21:59:11] [Server thread/INFO]: [Not Secure] <Pandalf_> adu galeata
+[21:59:12] [Server thread/INFO]: [Not Secure] <Pandalf_> cu apa
+[21:59:22] [Server thread/INFO]: [Not Secure] <Pandalf_> de la iphone
+[21:59:25] [Server thread/INFO]: [Not Secure] <Pandalf_> sau cv fnaf themes
+[21:59:52] [Server thread/INFO]: [Not Secure] <Pandalf_> cine a intrebat
+[21:59:54] [Server thread/INFO]: [Not Secure] <Pandalf_> hahahhaha
+[22:00:34] [Server thread/INFO]: [Not Secure] <Pandalf_> eu o aud in fiecare zi efectiv
+[22:00:38] [Server thread/INFO]: [Not Secure] <Pandalf_> ca ii baza militara
+[22:00:43] [Server thread/INFO]: [Not Secure] <Pandalf_> te bagi in frigider
+[22:01:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=52, y=62, z=-154} gp{x=58, y=62, z=-152}
+[22:01:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=52, y=62, z=-154} gp{x=58, y=62, z=-152}
+[22:01:09] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=52, y=62, z=-154} gp{x=58, y=62, z=-152}
+[22:01:21] [Server thread/INFO]: [Not Secure] <Pandalf_> de accea mergem noi la mega in fiecare pauza
+[22:01:28] [Server thread/INFO]: [Not Secure] <Pandalf_> sa ne obisnuim cu bunkeru
+[22:02:19] [Server thread/INFO]: [Not Secure] <Pandalf_> te uiti dupa linie
+[22:02:21] [Server thread/INFO]: [Not Secure] <Pandalf_> te duce acasa
+[22:02:49] [Server thread/INFO]: [Not Secure] <Pandalf_> in fata
+[22:02:59] [Server thread/INFO]: [Not Secure] <Pandalf_> da in entitatea nordica
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:05] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=62, z=-124} gp{x=54, y=62, z=-123}
+[22:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=54, y=64, z=-128} gp{x=54, y=63, z=-129}
+[22:03:11] [Server thread/INFO]: [Not Secure] <ForTheRNG> ah yes, nord
+[22:03:17] [Server thread/INFO]: [Not Secure] <Pandalf_> new scp
+[22:03:37] [Server thread/INFO]: [Not Secure] <ForTheRNG> ???
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2893460182096419
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.7308261173272115
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.2515971332384481
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.8145259412218877
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.4033993593413072
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.0
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.0
+[22:03:45] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 1.0
+[22:03:52] [Server thread/INFO]: [Not Secure] <Pandalf_> exita elytra efectiv
+[22:03:54] [Server thread/INFO]: [Not Secure] <Pandalf_> eu
+[22:03:57] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.4065122840886346
+[22:04:05] [Server thread/INFO]: [Not Secure] <Pandalf_> am 2 elytre si mai are mircea 2
+[22:04:10] [Server thread/INFO]: [Not Secure] <Pandalf_> am 3 stackuri de fireworkuri
+[22:04:18] [Server thread/INFO]: [Not Secure] <Pandalf_> creeperi looting 3
+[22:04:29] [Server thread/INFO]: [Not Secure] <ForTheRNG> nah ne trebuie automata
+[22:04:33] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:04:38] [Server thread/INFO]: [Not Secure] <Pandalf_> intradevar
+[22:04:43] [Server thread/INFO]: [Not Secure] <ForTheRNG> it's not even hard just time consuming
+[22:04:45] [Server thread/INFO]: [Not Secure] <Pandalf_> dar cine drq se baga
+[22:04:52] [Server thread/INFO]: [Not Secure] <Pandalf_> ca e ferma insane
+[22:04:58] [Server thread/INFO]: [Not Secure] <ForTheRNG> eu, cand termin enchanturile
+[22:05:21] [Server thread/INFO]: [Not Secure] <Pandalf_> da ce facem aici mache?
+[22:05:24] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.32836316211385963
+[22:05:24] [Server thread/WARN]: Horse (vehicle of clau) moved wrongly! 0.9324907982009307
+[22:05:27] [Server thread/INFO]: [Not Secure] <ForTheRNG> nisip
+[22:06:23] [Server thread/INFO]: [Not Secure] <Pandalf_> ti am dat 2 toteme bruh
+[22:06:31] [Server thread/INFO]: [Not Secure] <Pandalf_> efectiv pana acm am folosit doar 3 toteme
+[22:06:44] [Server thread/INFO]: [Not Secure] <ForTheRNG> n-a are clau cateva cazand in chunk?
+[22:06:49] [Server thread/INFO]: [Not Secure] <Pandalf_> idk
+[22:06:57] [Server thread/INFO]: [Not Secure] <ForTheRNG> sigur a facut postmortal
+[22:06:59] [Server thread/INFO]: [Not Secure] <Ra1302> cred ca a folosit doar 1 asa
+[22:07:20] [Server thread/INFO]: [Not Secure] <Pandalf_> foloseste o
+[22:07:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=58, y=62, z=-105} gp{x=57, y=63, z=-105}
+[22:07:44] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=58, y=62, z=-105} gp{x=57, y=63, z=-105}
+[22:07:51] [Server thread/INFO]: [Not Secure] <Pandalf_> hahahahaha
+[22:08:09] [Server thread/INFO]: [Not Secure] <Pandalf_> ca raliuca e lesbvi
+[22:08:10] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:08:22] [Server thread/INFO]: [Not Secure] <Pandalf_> imi pare rau
+[22:08:28] [Server thread/INFO]: [Not Secure] <ForTheRNG> de ce nu ma surprinde informatia asta?
+[22:08:34] [Server thread/INFO]: [Not Secure] <Pandalf_> nici pe mine
+[22:08:38] [Server thread/INFO]: [Not Secure] <Ra1302> ma bucur ca nu te surprinde
+[22:08:41] [Server thread/INFO]: [Not Secure] <Pandalf_> a zis random la carturesti asta in gura mare
+[22:08:42] [Server thread/INFO]: [Not Secure] <Pandalf_> ca gen
+[22:08:47] [Server thread/INFO]: [Not Secure] <Pandalf_> ia dat lu matie apa
+[22:08:49] [Server thread/INFO]: [Not Secure] <Pandalf_> matei
+[22:08:52] [Server thread/INFO]: [Not Secure] <Pandalf_> si apoi mi a dat si mie
+[22:09:01] [Server thread/INFO]: [Not Secure] <ForTheRNG> ra asta e o idee foarte proasta
+[22:09:06] [Server thread/INFO]: [Not Secure] <ForTheRNG> ce ti-a trasnit
+[22:09:13] [Server thread/INFO]: [Not Secure] <Ra1302> era noua apa
+[22:09:16] [Server thread/INFO]: [Not Secure] <Ra1302> ii era sete
+[22:09:19] [Server thread/INFO]: [Not Secure] <Pandalf_> je susi le pandalf
+[22:09:33] [Server thread/INFO]: [Not Secure] <ForTheRNG> si de ce te-ai apucat sa strigi
+[22:09:37] [Server thread/INFO]: [Not Secure] <Ra1302> ah
+[22:09:40] [Server thread/INFO]: [Not Secure] <Ra1302> n am strigat
+[22:09:49] [Server thread/INFO]: [Not Secure] <ForTheRNG> a
+[22:09:50] [Server thread/INFO]: [Not Secure] <Ra1302> exagereaza honestly
+[22:10:34] [Server thread/INFO]: Ra1302 lost connection: Disconnected
+[22:10:34] [Server thread/INFO]: Ra1302 left the game
+[22:11:02] [Server thread/INFO]: GabeGabitzu[/79.115.63.53:53817] logged in with entity id 200426 at (-82.5, 115.0, -87.5)
+[22:11:02] [Server thread/INFO]: GabeGabitzu joined the game
+[22:11:42] [Server thread/INFO]: [Not Secure] <Pandalf_> PUTEM DORMI PLSSSSSSSS
+[22:11:51] [Server thread/INFO]: [Not Secure] <ForTheRNG> in end parca nu se putea dormi
+[22:11:59] [Server thread/INFO]: [Not Secure] <Pandalf_> face bum
+[22:12:18] [Server thread/INFO]: [Not Secure] <ForTheRNG> a da asa se omoara dragonul in speedrun
+[22:12:36] [Server thread/INFO]: [Not Secure] <Pandalf_> claudia coord
+[22:12:42] [Server thread/INFO]: Ra1302[/79.114.172.12:56552] logged in with entity id 202234 at (33.825480585116, 72.0, -97.78633333246198)
+[22:12:42] [Server thread/INFO]: Ra1302 joined the game
+[22:12:58] [Server thread/INFO]: [Not Secure] <Pandalf_> f3
+[22:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22:13:29] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[22:13:29] [Server thread/INFO]: Pandalf_ left the game
+[22:13:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
+[22:13:48] [Server thread/INFO]: Pandalf_[/82.76.173.82:63946] logged in with entity id 204074 at (123.81581854237884, 71.0, -518.5297124875029)
+[22:13:48] [Server thread/INFO]: Pandalf_ joined the game
+[22:13:58] [Server thread/INFO]: [Not Secure] <Pandalf_> eu
+[22:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[22:14:11] [Server thread/INFO]: [Not Secure] <Pandalf_> avem si asca
+[22:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[22:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[22:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[22:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:16:39] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[22:16:39] [Server thread/INFO]: Pandalf_ left the game
+[22:16:59] [Server thread/INFO]: Pandalf_[/82.76.173.82:63477] logged in with entity id 209308 at (118.67240047596201, 69.9375, -515.284599951752)
+[22:16:59] [Server thread/INFO]: Pandalf_ joined the game
+[22:17:12] [Server thread/INFO]: [Not Secure] <Pandalf_> deci nu mi dai coord?
+[22:18:28] [Server thread/WARN]: Pandalf_ moved too quickly! -0.09968160020851258,-2.126429487126245,17.67790735514501
+[22:19:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=34, y=65, z=-126} gp{x=33, y=65, z=-126}
+[22:19:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=34, y=65, z=-126} gp{x=33, y=65, z=-126}
+[22:19:29] [Server thread/INFO]: [Not Secure] <Pandalf_> vreau chestia aia pe pantaloni
+[22:19:33] [Server thread/INFO]: [Not Secure] <Pandalf_> din ancient city
+[22:19:35] [Server thread/INFO]: [Not Secure] <Pandalf_> enchant
+[22:19:41] [Server thread/INFO]: [Not Secure] <Pandalf_> e vina lu tuga
+[22:19:48] [Server thread/INFO]: [Not Secure] <Pandalf_> DA
+[22:19:58] [Server thread/INFO]: [Not Secure] <Pandalf_> pai da
+[22:20:00] [Server thread/INFO]: [Not Secure] <Pandalf_> ig
+[22:20:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=31, y=67, z=-129} gp{x=30, y=66, z=-128}
+[22:20:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=31, y=67, z=-129} gp{x=30, y=66, z=-128}
+[22:20:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=29, y=67, z=-128} gp{x=30, y=66, z=-128}
+[22:20:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=29, y=67, z=-128} gp{x=30, y=66, z=-128}
+[22:20:43] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=29, y=67, z=-128} gp{x=30, y=66, z=-128}
+[22:20:50] [Server thread/INFO]: Villager bwc['Villager'/211707, l='ServerLevel[world]', x=-1500.37, y=65.56, z=-436.72] died, message: 'Villager suffocated in a wall'
+[22:20:50] [Server thread/INFO]: Villager bwc['Villager'/211742, l='ServerLevel[world]', x=-1500.63, y=72.50, z=-466.28] died, message: 'Villager suffocated in a wall'
+[22:20:54] [Server thread/INFO]: Villager bwc['Villager'/211888, l='ServerLevel[world]', x=-1510.37, y=66.56, z=-437.72] died, message: 'Villager suffocated in a wall'
+[22:20:58] [Server thread/INFO]: Villager bwc['Villager'/211900, l='ServerLevel[world]', x=-1533.72, y=72.00, z=-447.63] died, message: 'Villager suffocated in a wall'
+[22:21:07] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[22:21:14] [Server thread/INFO]: [Not Secure] <Pandalf_> hai aici
+[22:21:16] [Server thread/INFO]: [Not Secure] <Pandalf_> intra in f5
+[22:21:18] [Server thread/INFO]: [Not Secure] <Pandalf_> f6
+[22:21:23] [Server thread/INFO]: [Not Secure] <Pandalf_> f5
+[22:21:24] [Server thread/INFO]: [Not Secure] <Pandalf_> pardon
+[22:21:29] [Server thread/INFO]: [Not Secure] <Pandalf_> intra
+[22:21:37] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:21:38] [Server thread/INFO]: [Not Secure] <Pandalf_> :)
+[22:22:03] [Server thread/INFO]: [Not Secure] <Pandalf_> wer armura
+[22:22:15] [Server thread/INFO]: [Not Secure] <Pandalf_> mache
+[22:22:18] [Server thread/INFO]: [Not Secure] <Pandalf_> pune armura
+[22:22:38] [Server thread/INFO]: [Not Secure] <Pandalf_> apasa f3 si da din nou screen shot
+[22:22:55] [Server thread/INFO]: [Not Secure] <clau> imi mareste volumul
+[22:23:00] [Server thread/INFO]: [Not Secure] <Pandalf_> fn f3
+[22:23:22] [Server thread/INFO]: [Not Secure] <Pandalf_> da mircea de ce nu a intrat azi?
+[22:23:43] [Server thread/INFO]: [Not Secure] <Pandalf_> ce slab
+[22:23:48] [Server thread/INFO]: [Not Secure] <Pandalf_> nu stie ca nu trb sa ai prieteni
+[22:24:07] [Server thread/INFO]: [Not Secure] <Pandalf_> rip pc radu
+[22:24:11] [Server thread/INFO]: [Not Secure] <ForTheRNG> ?????
+[22:24:17] [Server thread/INFO]: [Not Secure] <Pandalf_> nu se mai generau chunkurile
+[22:24:30] [Server thread/WARN]: Pandalf_ moved too quickly! -18.27781073491883,-1.977274620839438,-5.347790877439024
+[22:24:34] [Server thread/WARN]: Pandalf_ moved too quickly! -13.768194495934267,11.617104667214377,-4.077012525469968
+[22:24:45] [Server thread/INFO]: [Not Secure] <Pandalf_> si irosesc artificii
+[22:25:12] [Server thread/INFO]: [Not Secure] <Pandalf_> da?
+[22:26:16] [Server thread/INFO]: [Not Secure] <clau> stai ca am si eu nevoie de fish
+[22:26:24] [Server thread/INFO]: [Not Secure] <clau> tyty
+[22:26:38] [Server thread/INFO]: [Not Secure] <Pandalf_> korra
+[22:27:01] [Server thread/INFO]: [Not Secure] <Pandalf_> idk
+[22:27:04] [Server thread/INFO]: [Not Secure] <Pandalf_> can vor toti
+[22:27:21] [Server thread/INFO]: [Not Secure] <Pandalf_> vine noaptea farmez creeperi
+[22:27:51] [Server thread/INFO]: [Not Secure] <Pandalf_> mai bine decat 13 raiduri
+[22:28:14] [Server thread/INFO]: [Not Secure] <Pandalf_> am eu cam3 stackuri
+[22:28:19] [Server thread/INFO]: [Not Secure] <Pandalf_> dar nu ti dau :(
+[22:28:23] [Server thread/INFO]: [Not Secure] <Pandalf_> in enderchest
+[22:28:30] [Server thread/INFO]: [Not Secure] <ForTheRNG> unde sunt sprancenele incruntate
+[22:28:31] [Server thread/INFO]: [Not Secure] <Pandalf_> arc
+[22:28:35] [Server thread/INFO]: [Not Secure] <Pandalf_> >:(
+[22:28:40] [Server thread/INFO]: [Not Secure] <ForTheRNG> asa mai da
+[22:28:41] [Server thread/INFO]: [Not Secure] <Pandalf_> cu artificii
+[22:28:44] [Server thread/INFO]: [Not Secure] <Pandalf_> de gradu 3
+[22:28:52] [Server thread/INFO]: [Not Secure] <Pandalf_> crystal
+[22:28:53] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:29:37] [Server thread/INFO]: [Not Secure] <Pandalf_> ai dat si emerald?
+[22:30:15] [Server thread/INFO]: [Not Secure] <Pandalf_> suntem multe tickuri in urma
+[22:30:18] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[22:30:20] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[22:30:20] [Server thread/INFO]: Pandalf_ left the game
+[22:30:43] [Server thread/INFO]: [Not Secure] <clau> ra i got pisi
+[22:30:52] [Server thread/INFO]: [Not Secure] <ForTheRNG> >;(
+[22:31:26] [Server thread/INFO]: Pandalf_[/82.76.173.82:63585] logged in with entity id 226571 at (6.1713105283025085, 130.38679785841703, -117.20540257838235)
+[22:31:26] [Server thread/INFO]: Pandalf_ joined the game
+[22:31:31] [Server thread/INFO]: [Not Secure] <Pandalf_> radu
+[22:31:44] [Server thread/INFO]: [Not Secure] <Pandalf_> aveam dreptate?
+[22:31:50] [Server thread/INFO]: [Not Secure] <Pandalf_> suntem cateva tickuri in urma?
+[22:32:06] [Server thread/INFO]: [Not Secure] <ForTheRNG> nah
+[22:32:14] [Server thread/INFO]: [Not Secure] <Pandalf_> atuncie de la mine?
+[22:32:31] [Server thread/INFO]: [Not Secure] <Pandalf_> explodeaza cuidat creeperi
+[22:33:28] [Server thread/INFO]: [Not Secure] <clau> david
+[22:33:32] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[22:33:34] [Server thread/INFO]: [Not Secure] <clau> mai esti unde sunt eu
+[22:33:37] [Server thread/INFO]: [Not Secure] <Pandalf_> nu
+[22:34:04] [Server thread/INFO]: [Not Secure] <clau> ma omoara un baby zombie -_-
+[22:34:08] [Server thread/INFO]: [Not Secure] <clau> si 5 zombie
+[22:34:12] [Server thread/INFO]: [Not Secure] <Pandalf_> facem ceva cu apa
+[22:34:13] [Server thread/INFO]: [Not Secure] <Pandalf_> gen
+[22:34:18] [Server thread/INFO]: [Not Secure] <Pandalf_> facem deep
+[22:34:19] [Server thread/INFO]: [Not Secure] <Pandalf_> putin
+[22:34:21] [Server thread/INFO]: [Not Secure] <Pandalf_> inclinat
+[22:34:24] [Server thread/INFO]: [Not Secure] <Pandalf_> sa curga mai smeker
+[22:34:25] [Server thread/INFO]: [Not Secure] <Pandalf_> dar da
+[22:34:44] [Server thread/INFO]: [Not Secure] <Pandalf_> generator de bonemeal
+[22:34:48] [Server thread/INFO]: [Not Secure] <clau> um puteti sa va culcati?
+[22:34:50] [Server thread/INFO]: [Not Secure] <Pandalf_> automat
+[22:35:31] [Server thread/INFO]: [Not Secure] <clau> nu mai trb
+[22:35:50] [Server thread/INFO]: [Not Secure] <Pandalf_> wt
+[22:35:51] [Server thread/INFO]: [Not Secure] <clau> nono is ok
+[22:35:52] [Server thread/INFO]: [Not Secure] <Pandalf_> f
+[22:35:54] [Server thread/INFO]: [Not Secure] <clau> ca vine ziua
+[22:36:20] [Server thread/INFO]: [Not Secure] <ForTheRNG> nice
+[22:37:17] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:37:20] [Server thread/INFO]: [Not Secure] <Pandalf_> si de pumpkin
+[22:37:23] [Server thread/INFO]: [Not Secure] <Pandalf_> si melon
+[22:37:27] [Server thread/INFO]: [Not Secure] <Pandalf_> si facem si de gunpowder
+[22:37:41] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:38:05] [Server thread/INFO]: [Not Secure] <Pandalf_> ca la bar de negru
+[22:38:08] [Server thread/INFO]: [Not Secure] <Pandalf_> negrii
+[22:38:50] [Server thread/INFO]: [Not Secure] <Pandalf_> ce?
+[22:39:02] [Server thread/INFO]: [Not Secure] <Pandalf_> GABI
+[22:39:18] [Server thread/INFO]: [Not Secure] <Pandalf_> iti dau ceva tare important
+[22:40:22] [Server thread/INFO]: [Not Secure] <Pandalf_> am mancat doar 9 mancaruri diferite pana acm bruh
+[22:40:40] [Server thread/INFO]: [Not Secure] <ForTheRNG> 9 STACKURI DE OBSIDIAN
+[22:40:40] [Server thread/INFO]: [Not Secure] <Pandalf_> cica trb 40
+[22:40:43] [Server thread/INFO]: [Not Secure] <Pandalf_> parac
+[22:40:59] [Server thread/INFO]: [Not Secure] <Pandalf_> in timp ce ne uitam la korra?
+[22:41:02] [Server thread/INFO]: [Not Secure] <Pandalf_> da clar
+[22:41:11] [Server thread/INFO]: [Not Secure] <Pandalf_> avem scl altfel
+[22:42:46] [Server thread/INFO]: [Not Secure] <Pandalf_> esti insane
+[22:43:44] [Server thread/INFO]: [Not Secure] <Pandalf_> respawnam dragonu?
+[22:44:02] [Server thread/INFO]: [Not Secure] <ForTheRNG> not why im here but sure? i guess?
+[22:44:11] [Server thread/INFO]: [Not Secure] <Pandalf_> am 7 lacrimi
+[22:44:15] [Server thread/INFO]: [Not Secure] <ForTheRNG> spune-mi daca da ca sa ies din groapa
+[22:44:42] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:44:46] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[22:44:51] [Server thread/INFO]: [Not Secure] <Pandalf_> asa faci ferma
+[22:45:57] [Server thread/INFO]: [Not Secure] <clau> aveti nevoie de ore dala albastru
+[22:46:06] [Server thread/INFO]: [Not Secure] <ForTheRNG> lapis? kinda da
+[22:46:07] [Server thread/INFO]: [Not Secure] <clau> no
+[22:46:13] [Server thread/INFO]: [Not Secure] <clau> ca am gasit..
+[22:46:18] [Server thread/INFO]: [Not Secure] <clau> lapis
+[22:46:19] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[22:48:47] [Server thread/INFO]: [Not Secure] <ForTheRNG> care vorbeste de maia :3
+[22:49:46] [Server thread/INFO]: GabeGabitzu fell from a high place
+[22:49:51] [Server thread/INFO]: [Not Secure] <Pandalf_> am revenit
+[22:49:54] [Server thread/INFO]: [Not Secure] <Pandalf_> cine e maia/
+[22:49:55] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[22:50:02] [Server thread/INFO]: [Not Secure] <ForTheRNG> in vorbele maretului pandalf: ez
+[22:50:07] [Server thread/INFO]: [Not Secure] <Pandalf_> ce e ez?
+[22:50:09] [Server thread/WARN]: Pandalf_ moved wrongly!
+[22:50:13] [Server thread/INFO]: [Not Secure] <Pandalf_> la gabi e doar nub
+[22:50:23] [Server thread/INFO]: [Not Secure] <ForTheRNG> nu conteaza credeam ca recunosc un context si aparent am gresit
+[22:50:32] [Server thread/INFO]: Pandalf_ has made the advancement [Not Quite "Nine" Lives]
+[22:50:44] [Server thread/WARN]: mach3tryhard moved too quickly! -9.869824273521836,0.7539862017387549,-2.203955967355114
+[22:50:56] [Server thread/INFO]: [Not Secure] <ForTheRNG> incerc sa intru pe vc, expect lag
+[22:50:57] [Server thread/INFO]: [Not Secure] <Pandalf_> le tryhard
+[22:51:00] [Server thread/INFO]: [Not Secure] <Pandalf_> le mache tryhard
+[22:51:15] [Server thread/INFO]: [Not Secure] <Pandalf_> mache tryhard
+[22:51:34] [Server thread/INFO]: [Not Secure] <Pandalf_> bn destroyer40000
+[22:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:52:33] [Server thread/INFO]: [Not Secure] <Pandalf_> casutele de pe plaja
+[22:52:53] [Server thread/INFO]: [Not Secure] <Pandalf_> avem si corali
+[22:52:58] [Server thread/WARN]: Pandalf_ moved wrongly!
+[22:53:37] [Server thread/INFO]: Pandalf_ has made the advancement [This Boat Has Legs]
+[22:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:53:47] [Server thread/WARN]: Pandalf_ moved too quickly! -4.571126815953097,16.96960737247481,-3.8109344054431338
+[22:54:05] [Server thread/INFO]: [Not Secure] <Pandalf_> furios coktail acm
+[22:54:08] [Server thread/INFO]: [Not Secure] <Pandalf_> unde esti mache?
+[22:54:23] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[22:54:36] [Server thread/INFO]: [Not Secure] <Pandalf_> idk
+[22:54:48] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[22:55:09] [Server thread/INFO]: [Not Secure] <Pandalf_> unde esti?
+[22:55:18] [Server thread/INFO]: [Not Secure] <Pandalf_> la mache
+[22:55:26] [Server thread/INFO]: mach3tryhard has completed the challenge [Serious Dedication]
+[22:55:35] [Server thread/INFO]: [Not Secure] <Pandalf_> inapioi
+[22:55:39] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[22:55:39] [Server thread/INFO]: mach3tryhard left the game
+[22:55:40] [Server thread/INFO]: mach3tryhard[/86.127.151.84:49258] logged in with entity id 254172 at (52.51576326510894, 65.0, -125.53593542346367)
+[22:55:40] [Server thread/INFO]: mach3tryhard joined the game
+[22:55:44] [Server thread/INFO]: [Not Secure] <Pandalf_> ms
+[22:57:02] [Server thread/INFO]: [Not Secure] <clau> ia si mieeee
+[22:57:13] [Server thread/INFO]: [Not Secure] <clau> iti mai dau eu
+[22:57:18] [Server thread/INFO]: [Not Secure] <clau> te naiba
+[22:57:50] [Server thread/INFO]: [Not Secure] <Pandalf_> te rog
+[22:58:00] [Server thread/INFO]: [Not Secure] <Pandalf_> zi mi ca nu ai facut un stack enderchest
+[22:58:05] [Server thread/INFO]: [Not Secure] <Pandalf_> de enderchest
+[22:58:06] [Server thread/WARN]: Ra1302 moved too quickly! 16.405489060986383,-1.9479978570422105,8.929495626135918
+[22:58:14] [Server thread/INFO]: [Not Secure] <Pandalf_> doamne
+[22:58:21] [Server thread/INFO]: [Not Secure] <Pandalf_> iti respawnez dragonu gata
+[22:58:50] [Server thread/INFO]: [Not Secure] <Pandalf_> ok gata ma duc sa respawnez dragonu
+[22:58:52] [Server thread/INFO]: [Not Secure] <Pandalf_> asta e
+[22:59:32] [Server thread/INFO]: [Not Secure] <Pandalf_> imd
+[22:59:40] [Server thread/INFO]: [Not Secure] <clau> vreu si eu
+[22:59:47] [Server thread/INFO]: [Not Secure] <clau> wer
+[23:00:04] [Server thread/INFO]: [Not Secure] <Pandalf_> nu suntem pe skyblock
+[23:00:29] [Server thread/INFO]: [Not Secure] <Pandalf_> like si eu
+[23:00:35] [Server thread/INFO]: [Not Secure] <Pandalf_> am stat pana am facut un hoe maxat
+[23:00:40] [Server thread/INFO]: clau has made the advancement [We Need to Go Deeper]
+[23:00:58] [Server thread/INFO]: [Not Secure] <clau> were tf am i
+[23:01:01] [Server thread/INFO]: [Not Secure] <clau> de ce e gol
+[23:01:09] [Server thread/INFO]: [Not Secure] <Pandalf_> ?
+[23:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:01:12] [Server thread/INFO]: [Not Secure] <Pandalf_> esti in nether
+[23:01:20] [Server thread/INFO]: [Not Secure] <clau> mhm
+[23:01:27] [Server thread/INFO]: [Not Secure] <Pandalf_> cine are ou de dragon?
+[23:01:35] [Server thread/INFO]: GabeGabitzu has made the advancement [We Need to Go Deeper]
+[23:01:37] [Server thread/INFO]: [Not Secure] <clau> um
+[23:01:42] [Server thread/INFO]: [Not Secure] <clau> gresi portalul
+[23:01:44] [Server thread/INFO]: [Not Secure] <Pandalf_> mache stii tu
+[23:01:46] [Server thread/INFO]: [Not Secure] <Pandalf_> sau raluca?
+[23:01:56] [Server thread/INFO]: [Not Secure] <Pandalf_> ou dragon wer
+[23:02:18] [Server thread/INFO]: [Not Secure] <Pandalf_> da
+[23:02:22] [Server thread/INFO]: Pandalf_ has reached the goal [The Next Generation]
+[23:02:25] [Server thread/INFO]: [Not Secure] <Pandalf_> ba da?
+[23:02:34] [Server thread/INFO]: [Not Secure] <Pandalf_> incercam faa
+[23:02:36] [Server thread/INFO]: [Not Secure] <Pandalf_> fara
+[23:02:37] [Server thread/INFO]: [Not Secure] <Pandalf_> si vedem
+[23:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[23:03:47] [Server thread/INFO]: GabeGabitzu has made the advancement [Eye Spy]
+[23:03:52] [Server thread/INFO]: GabeGabitzu has made the advancement [The End?]
+[23:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[23:04:10] [Server thread/INFO]: [Not Secure] <Pandalf_> ai crystalele
+[23:04:14] [Server thread/INFO]: [Not Secure] <Pandalf_> pune le
+[23:04:49] [Server thread/INFO]: [Not Secure] <Pandalf_> am eu sageti
+[23:04:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=68, z=-148} gp{x=-2, y=70, z=-154}
+[23:04:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=68, z=-148} gp{x=-2, y=70, z=-154}
+[23:04:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=68, z=-148} gp{x=-2, y=70, z=-154}
+[23:04:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=68, z=-148} gp{x=-2, y=70, z=-154}
+[23:04:57] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=68, z=-148} gp{x=-2, y=70, z=-154}
+[23:04:59] [Server thread/INFO]: Pandalf_ has reached the goal [The End... Again...]
+[23:04:59] [Server thread/INFO]: GabeGabitzu has reached the goal [The End... Again...]
+[23:04:59] [Server thread/INFO]: ForTheRNG has reached the goal [The End... Again...]
+[23:05:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=70, z=-164} gp{x=-2, y=69, z=-164}
+[23:05:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=70, z=-164} gp{x=-2, y=69, z=-164}
+[23:05:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=70, z=-164} gp{x=-2, y=69, z=-164}
+[23:05:00] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-2, y=70, z=-164} gp{x=-2, y=69, z=-164}
+[23:05:45] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-1, y=68, z=-165} gp{x=-1, y=68, z=-167}
+[23:06:05] [Server thread/INFO]: [Not Secure] <Pandalf_> am eu
+[23:06:08] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-1, y=67, z=-130} gp{x=-1, y=68, z=-131}
+[23:06:13] [Server thread/INFO]: clau lost connection: Disconnected
+[23:06:13] [Server thread/INFO]: clau left the game
+[23:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=-5, y=68, z=-124} gp{x=-4, y=66, z=-124}
+[23:06:46] [Server thread/INFO]: Pandalf_ has reached the goal [You Need a Mint]
+[23:06:52] [Server thread/INFO]: ForTheRNG fell from a high place
+[23:07:28] [Server thread/WARN]: Pandalf_ moved too quickly! -4.312248944688761,11.206662634328382,13.23350801811215
+[23:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23:08:10] [Server thread/WARN]: Ra1302 moved too quickly! -11.745833725407849,-1.2403225479478976,13.778634805150546
+[23:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[23:08:14] [Server thread/INFO]: [Not Secure] <Pandalf_> itemele radu
+[23:09:19] [Server thread/INFO]: GabeGabitzu was slain by Enderman
+[23:09:22] [Server thread/INFO]: [Not Secure] <Pandalf_> bruh gabi
+[23:10:39] [Server thread/INFO]: [Not Secure] <Pandalf_> power 5
+[23:11:12] [Server thread/INFO]: ForTheRNG has made the advancement [Free the End]
+[23:11:24] [Server thread/INFO]: [Not Secure] <Pandalf_> serios?
+[23:11:32] [Server thread/INFO]: [Not Secure] <Pandalf_> nice
+[23:12:21] [Server thread/INFO]: [Not Secure] <Pandalf_> eu da
+[23:12:27] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=0, y=67, z=-140} gp{x=3, y=67, z=-126}
+[23:12:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=68, z=-128} gp{x=2, y=68, z=-129}
+[23:12:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=68, z=-128} gp{x=2, y=68, z=-129}
+[23:12:28] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=68, z=-128} gp{x=2, y=68, z=-129}
+[23:12:36] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=70, z=-147} gp{x=2, y=70, z=-147}
+[23:12:36] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=70, z=-147} gp{x=2, y=70, z=-147}
+[23:12:40] [Server thread/INFO]: [Not Secure] <Pandalf_> calu lu mircea face 360
+[23:12:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=71, z=-187} gp{x=0, y=71, z=-188}
+[23:12:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=71, z=-187} gp{x=0, y=71, z=-188}
+[23:12:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=71, z=-187} gp{x=0, y=71, z=-188}
+[23:12:53] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=1, y=71, z=-187} gp{x=0, y=71, z=-188}
+[23:13:09] [Server thread/INFO]: [Not Secure] <Pandalf_> il caut pe mache
+[23:13:23] [Server thread/INFO]: [Not Secure] <Pandalf_> te uiti la calu care face 360?
+[23:14:33] [Server thread/INFO]: [Not Secure] <Pandalf_> da korra
+[23:14:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=66, z=-129} gp{x=4, y=68, z=-132}
+[23:14:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=66, z=-129} gp{x=4, y=68, z=-132}
+[23:14:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=66, z=-129} gp{x=4, y=68, z=-132}
+[23:14:41] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=66, z=-129} gp{x=4, y=68, z=-132}
+[23:14:48] [Server thread/INFO]: Ra1302 lost connection: Disconnected
+[23:14:48] [Server thread/INFO]: Ra1302 left the game
+[23:15:19] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[23:15:19] [Server thread/INFO]: mach3tryhard left the game
+[23:15:21] [Server thread/INFO]: GabeGabitzu lost connection: Disconnected
+[23:15:21] [Server thread/INFO]: GabeGabitzu left the game
+[23:15:57] [Server thread/INFO]: mach3tryhard[/86.127.151.84:64966] logged in with entity id 287571 at (-0.06428711674602246, 67.0, -170.0355666323694)
+[23:15:57] [Server thread/INFO]: mach3tryhard joined the game
+[23:16:10] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
+[23:16:10] [Server thread/INFO]: Pandalf_ left the game
+[23:16:31] [Server thread/INFO]: Pandalf_[/82.76.173.82:64666] logged in with entity id 288475 at (22.06382931459879, 68.0, -210.19321423534547)
+[23:16:31] [Server thread/INFO]: Pandalf_ joined the game
+[23:17:33] [Server thread/INFO]: [Not Secure] <Pandalf_> parca in martie
+[23:18:57] [Server thread/INFO]: [Not Secure] <Pandalf_> ce ai facut?
+[23:23:13] [Server thread/INFO]: [Not Secure] <Pandalf_> ce sa ti aduc?
+[23:23:22] [Server thread/INFO]: [Not Secure] <Pandalf_> ok
+[23:23:45] [Server thread/INFO]: [Not Secure] <Pandalf_> 31 da?
+[23:27:00] [Server thread/INFO]: [Not Secure] <Pandalf_> its ball in
+[23:34:54] [Server thread/INFO]: [Not Secure] <Pandalf_> si eu ma gandeam la pokimane
+[23:35:01] [Server thread/INFO]: [Not Secure] <Pandalf_> am pokimane tier 3 subscription
+[23:35:04] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=69, z=-204} gp{x=2, y=66, z=-205}
+[23:35:04] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=2, y=69, z=-204} gp{x=2, y=66, z=-205}
+[23:36:14] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=66, z=-148} gp{x=3, y=68, z=-153}
+[23:36:14] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=66, z=-148} gp{x=3, y=68, z=-153}
+[23:36:14] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=66, z=-148} gp{x=3, y=68, z=-153}
+[23:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=66, z=-212} gp{x=3, y=65, z=-211}
+[23:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=3, y=66, z=-212} gp{x=3, y=65, z=-211}
+[23:39:52] [Server thread/INFO]: [Not Secure] <Pandalf_> sadistii drq
+[23:40:37] [Server thread/INFO]: [Not Secure] <Pandalf_> brb
+[23:41:16] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=4, y=67, z=-155} gp{x=4, y=67, z=-157}
+[23:41:16] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=4, y=67, z=-155} gp{x=4, y=67, z=-157}
+[23:41:16] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=4, y=67, z=-155} gp{x=4, y=67, z=-157}
+[23:41:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=6, y=69, z=-170} gp{x=6, y=68, z=-170}
+[23:41:55] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=6, y=69, z=-170} gp{x=6, y=68, z=-170}
+[23:44:15] [Server thread/INFO]: ForTheRNG lost connection: Disconnected
+[23:44:15] [Server thread/INFO]: ForTheRNG left the game
+[23:44:56] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[23:44:56] [Server thread/INFO]: mach3tryhard left the game
+[23:45:07] [Server thread/INFO]: [Not Secure] [Server] pandalf inchid
+[23:45:19] [Server thread/INFO]: Stopping the server
+[23:45:19] [Server thread/INFO]: Stopping server
+[23:45:19] [Server thread/INFO]: Saving players
+[23:45:19] [Server thread/INFO]: Pandalf_ lost connection: Server closed
+[23:45:19] [Server thread/INFO]: Pandalf_ left the game
+[23:45:19] [Server thread/INFO]: Saving worlds
+[23:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -65,9 +65,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-02-27 23:01:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2023-02-25 22:09:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-25 22:18:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2023-02-27 22:13:54 +0200"
     },
     "done": true
   },
@@ -229,6 +247,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-02-27 23:03:46 +0200",
       "chicken": "2023-02-25 21:16:02 +0200",
       "cooked_mutton": "2023-02-25 22:12:49 +0200",
       "sweet_berries": "2023-02-26 00:11:33 +0200",
@@ -294,6 +313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-02-25 22:18:53 +0200"
@@ -318,9 +343,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2023-02-27 22:13:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2023-02-25 22:09:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
     },
     "done": true
   },
@@ -384,9 +427,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2023-02-25 21:21:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
     },
     "done": true
   },
@@ -534,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2023-02-25 21:26:32 +0200"
@@ -543,6 +604,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2023-02-25 22:09:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
     },
     "done": true
   },
@@ -561,9 +628,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-02-25 21:34:52 +0200",
-      "minecraft:zombie": "2023-02-25 21:20:08 +0200"
+      "minecraft:zombie": "2023-02-25 21:20:08 +0200",
+      "minecraft:drowned": "2023-02-27 22:52:12 +0200"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-02-27 23:01:35 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -616,6 +690,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-02-25 21:18:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
     },
     "done": true
   },
@@ -673,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-02-27 23:03:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2023-02-25 21:18:18 +0200"
@@ -724,6 +810,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-02-25 22:03:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-02-27 23:03:52 +0200"
     },
     "done": true
   },
@@ -877,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2023-02-25 22:38:04 +0200"
@@ -967,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-02-27 22:29:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2023-02-25 21:20:57 +0200"
@@ -1000,6 +1104,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2023-02-25 21:21:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
     },
     "done": true
   },
@@ -1037,6 +1147,7 @@
     "criteria": {
       "minecraft:beach": "2023-02-25 21:10:01 +0200",
       "minecraft:river": "2023-02-25 21:10:26 +0200",
+      "minecraft:stony_shore": "2023-02-27 23:03:47 +0200",
       "minecraft:forest": "2023-02-25 21:09:49 +0200",
       "minecraft:plains": "2023-02-25 21:11:03 +0200"
     },
@@ -1114,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-02-27 23:03:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-02-25 21:10:22 +0200"
@@ -1156,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-02-27 23:03:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2023-02-25 21:24:38 +0200"
@@ -1192,6 +1315,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-02-27 23:03:02 +0200",
+      "minecraft:warped_forest": "2023-02-27 23:01:36 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-02-25 22:18:53 +0200"
@@ -1225,6 +1355,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2023-02-25 21:15:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-02-27 23:04:59 +0200"
     },
     "done": true
   },
