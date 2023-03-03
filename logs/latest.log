@@ -1,62 +1,21 @@
-[19:16:40] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[19:16:42] [ServerMain/INFO]: Building unoptimized datafixer
-[19:16:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:16:45] [ServerMain/INFO]: Loaded 7 recipes
-[19:16:46] [ServerMain/INFO]: Loaded 1179 advancements
-[19:16:46] [Server thread/INFO]: Starting minecraft server version 1.19.3
-[19:16:46] [Server thread/INFO]: Loading properties
-[19:16:46] [Server thread/INFO]: Default game type: SURVIVAL
-[19:16:46] [Server thread/INFO]: Generating keypair
-[19:16:47] [Server thread/INFO]: Starting Minecraft server on *:6969
-[19:16:47] [Server thread/INFO]: Using default channel type
-[19:16:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:47] [Server thread/INFO]: Preparing level "world"
-[19:16:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:16:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:16:51] [Worker-Main-15/INFO]: Preparing spawn area: 13%
-[19:16:51] [Worker-Main-12/INFO]: Preparing spawn area: 61%
-[19:16:52] [Server thread/INFO]: Time elapsed: 3762 ms
-[19:16:52] [Server thread/INFO]: Done (4.789s)! For help, type "help"
-[19:19:43] [Server thread/INFO]: Pandalf_[/82.76.173.82:61013] logged in with entity id 678 at (16.710931562438336, 69.7675463213696, -112.36259408377134)
-[19:19:43] [Server thread/INFO]: Pandalf_ joined the game
-[19:31:36] [Server thread/INFO]: [Not Secure] <Pandalf_> pussy
-[19:31:37] [Server thread/INFO]: [Not Secure] <Pandalf_> cat
-[20:51:41] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[20:51:41] [Server thread/INFO]: Pandalf_ left the game
-[20:51:43] [Server thread/INFO]: Pandalf_[/82.76.173.82:49271] logged in with entity id 36341 at (-249.16138505974135, -40.0, -243.60718430543832)
-[20:51:43] [Server thread/INFO]: Pandalf_ joined the game
-[21:12:10] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[21:12:10] [Server thread/INFO]: Pandalf_ left the game
-[21:12:11] [Server thread/INFO]: Pandalf_[/82.76.173.82:49455] logged in with entity id 46414 at (-273.27976590532666, 71.0, -441.7341779558789)
-[21:12:11] [Server thread/INFO]: Pandalf_ joined the game
-[22:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[22:08:14] [Server thread/INFO]: Pandalf_ has made the advancement [Sound of Music]
-[22:24:49] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=9347, y=64, z=5956} gp{x=9347, y=62, z=5956}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=9336, y=70, z=5971} gp{x=9335, y=65, z=5971}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=9336, y=70, z=5971} gp{x=9335, y=65, z=5971}
-[22:26:22] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=9336, y=65, z=5971} gp{x=9336, y=64, z=5971}
-[22:26:22] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=9336, y=65, z=5971} gp{x=9336, y=64, z=5971}
-[22:48:44] [Worker-Main-12/WARN]: Skipping Entity with id minecraft:camel
-[22:49:29] [Worker-Main-3/WARN]: Skipping Entity with id minecraft:camel
-[22:50:21] [Server thread/INFO]: Pandalf_ lost connection: Disconnected
-[22:50:21] [Server thread/INFO]: Pandalf_ left the game
-[23:14:13] [Server thread/INFO]: There are 0 of a max of 10 players online: 
-[23:14:18] [Server thread/INFO]: Stopping the server
-[23:14:18] [Server thread/INFO]: Stopping server
-[23:14:18] [Server thread/INFO]: Saving players
-[23:14:18] [Server thread/INFO]: Saving worlds
-[23:14:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
+[00:03:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=88, y=28, z=68} gp{x=86, y=30, z=68}
+[00:03:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=88, y=28, z=68} gp{x=86, y=30, z=68}
+[00:49:20] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
+[00:49:20] [Server thread/INFO]: mach3tryhard left the game
+[11:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36696806ms or 733936 ticks behind
+[11:09:38] [Server thread/INFO]: Stopping server
+[11:09:38] [Server thread/INFO]: Saving players
+[11:09:38] [Server thread/INFO]: Saving worlds
+[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
