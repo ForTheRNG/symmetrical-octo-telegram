@@ -1,21 +1,11 @@
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:00:50] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=78, y=20, z=23} gp{x=80, y=19, z=24}
-[00:03:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=88, y=28, z=68} gp{x=86, y=30, z=68}
-[00:03:47] [Server thread/WARN]: Mismatch in destroy block pos: gp{x=88, y=28, z=68} gp{x=86, y=30, z=68}
-[00:49:20] [Server thread/INFO]: mach3tryhard lost connection: Disconnected
-[00:49:20] [Server thread/INFO]: mach3tryhard left the game
-[11:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36696806ms or 733936 ticks behind
-[11:09:38] [Server thread/INFO]: Stopping server
-[11:09:38] [Server thread/INFO]: Saving players
-[11:09:38] [Server thread/INFO]: Saving worlds
-[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:16:02] [Server thread/INFO]: Stopping the server
+[01:16:02] [Server thread/INFO]: Stopping server
+[01:16:02] [Server thread/INFO]: Saving players
+[01:16:02] [Server thread/INFO]: Saving worlds
+[01:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:16:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:16:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:16:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:16:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:16:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
